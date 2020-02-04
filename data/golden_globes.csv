@@ -1,0 +1,2753 @@
+,category,year,win,entity
+0,best_picture - drama,2020,True,1917
+1,best_picture - drama,2020,False,"Irishman,  The"
+2,best_picture - drama,2020,False,Joker
+3,best_picture - drama,2020,False,Marriage Story
+4,best_picture - drama,2020,False,"Two Popes,  The"
+5,best_picture - comedy,2020,True,Once Upon a Time...in Hollywood
+6,best_picture - comedy,2020,False,Jojo Rabbit
+7,best_picture - comedy,2020,False,Knives Out
+8,best_picture - comedy,2020,False,Rocketman
+9,best_picture - comedy,2020,False,Dolemite Is My Name
+10,best_actress_drama,2020,True,Renée Zellweger
+11,best_actress_drama,2020,False,Scarlett Johansson
+12,best_actress_drama,2020,False,Saoirse Ronan
+13,best_actress_drama,2020,False,Charlize Theron
+14,best_actress_drama,2020,False,Cynthia Erivo
+15,best_actor_drama,2020,True,Joaquin Phoenix
+16,best_actor_drama,2020,False,Christian Bale
+17,best_actor_drama,2020,False,Antonio Banderas
+18,best_actor_drama,2020,False,Adam Driver
+19,best_actor_drama,2020,False,Jonathan Pryce
+20,best_actress_comedy,2020,True,Awkwafina
+21,best_actress_comedy,2020,False,Ana de Armas
+22,best_actress_comedy,2020,False,Cate Blanchett
+23,best_actress_comedy,2020,False,Beanie Feldstein
+24,best_actress_comedy,2020,False,Emma Thompson
+25,best_actor_comedy,2020,True,Taron Egerton
+26,best_actor_comedy,2020,False,Daniel Craig
+27,best_actor_comedy,2020,False,Roman Griffin Davis
+28,best_actor_comedy,2020,False,Leonardo DiCaprio
+29,best_actor_comedy,2020,False,Eddie Murphy
+30,support_actress,2020,True,Laura Dern
+31,support_actress,2020,False,Annette Bening
+32,support_actress,2020,False,Jennifer Lopez
+33,support_actress,2020,False,Margot Robbie
+34,support_actress,2020,False,Kathy Bates
+35,support_actor,2020,True,Brad Pitt
+36,support_actor,2020,False,Tom Hanks
+37,support_actor,2020,False,Anthony Hopkins
+38,support_actor,2020,False,Al Pacino
+39,support_actor,2020,False,Joe Pesci
+0,best_picture - drama,2019,True,Bohemian Rhapsody
+1,best_picture - drama,2019,False,"Star Is Born,  A (2018)"
+2,best_picture - drama,2019,False,Black Panther
+3,best_picture - drama,2019,False,BlacKkKlansman
+4,best_picture - drama,2019,False,If Beale Street Could Talk
+5,best_picture - comedy,2019,True,Green Book
+6,best_picture - comedy,2019,False,Crazy Rich Asians
+7,best_picture - comedy,2019,False,"Favourite,  The"
+8,best_picture - comedy,2019,False,Mary Poppins Returns
+9,best_picture - comedy,2019,False,Vice
+10,best_actress_drama,2019,True,Glenn Close
+11,best_actress_drama,2019,False,Lady Gaga
+12,best_actress_drama,2019,False,Nicole Kidman
+13,best_actress_drama,2019,False,Melissa McCarthy
+14,best_actress_drama,2019,False,Rosamund Pike
+15,best_actor_drama,2019,True,Rami Malek
+16,best_actor_drama,2019,False,John David Washington
+17,best_actor_drama,2019,False,Bradley Cooper
+18,best_actor_drama,2019,False,Willem Dafoe
+19,best_actor_drama,2019,False,Lucas Hedges
+20,best_actress_comedy,2019,True,Olivia Colman
+21,best_actress_comedy,2019,False,Emily Blunt
+22,best_actress_comedy,2019,False,Elsie Fisher
+23,best_actress_comedy,2019,False,Charlize Theron
+24,best_actress_comedy,2019,False,Constance Wu
+25,best_actor_comedy,2019,True,Christian Bale
+26,best_actor_comedy,2019,False,Lin-Manuel Miranda
+27,best_actor_comedy,2019,False,Viggo Mortensen
+28,best_actor_comedy,2019,False,Robert Redford
+29,best_actor_comedy,2019,False,John C. Reilly
+30,support_actress,2019,True,Regina King
+31,support_actress,2019,False,Claire Foy
+32,support_actress,2019,False,Emma Stone
+33,support_actress,2019,False,Rachel Weisz
+34,support_actress,2019,False,Amy Adams
+35,support_actor,2019,True,Mahershala Ali
+36,support_actor,2019,False,Timothée Chalamet
+37,support_actor,2019,False,Adam Driver
+38,support_actor,2019,False,Richard E. Grant
+39,support_actor,2019,False,Sam Rockwell
+0,best_picture - drama,2018,True,"Three Billboards Outside Ebbing,  Missouri"
+1,best_picture - drama,2018,False,Dunkirk
+2,best_picture - drama,2018,False,The Post
+3,best_picture - drama,2018,False,The Shape of Water
+4,best_picture - drama,2018,False,Call Me By Your Name
+5,best_picture - comedy,2018,True,Lady Bird
+6,best_picture - comedy,2018,False,"Disaster Artist,  The "
+7,best_picture - comedy,2018,False,Get Out
+8,best_picture - comedy,2018,False,The Greatest Showman
+9,best_picture - comedy,2018,False,"I,  Tonya"
+10,best_actress_drama,2018,True,Frances McDormand
+11,best_actress_drama,2018,False,Jessica Chastain
+12,best_actress_drama,2018,False,Sally Hawkins
+13,best_actress_drama,2018,False,Meryl Streep
+14,best_actress_drama,2018,False,Michelle Williams
+15,best_actor_drama,2018,True,Gary Oldman
+16,best_actor_drama,2018,False,Timothée Chalamet
+17,best_actor_drama,2018,False,Daniel Day-Lewis
+18,best_actor_drama,2018,False,Tom Hanks
+19,best_actor_drama,2018,False,Denzel Washington
+20,best_actress_comedy,2018,True,Saoirse Ronan
+21,best_actress_comedy,2018,False,Emma Stone
+22,best_actress_comedy,2018,False,Judi Dench
+23,best_actress_comedy,2018,False,Helen Mirren
+24,best_actress_comedy,2018,False,Margot Robbie
+25,best_actor_comedy,2018,True,James Franco
+26,best_actor_comedy,2018,False,Steve Carell
+27,best_actor_comedy,2018,False,Ansel Elgort
+28,best_actor_comedy,2018,False,Hugh Jackman
+29,best_actor_comedy,2018,False,Daniel Kaluuya
+30,support_actress,2018,True,Allison Janney
+31,support_actress,2018,False,Octavia Spencer
+32,support_actress,2018,False,Mary J. Blige
+33,support_actress,2018,False,Hong Chau
+34,support_actress,2018,False,Laurie Metcalf
+35,support_actor,2018,True,Sam Rockwell
+36,support_actor,2018,False,Willem Dafoe
+37,support_actor,2018,False,Armie Hammer
+38,support_actor,2018,False,Richard Jenkins
+39,support_actor,2018,False,Christopher Plummer
+0,best_picture - drama,2017,True,Moonlight
+1,best_picture - drama,2017,False,Hacksaw Ridge
+2,best_picture - drama,2017,False,Hell or High Water
+3,best_picture - drama,2017,False,Lion
+4,best_picture - drama,2017,False,Manchester by the Sea
+5,best_picture - comedy,2017,True,La La Land
+6,best_picture - comedy,2017,False,Deadpool
+7,best_picture - comedy,2017,False,Florence Foster Jenkins
+8,best_picture - comedy,2017,False,Sing Street
+9,best_picture - comedy,2017,False,20th Century Women
+10,best_actress_drama,2017,True,Isabelle Huppert
+11,best_actress_drama,2017,False,Jessica Chastain
+12,best_actress_drama,2017,False,Ruth Negga
+13,best_actress_drama,2017,False,Natalie Portman
+14,best_actress_drama,2017,False,Amy Adams
+15,best_actor_drama,2017,True,Casey Affleck
+16,best_actor_drama,2017,False,Joel Edgerton
+17,best_actor_drama,2017,False,Andrew Garfield
+18,best_actor_drama,2017,False,Viggo Mortensen
+19,best_actor_drama,2017,False,Denzel Washington
+20,best_actress_comedy,2017,True,Emma Stone
+21,best_actress_comedy,2017,False,Annette Bening
+22,best_actress_comedy,2017,False,Lily Collins
+23,best_actress_comedy,2017,False,Hailee Steinfeld
+24,best_actress_comedy,2017,False,Meryl Streep
+25,best_actor_comedy,2017,True,Ryan Gosling
+26,best_actor_comedy,2017,False,Hugh Grant
+27,best_actor_comedy,2017,False,Jonah Hill
+28,best_actor_comedy,2017,False,Ryan Reynolds
+29,best_actor_comedy,2017,False,Colin Farrell
+30,support_actress,2017,True,Viola Davis
+31,support_actress,2017,False,Naomie Harris
+32,support_actress,2017,False,Nicole Kidman
+33,support_actress,2017,False,Octavia Spencer
+34,support_actress,2017,False,Michelle Williams
+35,support_actor,2017,True,Aaron Taylor-Johnson
+36,support_actor,2017,False,Jeff Bridges
+37,support_actor,2017,False,Simon Helberg
+38,support_actor,2017,False,Dev Patel
+39,support_actor,2017,False,Mahershala Ali
+0,best_picture - drama,2016,True,The Revenant
+1,best_picture - drama,2016,False,Carol
+2,best_picture - drama,2016,False,Mad Max: Fury Road
+3,best_picture - drama,2016,False,Room
+4,best_picture - drama,2016,False,Spotlight
+5,best_picture - comedy,2016,True,The Martian
+6,best_picture - comedy,2016,False,Trainwreck
+7,best_picture - comedy,2016,False,Joy
+8,best_picture - comedy,2016,False,Spy
+9,best_picture - comedy,2016,False,"Big Short,  The"
+10,best_actress_drama,2016,True,Brie Larson
+11,best_actress_drama,2016,False,Alicia Vikander
+12,best_actress_drama,2016,False,Saoirse Ronan
+13,best_actress_drama,2016,False,Cate Blanchett
+14,best_actress_drama,2016,False,Rooney Mara
+15,best_actor_drama,2016,True,Leonardo DiCaprio
+16,best_actor_drama,2016,False,Will Smith
+17,best_actor_drama,2016,False,Michael Fassbender
+18,best_actor_drama,2016,False,Eddie Redmayne
+19,best_actor_drama,2016,False,Bryan Cranston
+20,best_actress_comedy,2016,True,Jennifer Lawrence
+21,best_actress_comedy,2016,False,Maggie Smith
+22,best_actress_comedy,2016,False,Amy Schumer
+23,best_actress_comedy,2016,False,Lily Tomlin
+24,best_actress_comedy,2016,False,Melissa McCarthy
+25,best_actor_comedy,2016,True,Matt Damon
+26,best_actor_comedy,2016,False,Al Pacino
+27,best_actor_comedy,2016,False,Mark Ruffalo
+28,best_actor_comedy,2016,False,Christian Bale
+29,best_actor_comedy,2016,False,Steve Carell
+30,support_actress,2016,True,Kate Winslet
+31,support_actress,2016,False,Jane Fonda
+32,support_actress,2016,False,Alicia Vikander
+33,support_actress,2016,False,Jennifer Jason Leigh
+34,support_actress,2016,False,Helen Mirren
+35,support_actor,2016,True,Sylvester Stallone
+36,support_actor,2016,False,Michael Shannon
+37,support_actor,2016,False,Idris Elba
+38,support_actor,2016,False,Mark Rylance
+39,support_actor,2016,False,Paul Dano
+0,best_picture - drama,2015,True,Boyhood
+1,best_picture - drama,2015,False,Foxcatcher
+2,best_picture - drama,2015,False,The Theory of Everything
+3,best_picture - drama,2015,False,The Imitation Game
+4,best_picture - drama,2015,False,Selma
+5,best_picture - comedy,2015,True,"Grand Budapest Hotel,  The"
+6,best_picture - comedy,2015,False,Into the Woods
+7,best_picture - comedy,2015,False,St. Vincent
+8,best_picture - comedy,2015,False,Pride
+9,best_picture - comedy,2015,False,Birdman
+10,best_actress_drama,2015,True,Julianne Moore
+11,best_actress_drama,2015,False,Jennifer Aniston
+12,best_actress_drama,2015,False,Felicity Jones
+13,best_actress_drama,2015,False,Rosamund Pike
+14,best_actress_drama,2015,False,Reese Witherspoon
+15,best_actor_drama,2015,True,Eddie Redmayne
+16,best_actor_drama,2015,False,Benedict Cumberbatch
+17,best_actor_drama,2015,False,David Oyelowo
+18,best_actor_drama,2015,False,Steve Carell
+19,best_actor_drama,2015,False,Jake Gyllenhaal
+20,best_actress_comedy,2015,True,Amy Adams
+21,best_actress_comedy,2015,False,Emily Blunt
+22,best_actress_comedy,2015,False,Helen Mirren
+23,best_actress_comedy,2015,False,Julianne Moore
+24,best_actress_comedy,2015,False,Quvenzhané Wallis
+25,best_actor_comedy,2015,True,Michael Keaton
+26,best_actor_comedy,2015,False,Ralph Fiennes
+27,best_actor_comedy,2015,False,Christoph Waltz
+28,best_actor_comedy,2015,False,Bill Murray
+29,best_actor_comedy,2015,False,Joaquin Phoenix
+30,support_actress,2015,True,Patricia Arquette
+31,support_actress,2015,False,Emma Stone
+32,support_actress,2015,False,Keira Knightley
+33,support_actress,2015,False,Meryl Streep
+34,support_actress,2015,False,Jessica Chastain
+35,support_actor,2015,True,J.K. Simmons
+36,support_actor,2015,False,Mark Ruffalo
+37,support_actor,2015,False,Robert Duvall
+38,support_actor,2015,False,Ethan Hawke
+39,support_actor,2015,False,Edward Norton
+0,best_picture - drama,2014,True,12 Years a Slave
+1,best_picture - drama,2014,False,Captain Phillips
+2,best_picture - drama,2014,False,Gravity
+3,best_picture - drama,2014,False,Philomena
+4,best_picture - drama,2014,False,Rush
+5,best_picture - comedy,2014,True,American Hustle
+6,best_picture - comedy,2014,False,"Wolf of Wall Street,  The"
+7,best_picture - comedy,2014,False,Nebraska
+8,best_picture - comedy,2014,False,Inside Llewyn Davis
+9,best_picture - comedy,2014,False,Her
+10,best_actress_drama,2014,True,Cate Blanchett
+11,best_actress_drama,2014,False,Kate Winslet
+12,best_actress_drama,2014,False,Emma Thompson
+13,best_actress_drama,2014,False,Sandra Bullock
+14,best_actress_drama,2014,False,Judi Dench
+15,best_actor_drama,2014,True,Matthew McConaughey
+16,best_actor_drama,2014,False,Chiwetel Ejiofor
+17,best_actor_drama,2014,False,Tom Hanks
+18,best_actor_drama,2014,False,Idris Elba
+19,best_actor_drama,2014,False,Robert Redford
+20,best_actress_comedy,2014,True,Amy Adams
+21,best_actress_comedy,2014,False,Meryl Streep
+22,best_actress_comedy,2014,False,Julie Delpy
+23,best_actress_comedy,2014,False,Julia Louis-Dreyfus
+24,best_actress_comedy,2014,False,Greta Gerwig
+25,best_actor_comedy,2014,True,Leonardo DiCaprio
+26,best_actor_comedy,2014,False,Joaquin Phoenix
+27,best_actor_comedy,2014,False,Christian Bale
+28,best_actor_comedy,2014,False,Bruce Dern
+29,best_actor_comedy,2014,False,Oscar Isaac
+30,support_actress,2014,True,Jennifer Lawrence
+31,support_actress,2014,False,Lupita Nyong'o
+32,support_actress,2014,False,June Squibb
+33,support_actress,2014,False,Julia Roberts
+34,support_actress,2014,False,Sally Hawkins
+35,support_actor,2014,True,Jared Leto
+36,support_actor,2014,False,Michael Fassbender
+37,support_actor,2014,False,Barkhad Abdi
+38,support_actor,2014,False,Daniel Brühl
+39,support_actor,2014,False,Bradley Cooper
+0,best_picture - drama,2013,True,Argo
+1,best_picture - drama,2013,False,Django Unchained
+2,best_picture - drama,2013,False,Life of Pi
+3,best_picture - drama,2013,False,Lincoln
+4,best_picture - drama,2013,False,Zero Dark Thirty  
+5,best_picture - comedy,2013,True,Les Misérables
+6,best_picture - comedy,2013,False,Silver Linings Playbook
+7,best_picture - comedy,2013,False,"Best Exotic Marigold Hotel,  The"
+8,best_picture - comedy,2013,False,Moonrise Kingdom
+9,best_picture - comedy,2013,False,Salmon Fishing in the Yemen
+10,best_actress_drama,2013,True,Jessica Chastain
+11,best_actress_drama,2013,False,Naomi Watts
+12,best_actress_drama,2013,False,Rachel Weisz
+13,best_actress_drama,2013,False,Marion Cotillard
+14,best_actress_drama,2013,False,Helen Mirren
+15,best_actor_drama,2013,True,Daniel Day-Lewis
+16,best_actor_drama,2013,False,Richard Gere
+17,best_actor_drama,2013,False,Joaquin Phoenix
+18,best_actor_drama,2013,False,Denzel Washington
+19,best_actor_drama,2013,False,John Hawkes
+20,best_actress_comedy,2013,True,Jennifer Lawrence
+21,best_actress_comedy,2013,False,Emily Blunt
+22,best_actress_comedy,2013,False,Judi Dench
+23,best_actress_comedy,2013,False,Maggie Smith
+24,best_actress_comedy,2013,False,Meryl Streep
+25,best_actor_comedy,2013,True,Hugh Jackman
+26,best_actor_comedy,2013,False,Jack Black
+27,best_actor_comedy,2013,False,Ewan McGregor
+28,best_actor_comedy,2013,False,Bill Murray
+29,best_actor_comedy,2013,False,Bradley Cooper
+30,support_actress,2013,True,Anne Hathaway
+31,support_actress,2013,False,Helen Hunt
+32,support_actress,2013,False,Nicole Kidman
+33,support_actress,2013,False,Sally Field
+34,support_actress,2013,False,Amy Adams
+35,support_actor,2013,True,Christoph Waltz
+36,support_actor,2013,False,Alan Arkin
+37,support_actor,2013,False,Leonardo DiCaprio
+38,support_actor,2013,False,Tommy Lee Jones
+39,support_actor,2013,False,Philip Seymour Hoffman
+0,best_picture - drama,2012,True,The Descendants
+1,best_picture - drama,2012,False,Moneyball
+2,best_picture - drama,2012,False,War Horse
+3,best_picture - drama,2012,False,The Help
+4,best_picture - drama,2012,False,Hugo
+5,best_picture - drama,2012,False,The Ides of March
+6,best_picture - comedy,2012,True,The Artist
+7,best_picture - comedy,2012,False,50/50
+8,best_picture - comedy,2012,False,Bridesmaids
+9,best_picture - comedy,2012,False,Midnight In Paris
+10,best_picture - comedy,2012,False,My Week With Marilyn
+11,best_picture - comedy,2012,False,nan
+12,best_actress_drama,2012,True,Meryl Streep
+13,best_actress_drama,2012,False,Glenn Close
+14,best_actress_drama,2012,False,Viola Davis
+15,best_actress_drama,2012,False,Rooney Mara
+16,best_actress_drama,2012,False,Tilda Swinton
+17,best_actress_drama,2012,False,nan
+18,best_actor_drama,2012,True,George Clooney
+19,best_actor_drama,2012,False,Ryan Gosling
+20,best_actor_drama,2012,False,Brad Pitt
+21,best_actor_drama,2012,False,Leonardo DiCaprio
+22,best_actor_drama,2012,False,Michael Fassbender
+23,best_actor_drama,2012,False,nan
+24,best_actress_comedy,2012,True,Michelle Williams
+25,best_actress_comedy,2012,False,Kate Winslet
+26,best_actress_comedy,2012,False,Jodie Foster
+27,best_actress_comedy,2012,False,Charlize Theron
+28,best_actress_comedy,2012,False,Kristen Wiig
+29,best_actress_comedy,2012,False,nan
+30,best_actor_comedy,2012,True,Jean Dujardin
+31,best_actor_comedy,2012,False,Brendan Gleeson
+32,best_actor_comedy,2012,False,Joseph Gordon-Levitt
+33,best_actor_comedy,2012,False,Ryan Gosling
+34,best_actor_comedy,2012,False,Owen Wilson
+35,best_actor_comedy,2012,False,na
+36,support_actress,2012,True,Octavia Spencer
+37,support_actress,2012,False,Shailene Woodley
+38,support_actress,2012,False,Bérénice Bejo
+39,support_actress,2012,False,Jessica Chastain
+40,support_actress,2012,False,Janet McTeer
+41,support_actress,2012,False,nan
+42,support_actor,2012,True,Christopher Plummer
+43,support_actor,2012,False,Kenneth Branagh
+44,support_actor,2012,False,Albert Brooks
+45,support_actor,2012,False,Jonah Hill
+46,support_actor,2012,False,Viggo Mortensen
+47,support_actor,2012,False,nan
+0,best_picture - drama,2011,True,The Social Network
+1,best_picture - drama,2011,False,Black Swan
+2,best_picture - drama,2011,False,"Fighter,  The"
+3,best_picture - drama,2011,False,Inception
+4,best_picture - drama,2011,False,The King's Speech
+5,best_picture - comedy,2011,True,"Kids Are All Right,  The"
+6,best_picture - comedy,2011,False,Burlesque
+7,best_picture - comedy,2011,False,Red
+8,best_picture - comedy,2011,False,"Tourist,  The"
+9,best_picture - comedy,2011,False,Alice in Wonderland
+10,best_actress_drama,2011,True,Natalie Portman
+11,best_actress_drama,2011,False,Nicole Kidman
+12,best_actress_drama,2011,False,Jennifer Lawrence
+13,best_actress_drama,2011,False,Michelle Williams
+14,best_actress_drama,2011,False,Halle Berry
+15,best_actor_drama,2011,True,Colin Firth
+16,best_actor_drama,2011,False,Jesse Eisenberg
+17,best_actor_drama,2011,False,James Franco
+18,best_actor_drama,2011,False,Ryan Gosling
+19,best_actor_drama,2011,False,Mark Wahlberg
+20,best_actress_comedy,2011,True,Annette Bening
+21,best_actress_comedy,2011,False,Anne Hathaway
+22,best_actress_comedy,2011,False,Angelina Jolie
+23,best_actress_comedy,2011,False,Julianne Moore
+24,best_actress_comedy,2011,False,Emma Stone
+25,best_actor_comedy,2011,True,Paul Giamatti
+26,best_actor_comedy,2011,False,Johnny Depp
+27,best_actor_comedy,2011,False,Johnny Depp
+28,best_actor_comedy,2011,False,Jake Gyllenhaal
+29,best_actor_comedy,2011,False,Kevin Spacey
+30,support_actress,2011,True,Melissa Leo
+31,support_actress,2011,False,Helena Bonham Carter
+32,support_actress,2011,False,Mila Kunis
+33,support_actress,2011,False,Jacki Weaver
+34,support_actress,2011,False,Amy Adams
+35,support_actor,2011,True,Christian Bale
+36,support_actor,2011,False,Michael Douglas
+37,support_actor,2011,False,Andrew Garfield
+38,support_actor,2011,False,Jeremy Renner
+39,support_actor,2011,False,Geoffrey Rush
+0,best_picture - drama,2010,True,Avatar
+1,best_picture - drama,2010,False,"Hurt Locker,  The"
+2,best_picture - drama,2010,False,Inglourious Basterds
+3,best_picture - drama,2010,False,Precious: Based On The Novel Push By Sapphire
+4,best_picture - drama,2010,False,Up In The Air
+5,best_picture - comedy,2010,True,"Hangover,  The"
+6,best_picture - comedy,2010,False,It's Complicated
+7,best_picture - comedy,2010,False,Julie & Julia
+8,best_picture - comedy,2010,False,Nine
+9,best_picture - comedy,2010,False,(500) Days of Summer
+10,best_actress_drama,2010,True,Sandra Bullock
+11,best_actress_drama,2010,False,Helen Mirren
+12,best_actress_drama,2010,False,Carey Mulligan
+13,best_actress_drama,2010,False,Gabourey Sidibe
+14,best_actress_drama,2010,False,Emily Blunt
+15,best_actor_drama,2010,True,Jeff Bridges
+16,best_actor_drama,2010,False,George Clooney
+17,best_actor_drama,2010,False,Colin Firth
+18,best_actor_drama,2010,False,Morgan Freeman
+19,best_actor_drama,2010,False,Tobey Maguire
+20,best_actress_comedy,2010,True,Meryl Streep
+21,best_actress_comedy,2010,False,Sandra Bullock
+22,best_actress_comedy,2010,False,Marion Cotillard
+23,best_actress_comedy,2010,False,Julia Roberts
+24,best_actress_comedy,2010,False,Meryl Streep
+25,best_actor_comedy,2010,True,Robert Downey Jr.
+26,best_actor_comedy,2010,False,Daniel Day-Lewis
+27,best_actor_comedy,2010,False,Joseph Gordon-Levitt
+28,best_actor_comedy,2010,False,Michael Stuhlbarg
+29,best_actor_comedy,2010,False,Matt Damon
+30,support_actress,2010,True,Mo'Nique
+31,support_actress,2010,False,Penélope Cruz
+32,support_actress,2010,False,Vera Farmiga
+33,support_actress,2010,False,Anna Kendrick
+34,support_actress,2010,False,Julianne Moore
+35,support_actor,2010,True,Christoph Waltz
+36,support_actor,2010,False,Woody Harrelson
+37,support_actor,2010,False,Christopher Plummer
+38,support_actor,2010,False,Stanley Tucci
+39,support_actor,2010,False,Matt Damon
+0,best_picture - drama,2009,True,Slumdog Millionaire
+1,best_picture - drama,2009,False,Frost/Nixon
+2,best_picture - drama,2009,False,"Reader,  The"
+3,best_picture - drama,2009,False,Revolutionary Road
+4,best_picture - drama,2009,False,The Curious Case of Benjamin Button
+5,best_picture - comedy,2009,True,Vicky Cristina Barcelona
+6,best_picture - comedy,2009,False,Burn After Reading
+7,best_picture - comedy,2009,False,Happy-Go-Lucky
+8,best_picture - comedy,2009,False,In Bruges
+9,best_picture - comedy,2009,False,Mamma Mia!
+10,best_actress_drama,2009,True,Kate Winslet
+11,best_actress_drama,2009,False,Meryl Streep
+12,best_actress_drama,2009,False,Anne Hathaway
+13,best_actress_drama,2009,False,Angelina Jolie
+14,best_actress_drama,2009,False,Kristin Scott Thomas
+15,best_actor_drama,2009,True,Mickey Rourke
+16,best_actor_drama,2009,False,Leonardo DiCaprio
+17,best_actor_drama,2009,False,Frank Langella
+18,best_actor_drama,2009,False,Sean Penn
+19,best_actor_drama,2009,False,Brad Pitt
+20,best_actress_comedy,2009,True,Sally Hawkins
+21,best_actress_comedy,2009,False,Rebecca Hall
+22,best_actress_comedy,2009,False,Frances McDormand
+23,best_actress_comedy,2009,False,Meryl Streep
+24,best_actress_comedy,2009,False,Emma Thompson
+25,best_actor_comedy,2009,True,Colin Farrell
+26,best_actor_comedy,2009,False,Javier Bardem
+27,best_actor_comedy,2009,False,James Franco
+28,best_actor_comedy,2009,False,Brendan Gleeson
+29,best_actor_comedy,2009,False,Dustin Hoffman
+30,support_actress,2009,True,Kate Winslet
+31,support_actress,2009,False,Penélope Cruz
+32,support_actress,2009,False,Viola Davis
+33,support_actress,2009,False,Marisa Tomei
+34,support_actress,2009,False,Amy Adams
+35,support_actor,2009,True,Heath Ledger
+36,support_actor,2009,False,Tom Cruise
+37,support_actor,2009,False,Robert Downey Jr.
+38,support_actor,2009,False,Ralph Fiennes
+39,support_actor,2009,False,Philip Seymour Hoffman
+0,best_picture - drama,2008,True,Atonement
+1,best_picture - drama,2008,False,Michael Clayton
+2,best_picture - drama,2008,False,No Country for Old Men
+3,best_picture - drama,2008,False,There Will Be Blood
+4,best_picture - drama,2008,False,American Gangster
+5,best_picture - drama,2008,False,Eastern Promises
+6,best_picture - drama,2008,False,The Great Debaters
+7,best_picture - comedy,2008,True,Sweeney Todd: The Demon Barber of Fleet Street
+8,best_picture - comedy,2008,False,Across The Universe
+9,best_picture - comedy,2008,False,Charlie Wilson's War
+10,best_picture - comedy,2008,False,Hairspray
+11,best_picture - comedy,2008,False,Juno
+12,best_picture - comedy,2008,False,na
+13,best_picture - comedy,2008,False,na
+14,best_actress_drama,2008,True,Julie Christie
+15,best_actress_drama,2008,False,Cate Blanchett
+16,best_actress_drama,2008,False,Jodie Foster
+17,best_actress_drama,2008,False,Angelina Jolie
+18,best_actress_drama,2008,False,Keira Knightley
+19,best_actress_drama,2008,False,na
+20,best_actress_drama,2008,False,na
+21,best_actor_drama,2008,True,Daniel Day-Lewis
+22,best_actor_drama,2008,False,Denzel Washington
+23,best_actor_drama,2008,False,George Clooney
+24,best_actor_drama,2008,False,James McAvoy
+25,best_actor_drama,2008,False,Viggo Mortensen
+26,best_actor_drama,2008,False,na
+27,best_actor_drama,2008,False,na
+28,best_actress_comedy,2008,True,Marion Cotillard
+29,best_actress_comedy,2008,False,Nikki Blonsky
+30,best_actress_comedy,2008,False,Amy Adams
+31,best_actress_comedy,2008,False,Helena Bonham Carter
+32,best_actress_comedy,2008,False,Ellen Page
+33,best_actress_comedy,2008,False,na
+34,best_actress_comedy,2008,False,na
+35,best_actor_comedy,2008,True,Johnny Depp
+36,best_actor_comedy,2008,False,Ryan Gosling
+37,best_actor_comedy,2008,False,Tom Hanks
+38,best_actor_comedy,2008,False,Philip Seymour Hoffman
+39,best_actor_comedy,2008,False,John C. Reilly
+40,best_actor_comedy,2008,False,na
+41,best_actor_comedy,2008,False,na
+42,support_actress,2008,True,Cate Blanchett
+43,support_actress,2008,False,Julia Roberts
+44,support_actress,2008,False,Saoirse Ronan
+45,support_actress,2008,False,Amy Ryan
+46,support_actress,2008,False,Tilda Swinton
+47,support_actress,2008,False,na
+48,support_actress,2008,False,na
+49,support_actor,2008,True,Javier Bardem
+50,support_actor,2008,False,Philip Seymour Hoffman
+51,support_actor,2008,False,John Travolta
+52,support_actor,2008,False,Tom Wilkinson
+53,support_actor,2008,False,Casey Affleck
+54,support_actor,2008,False,na
+55,support_actor,2008,False,na
+0,best_picture - drama,2007,True,Babel
+1,best_picture - drama,2007,False,Bobby
+2,best_picture - drama,2007,False,"Departed,  The"
+3,best_picture - drama,2007,False,Little Children
+4,best_picture - drama,2007,False,"Queen,  The"
+5,best_picture - comedy,2007,True,Dreamgirls
+6,best_picture - comedy,2007,False,Borat: Cultural Learnings Of America For Make Benefit Glorious Nation Of Kazakhstan
+7,best_picture - comedy,2007,False,"Devil Wears Prada,  The"
+8,best_picture - comedy,2007,False,Little Miss Sunshine
+9,best_picture - comedy,2007,False,Thank You For Smoking
+10,best_actress_drama,2007,True,Helen Mirren
+11,best_actress_drama,2007,False,Penélope Cruz
+12,best_actress_drama,2007,False,Judi Dench
+13,best_actress_drama,2007,False,Maggie Gyllenhaal
+14,best_actress_drama,2007,False,Kate Winslet
+15,best_actor_drama,2007,True,Forest Whitaker
+16,best_actor_drama,2007,False,Leonardo DiCaprio
+17,best_actor_drama,2007,False,Leonardo DiCaprio
+18,best_actor_drama,2007,False,Peter O'Toole
+19,best_actor_drama,2007,False,Will Smith
+20,best_actress_comedy,2007,True,Meryl Streep
+21,best_actress_comedy,2007,False,Annette Bening
+22,best_actress_comedy,2007,False,Toni Collette
+23,best_actress_comedy,2007,False,Beyoncé
+24,best_actress_comedy,2007,False,Renée Zellweger
+25,best_actor_comedy,2007,True,Sacha Baron Cohen
+26,best_actor_comedy,2007,False,Johnny Depp
+27,best_actor_comedy,2007,False,Aaron Eckhart
+28,best_actor_comedy,2007,False,Chiwetel Ejiofor
+29,best_actor_comedy,2007,False,Will Ferrell
+30,support_actress,2007,True,Jennifer Hudson
+31,support_actress,2007,False,Adriana Barraza
+32,support_actress,2007,False,Cate Blanchett
+33,support_actress,2007,False,Emily Blunt
+34,support_actress,2007,False,Rinko Kikuchi
+35,support_actor,2007,True,Eddie Murphy
+36,support_actor,2007,False,Jack Nicholson
+37,support_actor,2007,False,Brad Pitt
+38,support_actor,2007,False,Mark Wahlberg
+39,support_actor,2007,False,Ben Affleck
+0,best_picture - drama,2006,True,Brokeback Mountain
+1,best_picture - drama,2006,False,The Constant Gardener
+2,best_picture - drama,2006,False,"Good Night,  and Good Luck"
+3,best_picture - drama,2006,False,A History of Violence
+4,best_picture - drama,2006,False,Match Point
+5,best_picture - drama,2006,False,na
+6,best_picture - comedy,2006,True,Walk The Line
+7,best_picture - comedy,2006,False,Pride & Prejudice
+8,best_picture - comedy,2006,False,The Producers
+9,best_picture - comedy,2006,False,The Squid and the Whale
+10,best_picture - comedy,2006,False,Mrs. Henderson Presents
+11,best_picture - comedy,2006,False,na
+12,best_actress_drama,2006,True,Felicity Huffman
+13,best_actress_drama,2006,False,Gwyneth Paltrow
+14,best_actress_drama,2006,False,Charlize Theron
+15,best_actress_drama,2006,False,Ziyi Zhang
+16,best_actress_drama,2006,False,Maria Bello
+17,best_actress_drama,2006,False,na
+18,best_actor_drama,2006,True,Philip Seymour Hoffman
+19,best_actor_drama,2006,False,Russell Crowe
+20,best_actor_drama,2006,False,Terrence Howard
+21,best_actor_drama,2006,False,Heath Ledger
+22,best_actor_drama,2006,False,David Strathairn
+23,best_actor_drama,2006,False,na
+24,best_actress_comedy,2006,True,Reese Witherspoon
+25,best_actress_comedy,2006,False,Judi Dench
+26,best_actress_comedy,2006,False,Keira Knightley
+27,best_actress_comedy,2006,False,Laura Linney
+28,best_actress_comedy,2006,False,Sarah Jessica Parker
+29,best_actress_comedy,2006,False,na
+30,best_actor_comedy,2006,True,Joaquin Phoenix
+31,best_actor_comedy,2006,False,Pierce Brosnan
+32,best_actor_comedy,2006,False,Jeff Daniels
+33,best_actor_comedy,2006,False,Johnny Depp
+34,best_actor_comedy,2006,False,Nathan Lane
+35,best_actor_comedy,2006,False,Cillian Murphy
+36,support_actress,2006,True,Rachel Weisz
+37,support_actress,2006,False,Scarlett Johansson
+38,support_actress,2006,False,Shirley MacLaine
+39,support_actress,2006,False,Frances McDormand
+40,support_actress,2006,False,Michelle Williams
+41,support_actress,2006,False,na
+42,support_actor,2006,True,George Clooney
+43,support_actor,2006,False,Matt Dillon
+44,support_actor,2006,False,Will Ferrell
+45,support_actor,2006,False,Paul Giamatti
+46,support_actor,2006,False,Bob Hoskins
+47,support_actor,2006,False,na
+0,best_picture - drama,2005,True,The Aviator
+1,best_picture - drama,2005,False,Closer
+2,best_picture - drama,2005,False,Finding Neverland
+3,best_picture - drama,2005,False,Hotel Rwanda
+4,best_picture - drama,2005,False,Kinsey
+5,best_picture - drama,2005,False,Million Dollar Baby
+6,best_picture - comedy,2005,True,Sideways
+7,best_picture - comedy,2005,False,Eternal Sunshine of The Spotless Mind
+8,best_picture - comedy,2005,False,The Incredibles
+9,best_picture - comedy,2005,False,Ray
+10,best_picture - comedy,2005,False,The Phantom of the Opera
+11,best_picture - comedy,2005,False,na
+12,best_actress_drama,2005,True,Hilary Swank
+13,best_actress_drama,2005,False,Scarlett Johansson
+14,best_actress_drama,2005,False,Nicole Kidman
+15,best_actress_drama,2005,False,Imelda Staunton
+16,best_actress_drama,2005,False,Uma Thurman
+17,best_actress_drama,2005,False,na
+18,best_actor_drama,2005,True,Leonardo DiCaprio
+19,best_actor_drama,2005,False,Javier Bardem
+20,best_actor_drama,2005,False,Don Cheadle
+21,best_actor_drama,2005,False,Johnny Depp
+22,best_actor_drama,2005,False,Liam Neeson
+23,best_actor_drama,2005,False,na
+24,best_actress_comedy,2005,True,Annette Bening
+25,best_actress_comedy,2005,False,Emmy Rossum
+26,best_actress_comedy,2005,False,Ashley Judd
+27,best_actress_comedy,2005,False,Renée Zellweger
+28,best_actress_comedy,2005,False,Kate Winslet
+29,best_actress_comedy,2005,False,na
+30,best_actor_comedy,2005,True,Jamie Foxx
+31,best_actor_comedy,2005,False,Jim Carrey
+32,best_actor_comedy,2005,False,Paul Giamatti
+33,best_actor_comedy,2005,False,Kevin Kline
+34,best_actor_comedy,2005,False,Kevin Spacey
+35,best_actor_comedy,2005,False,na
+36,support_actress,2005,True,Natalie Portman
+37,support_actress,2005,False,Cate Blanchett
+38,support_actress,2005,False,Laura Linney
+39,support_actress,2005,False,Virginia Madsen
+40,support_actress,2005,False,Meryl Streep
+41,support_actress,2005,False,na
+42,support_actor,2005,True,Clive Owen
+43,support_actor,2005,False,David Carradine
+44,support_actor,2005,False,Thomas Haden Church
+45,support_actor,2005,False,Jamie Foxx
+46,support_actor,2005,False,Morgan Freeman
+47,support_actor,2005,False,na
+0,best_picture - drama,2004,True,The Lord of the Rings: The Return of the King
+1,best_picture - drama,2004,False,Cold Mountain
+2,best_picture - drama,2004,False,Master and Commander: The Far Side of the World
+3,best_picture - drama,2004,False,Mystic River
+4,best_picture - drama,2004,False,Seabiscuit
+5,best_picture - drama,2004,False,na
+6,best_picture - comedy,2004,True,Lost in Translation
+7,best_picture - comedy,2004,False,Bend It Like Beckham
+8,best_picture - comedy,2004,False,Big Fish
+9,best_picture - comedy,2004,False,Finding Nemo
+10,best_picture - comedy,2004,False,Love Actually
+11,best_picture - comedy,2004,False,na
+12,best_actress_drama,2004,True,Charlize Theron
+13,best_actress_drama,2004,False,Cate Blanchett
+14,best_actress_drama,2004,False,Scarlett Johansson
+15,best_actress_drama,2004,False,Nicole Kidman
+16,best_actress_drama,2004,False,Uma Thurman
+17,best_actress_drama,2004,False,Evan Rachel Wood
+18,best_actor_drama,2004,True,Sean Penn
+19,best_actor_drama,2004,False,Russell Crowe
+20,best_actor_drama,2004,False,Tom Cruise
+21,best_actor_drama,2004,False,Ben Kingsley
+22,best_actor_drama,2004,False,Jude Law
+23,best_actor_drama,2004,False,na
+24,best_actress_comedy,2004,True,Diane Keaton
+25,best_actress_comedy,2004,False,Jamie Lee Curtis
+26,best_actress_comedy,2004,False,Scarlett Johansson
+27,best_actress_comedy,2004,False,Diane Lane
+28,best_actress_comedy,2004,False,Helen Mirren
+29,best_actress_comedy,2004,False,na
+30,best_actor_comedy,2004,True,Bill Murray
+31,best_actor_comedy,2004,False,Billy Bob Thornton
+32,best_actor_comedy,2004,False,Jack Black
+33,best_actor_comedy,2004,False,Johnny Depp
+34,best_actor_comedy,2004,False,Jack Nicholson
+35,best_actor_comedy,2004,False,na
+36,support_actress,2004,True,Renée Zellweger
+37,support_actress,2004,False,Patricia Clarkson
+38,support_actress,2004,False,Hope Davis
+39,support_actress,2004,False,Holly Hunter
+40,support_actress,2004,False,Maria Bello
+41,support_actress,2004,False,na
+42,support_actor,2004,True,Tim Robbins
+43,support_actor,2004,False,Ken Watanabe
+44,support_actor,2004,False,Alec Baldwin
+45,support_actor,2004,False,Albert Finney
+46,support_actor,2004,False,William H. Macy
+47,support_actor,2004,False,Peter Sarsgaard
+0,best_picture - drama,2003,True,The Hours
+1,best_picture - drama,2003,False,About Schmidt
+2,best_picture - drama,2003,False,Gangs of New York
+3,best_picture - drama,2003,False,"Lord of the Rings: The Two Towers,  The"
+4,best_picture - drama,2003,False,"Pianist,  The"
+5,best_picture - comedy,2003,True,Chicago
+6,best_picture - comedy,2003,False,About a Boy
+7,best_picture - comedy,2003,False,Adaptation
+8,best_picture - comedy,2003,False,My Big Fat Greek Wedding
+9,best_picture - comedy,2003,False,Nicholas Nickleby
+10,best_actress_drama,2003,True,Nicole Kidman
+11,best_actress_drama,2003,False,Julianne Moore
+12,best_actress_drama,2003,False,Meryl Streep
+13,best_actress_drama,2003,False,Salma Hayek
+14,best_actress_drama,2003,False,Diane Lane
+15,best_actor_drama,2003,True,Jack Nicholson
+16,best_actor_drama,2003,False,Adrien Brody
+17,best_actor_drama,2003,False,Michael Caine
+18,best_actor_drama,2003,False,Daniel Day-Lewis
+19,best_actor_drama,2003,False,Leonardo DiCaprio
+20,best_actress_comedy,2003,True,Renée Zellweger
+21,best_actress_comedy,2003,False,Maggie Gyllenhaal
+22,best_actress_comedy,2003,False,Goldie Hawn
+23,best_actress_comedy,2003,False,Nia Vardalos
+24,best_actress_comedy,2003,False,Catherine Zeta-Jones
+25,best_actor_comedy,2003,True,Richard Gere
+26,best_actor_comedy,2003,False,Adam Sandler
+27,best_actor_comedy,2003,False,Nicolas Cage
+28,best_actor_comedy,2003,False,Kieran Culkin
+29,best_actor_comedy,2003,False,Hugh Grant
+30,support_actress,2003,True,Meryl Streep
+31,support_actress,2003,False,Kathy Bates
+32,support_actress,2003,False,Cameron Diaz
+33,support_actress,2003,False,Queen Latifah
+34,support_actress,2003,False,Susan Sarandon
+35,support_actor,2003,True,Chris Cooper
+36,support_actor,2003,False,Ed Harris
+37,support_actor,2003,False,Paul Newman
+38,support_actor,2003,False,Dennis Quaid
+39,support_actor,2003,False,John C. Reilly
+0,best_picture - drama,2002,True,A Beautiful Mind
+1,best_picture - drama,2002,False,In the Bedroom
+2,best_picture - drama,2002,False,The Lord of the Rings: The Fellowship of the Ring
+3,best_picture - drama,2002,False,The Man Who Wasn't There
+4,best_picture - drama,2002,False,Mulholland Dr.
+5,best_picture - drama,2002,False,na
+6,best_picture - comedy,2002,True,Moulin Rouge!
+7,best_picture - comedy,2002,False,Bridget Jones's Diary
+8,best_picture - comedy,2002,False,Gosford Park
+9,best_picture - comedy,2002,False,Legally Blonde
+10,best_picture - comedy,2002,False,Shrek
+11,best_picture - comedy,2002,False,na
+12,best_actress_drama,2002,True,Sissy Spacek
+13,best_actress_drama,2002,False,Halle Berry
+14,best_actress_drama,2002,False,Judi Dench
+15,best_actress_drama,2002,False,Nicole Kidman
+16,best_actress_drama,2002,False,Tilda Swinton
+17,best_actress_drama,2002,False,na
+18,best_actor_drama,2002,True,Russell Crowe
+19,best_actor_drama,2002,False,Denzel Washington
+20,best_actor_drama,2002,False,Kevin Spacey
+21,best_actor_drama,2002,False,Will Smith
+22,best_actor_drama,2002,False,Billy Bob Thornton
+23,best_actor_drama,2002,False,na
+24,best_actress_comedy,2002,True,Nicole Kidman
+25,best_actress_comedy,2002,False,Renée Zellweger
+26,best_actress_comedy,2002,False,Thora Birch
+27,best_actress_comedy,2002,False,Cate Blanchett
+28,best_actress_comedy,2002,False,Reese Witherspoon
+29,best_actress_comedy,2002,False,na
+30,best_actor_comedy,2002,True,Gene Hackman
+31,best_actor_comedy,2002,False,Hugh Jackman
+32,best_actor_comedy,2002,False,Ewan McGregor
+33,best_actor_comedy,2002,False,John Cameron Mitchell
+34,best_actor_comedy,2002,False,Billy Bob Thornton
+35,best_actor_comedy,2002,False,na
+36,support_actress,2002,True,Jennifer Connelly
+37,support_actress,2002,False,Helen Mirren
+38,support_actress,2002,False,Maggie Smith
+39,support_actress,2002,False,Marisa Tomei
+40,support_actress,2002,False,Kate Winslet
+41,support_actress,2002,False,Cameron Diaz
+42,support_actor,2002,True,Jim Broadbent
+43,support_actor,2002,False,Steve Buscemi
+44,support_actor,2002,False,Hayden Christensen
+45,support_actor,2002,False,Ben Kingsley
+46,support_actor,2002,False,Jude Law
+47,support_actor,2002,False,Jon Voight
+0,best_picture - drama,2001,True,Gladiator
+1,best_picture - drama,2001,False,Billy Elliot
+2,best_picture - drama,2001,False,Erin Brockovich
+3,best_picture - drama,2001,False,Sunshine
+4,best_picture - drama,2001,False,Traffic
+5,best_picture - drama,2001,False,Wonder Boys
+6,best_picture - comedy,2001,True,Almost Famous
+7,best_picture - comedy,2001,False,Best in Show
+8,best_picture - comedy,2001,False,Chicken Run
+9,best_picture - comedy,2001,False,Chocolat
+10,best_picture - comedy,2001,False,"O Brother,  Where Art Thou?"
+11,best_picture - comedy,2001,False,na
+12,best_actress_drama,2001,True,Julia Roberts
+13,best_actress_drama,2001,False,Björk
+14,best_actress_drama,2001,False,Ellen Burstyn
+15,best_actress_drama,2001,False,Laura Linney
+16,best_actress_drama,2001,False,Joan Allen
+17,best_actress_drama,2001,False,na
+18,best_actor_drama,2001,True,Tom Hanks
+19,best_actor_drama,2001,False,Javier Bardem
+20,best_actor_drama,2001,False,Russell Crowe
+21,best_actor_drama,2001,False,Michael Douglas
+22,best_actor_drama,2001,False,Geoffrey Rush
+23,best_actor_drama,2001,False,na
+24,best_actress_comedy,2001,True,Renée Zellweger
+25,best_actress_comedy,2001,False,Juliette Binoche
+26,best_actress_comedy,2001,False,Brenda Blethyn
+27,best_actress_comedy,2001,False,Sandra Bullock
+28,best_actress_comedy,2001,False,Tracey Ullman
+29,best_actress_comedy,2001,False,na
+30,best_actor_comedy,2001,True,George Clooney
+31,best_actor_comedy,2001,False,John Cusack
+32,best_actor_comedy,2001,False,Robert De Niro
+33,best_actor_comedy,2001,False,Mel Gibson
+34,best_actor_comedy,2001,False,Jim Carrey
+35,best_actor_comedy,2001,False,na
+36,support_actress,2001,True,Kate Hudson
+37,support_actress,2001,False,Judi Dench
+38,support_actress,2001,False,Frances McDormand
+39,support_actress,2001,False,Julie Walters
+40,support_actress,2001,False,Catherine Zeta-Jones
+41,support_actress,2001,False,na
+42,support_actor,2001,True,Benicio del Toro
+43,support_actor,2001,False,Willem Dafoe
+44,support_actor,2001,False,Albert Finney
+45,support_actor,2001,False,Joaquin Phoenix
+46,support_actor,2001,False,Jeff Bridges
+47,support_actor,2001,False,na
+0,best_picture - drama,2000,True,American Beauty
+1,best_picture - drama,2000,False,The End of the Affair
+2,best_picture - drama,2000,False,The Hurricane
+3,best_picture - drama,2000,False,The Insider
+4,best_picture - drama,2000,False,The Talented Mr. Ripley
+5,best_picture - drama,2000,False,na
+6,best_picture - comedy,2000,True,Toy Story 2
+7,best_picture - comedy,2000,False,Analyze This
+8,best_picture - comedy,2000,False,Being John Malkovich
+9,best_picture - comedy,2000,False,Man on the Moon
+10,best_picture - comedy,2000,False,Notting Hill
+11,best_picture - comedy,2000,False,na
+12,best_actress_drama,2000,True,Hilary Swank
+13,best_actress_drama,2000,False,Annette Bening
+14,best_actress_drama,2000,False,Julianne Moore
+15,best_actress_drama,2000,False,Meryl Streep
+16,best_actress_drama,2000,False,Sigourney Weaver
+17,best_actress_drama,2000,False,na
+18,best_actor_drama,2000,True,Denzel Washington
+19,best_actor_drama,2000,False,Kevin Spacey
+20,best_actor_drama,2000,False,Russell Crowe
+21,best_actor_drama,2000,False,Matt Damon
+22,best_actor_drama,2000,False,Richard Farnsworth
+23,best_actor_drama,2000,False,na
+24,best_actress_comedy,2000,True,Janet McTeer
+25,best_actress_comedy,2000,False,Julianne Moore
+26,best_actress_comedy,2000,False,Julia Roberts
+27,best_actress_comedy,2000,False,Sharon Stone
+28,best_actress_comedy,2000,False,Reese Witherspoon
+29,best_actress_comedy,2000,False,na
+30,best_actor_comedy,2000,True,Jim Carrey
+31,best_actor_comedy,2000,False,Robert De Niro
+32,best_actor_comedy,2000,False,Rupert Everett
+33,best_actor_comedy,2000,False,Hugh Grant
+34,best_actor_comedy,2000,False,Sean Penn
+35,best_actor_comedy,2000,False,na
+36,support_actress,2000,True,Angelina Jolie
+37,support_actress,2000,False,Catherine Keener
+38,support_actress,2000,False,Samantha Morton
+39,support_actress,2000,False,Natalie Portman
+40,support_actress,2000,False,Chloë Sevigny
+41,support_actress,2000,False,Cameron Diaz
+42,support_actor,2000,True,Tom Cruise
+43,support_actor,2000,False,Michael Caine
+44,support_actor,2000,False,Michael Clarke Duncan
+45,support_actor,2000,False,Jude Law
+46,support_actor,2000,False,Haley Joel Osment
+47,support_actor,2000,False,na
+0,best_picture - drama,1999,True,Saving Private Ryan
+1,best_picture - drama,1999,False,Elizabeth
+2,best_picture - drama,1999,False,Gods and Monsters
+3,best_picture - drama,1999,False,The Horse Whisperer
+4,best_picture - drama,1999,False,The Truman Show
+5,best_picture - drama,1999,False,na
+6,best_picture - comedy,1999,True,Shakespeare in Love
+7,best_picture - comedy,1999,False,There's Something About Mary
+8,best_picture - comedy,1999,False,Bulworth
+9,best_picture - comedy,1999,False,The Mask of Zorro
+10,best_picture - comedy,1999,False,Patch Adams
+11,best_picture - comedy,1999,False,Still Crazy
+12,best_actress_drama,1999,True,Cate Blanchett
+13,best_actress_drama,1999,False,Emily Watson
+14,best_actress_drama,1999,False,Fernanda Montenegro
+15,best_actress_drama,1999,False,Susan Sarandon
+16,best_actress_drama,1999,False,Meryl Streep
+17,best_actress_drama,1999,False,na
+18,best_actor_drama,1999,True,Jim Carrey
+19,best_actor_drama,1999,False,Stephen Fry
+20,best_actor_drama,1999,False,Tom Hanks
+21,best_actor_drama,1999,False,Ian McKellen
+22,best_actor_drama,1999,False,Nick Nolte
+23,best_actor_drama,1999,False,na
+24,best_actress_comedy,1999,True,Gwyneth Paltrow
+25,best_actress_comedy,1999,False,Cameron Diaz
+26,best_actress_comedy,1999,False,Jane Horrocks
+27,best_actress_comedy,1999,False,Christina Ricci
+28,best_actress_comedy,1999,False,Meg Ryan
+29,best_actress_comedy,1999,False,na
+30,best_actor_comedy,1999,True,Michael Caine
+31,best_actor_comedy,1999,False,Antonio Banderas
+32,best_actor_comedy,1999,False,Warren Beatty
+33,best_actor_comedy,1999,False,John Travolta
+34,best_actor_comedy,1999,False,Robin Williams
+35,best_actor_comedy,1999,False,na
+36,support_actress,1999,True,Lynn Redgrave
+37,support_actress,1999,False,Brenda Blethyn
+38,support_actress,1999,False,Judi Dench
+39,support_actress,1999,False,Sharon Stone
+40,support_actress,1999,False,Kathy Bates
+41,support_actress,1999,False,na
+42,support_actor,1999,True,Ed Harris
+43,support_actor,1999,False,Robert Duvall
+44,support_actor,1999,False,Bill Murray
+45,support_actor,1999,False,Geoffrey Rush
+46,support_actor,1999,False,Donald Sutherland
+47,support_actor,1999,False,Billy Bob Thornton
+0,best_picture - drama,1998,True,Titanic
+1,best_picture - drama,1998,False,Amistad
+2,best_picture - drama,1998,False,The Boxer
+3,best_picture - drama,1998,False,Good Will Hunting
+4,best_picture - drama,1998,False,L.A. Confidential
+5,best_picture - drama,1998,False,na
+6,best_picture - comedy,1998,True,As Good as It Gets
+7,best_picture - comedy,1998,False,The Full Monty
+8,best_picture - comedy,1998,False,Men in Black
+9,best_picture - comedy,1998,False,My Best Friend's Wedding
+10,best_picture - comedy,1998,False,Wag the Dog
+11,best_picture - comedy,1998,False,na
+12,best_actress_drama,1998,True,Judi Dench
+13,best_actress_drama,1998,False,Kate Winslet
+14,best_actress_drama,1998,False,Helena Bonham Carter
+15,best_actress_drama,1998,False,Jodie Foster
+16,best_actress_drama,1998,False,Jessica Lange
+17,best_actress_drama,1998,False,na
+18,best_actor_drama,1998,True,Peter Fonda
+19,best_actor_drama,1998,False,Matt Damon
+20,best_actor_drama,1998,False,Daniel Day-Lewis
+21,best_actor_drama,1998,False,Leonardo DiCaprio
+22,best_actor_drama,1998,False,Djimon Hounsou
+23,best_actor_drama,1998,False,na
+24,best_actress_comedy,1998,True,Helen Hunt
+25,best_actress_comedy,1998,False,Julia Roberts
+26,best_actress_comedy,1998,False,Joey Lauren Adams
+27,best_actress_comedy,1998,False,Pam Grier
+28,best_actress_comedy,1998,False,Jennifer Lopez
+29,best_actress_comedy,1998,False,na
+30,best_actor_comedy,1998,True,Jack Nicholson
+31,best_actor_comedy,1998,False,Jim Carrey
+32,best_actor_comedy,1998,False,Dustin Hoffman
+33,best_actor_comedy,1998,False,Samuel L. Jackson
+34,best_actor_comedy,1998,False,Kevin Kline
+35,best_actor_comedy,1998,False,na
+36,support_actress,1998,True,Kim Basinger
+37,support_actress,1998,False,Joan Cusack
+38,support_actress,1998,False,Julianne Moore
+39,support_actress,1998,False,Gloria Stuart
+40,support_actress,1998,False,Sigourney Weaver
+41,support_actress,1998,False,na
+42,support_actor,1998,True,Burt Reynolds
+43,support_actor,1998,False,Rupert Everett
+44,support_actor,1998,False,Anthony Hopkins
+45,support_actor,1998,False,Greg Kinnear
+46,support_actor,1998,False,Jon Voight
+47,support_actor,1998,False,Robin Williams
+0,best_picture - drama,1997,True,The English Patient
+1,best_picture - drama,1997,False,Breaking the Waves
+2,best_picture - drama,1997,False,The People vs. Larry Flynt
+3,best_picture - drama,1997,False,Secrets & Lies
+4,best_picture - drama,1997,False,Shine
+5,best_picture - drama,1997,False,na
+6,best_picture - comedy,1997,True,Evita
+7,best_picture - comedy,1997,False,Everyone Says I Love You
+8,best_picture - comedy,1997,False,Fargo
+9,best_picture - comedy,1997,False,Jerry Maguire
+10,best_picture - comedy,1997,False,The Birdcage
+11,best_picture - comedy,1997,False,na
+12,best_actress_drama,1997,True,Brenda Blethyn
+13,best_actress_drama,1997,False,Kristin Scott Thomas
+14,best_actress_drama,1997,False,Meryl Streep
+15,best_actress_drama,1997,False,Emily Watson
+16,best_actress_drama,1997,False,Courtney Love
+17,best_actress_drama,1997,False,na
+18,best_actor_drama,1997,True,Geoffrey Rush
+19,best_actor_drama,1997,False,Ralph Fiennes
+20,best_actor_drama,1997,False,Mel Gibson
+21,best_actor_drama,1997,False,Woody Harrelson
+22,best_actor_drama,1997,False,Liam Neeson
+23,best_actor_drama,1997,False,na
+24,best_actress_comedy,1997,True,Madonna
+25,best_actress_comedy,1997,False,Glenn Close
+26,best_actress_comedy,1997,False,Frances McDormand
+27,best_actress_comedy,1997,False,Debbie Reynolds
+28,best_actress_comedy,1997,False,Barbra Streisand
+29,best_actress_comedy,1997,False,na
+30,best_actor_comedy,1997,True,Tom Cruise
+31,best_actor_comedy,1997,False,Antonio Banderas
+32,best_actor_comedy,1997,False,Kevin Costner
+33,best_actor_comedy,1997,False,Nathan Lane
+34,best_actor_comedy,1997,False,Eddie Murphy
+35,best_actor_comedy,1997,False,na
+36,support_actress,1997,True,Lauren Bacall
+37,support_actress,1997,False,Juliette Binoche
+38,support_actress,1997,False,Barbara Hershey
+39,support_actress,1997,False,Marianne Jean-Baptiste
+40,support_actress,1997,False,Marion Ross
+41,support_actress,1997,False,Joan Allen
+42,support_actor,1997,True,Edward Norton
+43,support_actor,1997,False,Cuba Gooding Jr.
+44,support_actor,1997,False,Samuel L. Jackson
+45,support_actor,1997,False,Paul Scofield
+46,support_actor,1997,False,James Woods
+47,support_actor,1997,False,na
+0,best_picture - drama,1996,True,Sense and Sensibility
+1,best_picture - drama,1996,False,Apollo 13
+2,best_picture - drama,1996,False,Braveheart
+3,best_picture - drama,1996,False,"Bridges of Madison County,  The"
+4,best_picture - drama,1996,False,Leaving Las Vegas
+5,best_picture - comedy,1996,True,Babe
+6,best_picture - comedy,1996,False,Get Shorty
+7,best_picture - comedy,1996,False,Sabrina (1995)
+8,best_picture - comedy,1996,False,Toy Story
+9,best_picture - comedy,1996,False,"American President,  The"
+10,best_actress_drama,1996,True,Sharon Stone
+11,best_actress_drama,1996,False,Elisabeth Shue
+12,best_actress_drama,1996,False,Meryl Streep
+13,best_actress_drama,1996,False,Emma Thompson
+14,best_actress_drama,1996,False,Susan Sarandon
+15,best_actor_drama,1996,True,Nicolas Cage
+16,best_actor_drama,1996,False,Richard Dreyfuss
+17,best_actor_drama,1996,False,Anthony Hopkins
+18,best_actor_drama,1996,False,Ian McKellen
+19,best_actor_drama,1996,False,Sean Penn
+20,best_actress_comedy,1996,True,Nicole Kidman
+21,best_actress_comedy,1996,False,Annette Bening
+22,best_actress_comedy,1996,False,Sandra Bullock
+23,best_actress_comedy,1996,False,Toni Collette
+24,best_actress_comedy,1996,False,Vanessa Redgrave
+25,best_actor_comedy,1996,True,John Travolta
+26,best_actor_comedy,1996,False,Patrick Swayze
+27,best_actor_comedy,1996,False,Michael Douglas
+28,best_actor_comedy,1996,False,Harrison Ford
+29,best_actor_comedy,1996,False,Steve Martin
+30,support_actress,1996,True,Mira Sorvino
+31,support_actress,1996,False,Anjelica Huston
+32,support_actress,1996,False,Kathleen Quinlan
+33,support_actress,1996,False,Kyra Sedgwick
+34,support_actress,1996,False,Kate Winslet
+35,support_actor,1996,True,Brad Pitt
+36,support_actor,1996,False,Ed Harris
+37,support_actor,1996,False,John Leguizamo
+38,support_actor,1996,False,Tim Roth
+39,support_actor,1996,False,Kevin Spacey
+0,best_picture - drama,1995,True,Forrest Gump
+1,best_picture - drama,1995,False,Legends of the Fall
+2,best_picture - drama,1995,False,Nell
+3,best_picture - drama,1995,False,Pulp Fiction
+4,best_picture - drama,1995,False,Quiz Show
+5,best_picture - comedy,1995,True,The Lion King
+6,best_picture - comedy,1995,False,"Adventures of Priscilla,  Queen of the Desert,  The"
+7,best_picture - comedy,1995,False,Ed Wood
+8,best_picture - comedy,1995,False,Four Weddings and a Funeral
+9,best_picture - comedy,1995,False,Ready to Wear
+10,best_actress_drama,1995,True,Jessica Lange
+11,best_actress_drama,1995,False,Jodie Foster
+12,best_actress_drama,1995,False,Jennifer Jason Leigh
+13,best_actress_drama,1995,False,Miranda Richardson
+14,best_actress_drama,1995,False,Meryl Streep
+15,best_actor_drama,1995,True,Tom Hanks
+16,best_actor_drama,1995,False,John Travolta
+17,best_actor_drama,1995,False,Morgan Freeman
+18,best_actor_drama,1995,False,Paul Newman
+19,best_actor_drama,1995,False,Brad Pitt
+20,best_actress_comedy,1995,True,Jamie Lee Curtis
+21,best_actress_comedy,1995,False,Geena Davis
+22,best_actress_comedy,1995,False,Andie MacDowell
+23,best_actress_comedy,1995,False,Shirley MacLaine
+24,best_actress_comedy,1995,False,Emma Thompson
+25,best_actor_comedy,1995,True,Hugh Grant
+26,best_actor_comedy,1995,False,Jim Carrey
+27,best_actor_comedy,1995,False,Johnny Depp
+28,best_actor_comedy,1995,False,Arnold Schwarzenegger
+29,best_actor_comedy,1995,False,Terence Stamp
+30,support_actress,1995,True,Dianne Wiest
+31,support_actress,1995,False,Sophia Loren
+32,support_actress,1995,False,Uma Thurman
+33,support_actress,1995,False,Robin Wright
+34,support_actress,1995,False,Kirsten Dunst
+35,support_actor,1995,True,Martin Landau
+36,support_actor,1995,False,Kevin Bacon
+37,support_actor,1995,False,Samuel L. Jackson
+38,support_actor,1995,False,Gary Sinise
+39,support_actor,1995,False,John Turturro
+0,best_picture - drama,1994,True,Schindler's List
+1,best_picture - drama,1994,False,"Age of Innocence,  The"
+2,best_picture - drama,1994,False,In the Name of the Father
+3,best_picture - drama,1994,False,The Piano
+4,best_picture - drama,1994,False," Remains of the Day,  The"
+5,best_picture - comedy,1994,True,Mrs. Doubtfire
+6,best_picture - comedy,1994,False,Dave
+7,best_picture - comedy,1994,False,Much Ado About Nothing
+8,best_picture - comedy,1994,False,Sleepless in Seattle
+9,best_picture - comedy,1994,False,Strictly Ballroom
+10,best_actress_drama,1994,True,Holly Hunter
+11,best_actress_drama,1994,False,Juliette Binoche
+12,best_actress_drama,1994,False,Michelle Pfeiffer
+13,best_actress_drama,1994,False,Emma Thompson
+14,best_actress_drama,1994,False,Debra Winger
+15,best_actor_drama,1994,True,Tom Hanks
+16,best_actor_drama,1994,False,Liam Neeson
+17,best_actor_drama,1994,False,Daniel Day-Lewis
+18,best_actor_drama,1994,False,Harrison Ford
+19,best_actor_drama,1994,False,Anthony Hopkins
+20,best_actress_comedy,1994,True,Angela Bassett
+21,best_actress_comedy,1994,False,Stockard Channing
+22,best_actress_comedy,1994,False,Anjelica Huston
+23,best_actress_comedy,1994,False,Diane Keaton
+24,best_actress_comedy,1994,False,Meg Ryan
+25,best_actor_comedy,1994,True,Robin Williams
+26,best_actor_comedy,1994,False,Tom Hanks
+27,best_actor_comedy,1994,False,Kevin Kline
+28,best_actor_comedy,1994,False,Colm Meaney
+29,best_actor_comedy,1994,False,Johnny Depp
+30,support_actress,1994,True,Winona Ryder
+31,support_actress,1994,False,Penelope Ann Miller
+32,support_actress,1994,False,Anna Paquin
+33,support_actress,1994,False,Rosie Perez
+34,support_actress,1994,False,Emma Thompson
+35,support_actor,1994,True,Tommy Lee Jones
+36,support_actor,1994,False,Ralph Fiennes
+37,support_actor,1994,False,John Malkovich
+38,support_actor,1994,False,Sean Penn
+39,support_actor,1994,False,Leonardo DiCaprio
+0,best_picture - drama,1993,True,Scent of a Woman
+1,best_picture - drama,1993,False,"Few Good Men,  A"
+2,best_picture - drama,1993,False,Howards End
+3,best_picture - drama,1993,False,Unforgiven
+4,best_picture - drama,1993,False,"Crying Game,  The"
+5,best_picture - comedy,1993,True,"Player,  The"
+6,best_picture - comedy,1993,False,Aladdin
+7,best_picture - comedy,1993,False,Enchanted April
+8,best_picture - comedy,1993,False,Honeymoon In Vegas
+9,best_picture - comedy,1993,False,Sister Act
+10,best_actress_drama,1993,True,Emma Thompson
+11,best_actress_drama,1993,False,Mary McDonnell
+12,best_actress_drama,1993,False,Michelle Pfeiffer
+13,best_actress_drama,1993,False,Susan Sarandon
+14,best_actress_drama,1993,False,Sharon Stone
+15,best_actor_drama,1993,True,Al Pacino
+16,best_actor_drama,1993,False,Tom Cruise
+17,best_actor_drama,1993,False,Robert Downey Jr.
+18,best_actor_drama,1993,False,Jack Nicholson
+19,best_actor_drama,1993,False,Denzel Washington
+20,best_actress_comedy,1993,True,Miranda Richardson
+21,best_actress_comedy,1993,False,Geena Davis
+22,best_actress_comedy,1993,False,Whoopi Goldberg
+23,best_actress_comedy,1993,False,Shirley MacLaine
+24,best_actress_comedy,1993,False,Meryl Streep
+25,best_actor_comedy,1993,True,Tim Robbins
+26,best_actor_comedy,1993,False,Billy Crystal
+27,best_actor_comedy,1993,False,Marcello Mastroianni
+28,best_actor_comedy,1993,False,Tim Robbins
+29,best_actor_comedy,1993,False,Nicolas Cage
+30,support_actress,1993,True,Joan Plowright
+31,support_actress,1993,False,Geraldine Chaplin
+32,support_actress,1993,False,Judy Davis
+33,support_actress,1993,False,Miranda Richardson
+34,support_actress,1993,False,Alfre Woodard
+35,support_actor,1993,True,Gene Hackman
+36,support_actor,1993,False,Chris O'Donnell
+37,support_actor,1993,False,Al Pacino
+38,support_actor,1993,False,David Paymer
+39,support_actor,1993,False,Jack Nicholson
+0,best_picture - drama,1992,True,Bugsy
+1,best_picture - drama,1992,False,JFK
+2,best_picture - drama,1992,False,"Prince of Tides,  The"
+3,best_picture - drama,1992,False,"Silence of the Lambs,  The"
+4,best_picture - drama,1992,False,Thelma & Louise
+5,best_picture - comedy,1992,True,Beauty and the Beast
+6,best_picture - comedy,1992,False,City Slickers
+7,best_picture - comedy,1992,False,"Commitments,  The"
+8,best_picture - comedy,1992,False,"Fisher King,  The"
+9,best_picture - comedy,1992,False,Fried Green Tomatoes
+10,best_actress_drama,1992,True,Jodie Foster
+11,best_actress_drama,1992,False,Susan Sarandon
+12,best_actress_drama,1992,False,Annette Bening
+13,best_actress_drama,1992,False,Geena Davis
+14,best_actress_drama,1992,False,Laura Dern
+15,best_actor_drama,1992,True,Nick Nolte
+16,best_actor_drama,1992,False,Warren Beatty
+17,best_actor_drama,1992,False,Kevin Costner
+18,best_actor_drama,1992,False,Robert De Niro
+19,best_actor_drama,1992,False,Anthony Hopkins
+20,best_actress_comedy,1992,True,Bette Midler
+21,best_actress_comedy,1992,False,Ellen Barkin
+22,best_actress_comedy,1992,False,Kathy Bates
+23,best_actress_comedy,1992,False,Anjelica Huston
+24,best_actress_comedy,1992,False,Michelle Pfeiffer
+25,best_actor_comedy,1992,True,Robin Williams
+26,best_actor_comedy,1992,False,Jeff Bridges
+27,best_actor_comedy,1992,False,Billy Crystal
+28,best_actor_comedy,1992,False,Dustin Hoffman
+29,best_actor_comedy,1992,False,Kevin Kline
+30,support_actress,1992,True,Mercedes Ruehl
+31,support_actress,1992,False,Nicole Kidman
+32,support_actress,1992,False,Diane Ladd
+33,support_actress,1992,False,Juliette Lewis
+34,support_actress,1992,False,Jessica Tandy
+35,support_actor,1992,True,Jack Palance
+36,support_actor,1992,False,Ned Beatty
+37,support_actor,1992,False,John Goodman
+38,support_actor,1992,False,Harvey Keitel
+39,support_actor,1992,False,Ben Kingsley
+0,best_picture - drama,1991,True,Dances with Wolves
+1,best_picture - drama,1991,False,"Godfather Part III,  The"
+2,best_picture - drama,1991,False,GoodFellas
+3,best_picture - drama,1991,False,Reversal of Fortune
+4,best_picture - drama,1991,False,Avalon
+5,best_picture - drama,1991,False,na
+6,best_picture - comedy,1991,True,Green Card
+7,best_picture - comedy,1991,False,Dick Tracy
+8,best_picture - comedy,1991,False,Ghost
+9,best_picture - comedy,1991,False,Home Alone
+10,best_picture - comedy,1991,False,Pretty Woman
+11,best_picture - comedy,1991,False,na
+12,best_actress_drama,1991,True,Kathy Bates
+13,best_actress_drama,1991,False,Anjelica Huston
+14,best_actress_drama,1991,False,Michelle Pfeiffer
+15,best_actress_drama,1991,False,Susan Sarandon
+16,best_actress_drama,1991,False,Joanne Woodward
+17,best_actress_drama,1991,False,na
+18,best_actor_drama,1991,True,Jeremy Irons
+19,best_actor_drama,1991,False,Kevin Costner
+20,best_actor_drama,1991,False,Richard Harris
+21,best_actor_drama,1991,False,Al Pacino
+22,best_actor_drama,1991,False,Robin Williams
+23,best_actor_drama,1991,False,na
+24,best_actress_comedy,1991,True,Julia Roberts
+25,best_actress_comedy,1991,False,Mia Farrow
+26,best_actress_comedy,1991,False,Andie MacDowell
+27,best_actress_comedy,1991,False,Demi Moore
+28,best_actress_comedy,1991,False,Meryl Streep
+29,best_actress_comedy,1991,False,na
+30,best_actor_comedy,1991,True,Gérard Depardieu
+31,best_actor_comedy,1991,False,Patrick Swayze
+32,best_actor_comedy,1991,False,Macaulay Culkin
+33,best_actor_comedy,1991,False,Johnny Depp
+34,best_actor_comedy,1991,False,Richard Gere
+35,best_actor_comedy,1991,False,na
+36,support_actress,1991,True,Whoopi Goldberg
+37,support_actress,1991,False,Lorraine Bracco
+38,support_actress,1991,False,Diane Ladd
+39,support_actress,1991,False,Shirley MacLaine
+40,support_actress,1991,False,Mary McDonnell
+41,support_actress,1991,False,Winona Ryder
+42,support_actor,1991,True,Bruce Davison
+43,support_actor,1991,False,Al Pacino
+44,support_actor,1991,False,Joe Pesci
+45,support_actor,1991,False,Armand Assante
+46,support_actor,1991,False,Hector Elizondo
+47,support_actor,1991,False,Andy Garcia
+0,best_picture - drama,1990,True,Born on the Fourth of July
+1,best_picture - drama,1990,False,Crimes and Misdemeanors
+2,best_picture - drama,1990,False,Dead Poets Society
+3,best_picture - drama,1990,False,Do The Right Thing
+4,best_picture - drama,1990,False,Glory
+5,best_picture - comedy,1990,True,Driving Miss Daisy
+6,best_picture - comedy,1990,False,"Little Mermaid,  The"
+7,best_picture - comedy,1990,False,Shirley Valentine
+8,best_picture - comedy,1990,False,"War of The Roses,  The"
+9,best_picture - comedy,1990,False,When Harry Met Sally
+10,best_actress_drama,1990,True,Michelle Pfeiffer
+11,best_actress_drama,1990,False,Liv Ullmann
+12,best_actress_drama,1990,False,Sally Field
+13,best_actress_drama,1990,False,Jessica Lange
+14,best_actress_drama,1990,False,Andie MacDowell
+15,best_actor_drama,1990,True,Tom Cruise
+16,best_actor_drama,1990,False,Daniel Day-Lewis
+17,best_actor_drama,1990,False,Jack Lemmon
+18,best_actor_drama,1990,False,Al Pacino
+19,best_actor_drama,1990,False,Robin Williams
+20,best_actress_comedy,1990,True,Jessica Tandy
+21,best_actress_comedy,1990,False,Pauline Collins
+22,best_actress_comedy,1990,False,Meg Ryan
+23,best_actress_comedy,1990,False,Meryl Streep
+24,best_actress_comedy,1990,False,Kathleen Turner
+25,best_actor_comedy,1990,True,Morgan Freeman
+26,best_actor_comedy,1990,False,Michael Douglas
+27,best_actor_comedy,1990,False,Steve Martin
+28,best_actor_comedy,1990,False,Jack Nicholson
+29,best_actor_comedy,1990,False,Billy Crystal
+30,support_actress,1990,True,Julia Roberts
+31,support_actress,1990,False,Bridget Fonda
+32,support_actress,1990,False,Brenda Fricker
+33,support_actress,1990,False,Laura San Giacomo
+34,support_actress,1990,False,Dianne Wiest
+35,support_actor,1990,True,Denzel Washington
+36,support_actor,1990,False,Marlon Brando
+37,support_actor,1990,False,Sean Connery
+38,support_actor,1990,False,Ed Harris
+39,support_actor,1990,False,Bruce Willis
+0,best_picture - drama,1989,True,Rain Man
+1,best_picture - drama,1989,False,Running on Empty
+2,best_picture - drama,1989,False,The Unbearable Lightness of Being
+3,best_picture - drama,1989,False,The Accidental Tourist
+4,best_picture - drama,1989,False,A Cry in the Dark
+5,best_picture - drama,1989,False,Gorillas in the Mist: The Adventure of Dian Fossey
+6,best_picture - drama,1989,False,Mississippi Burning
+7,best_picture - comedy,1989,True,Working Girl
+8,best_picture - comedy,1989,False,Big
+9,best_picture - comedy,1989,False,A Fish Called Wanda
+10,best_picture - comedy,1989,False,Midnight Run
+11,best_picture - comedy,1989,False,Who Framed Roger Rabbit
+12,best_picture - comedy,1989,False,na
+13,best_picture - comedy,1989,False,na
+14,best_actress_drama,1989,True,Jodie Foster
+15,best_actress_drama,1989,False,Shirley MacLaine
+16,best_actress_drama,1989,False,Sigourney Weaver
+17,best_actress_drama,1989,False,Christine Lahti
+18,best_actress_drama,1989,False,Meryl Streep
+19,best_actress_drama,1989,False,na
+20,best_actress_drama,1989,False,na
+21,best_actor_drama,1989,True,Dustin Hoffman
+22,best_actor_drama,1989,False,Forest Whitaker
+23,best_actor_drama,1989,False,Gene Hackman
+24,best_actor_drama,1989,False,Tom Hulce
+25,best_actor_drama,1989,False,Edward James Olmos
+26,best_actor_drama,1989,False,na
+27,best_actor_drama,1989,False,na
+28,best_actress_comedy,1989,True,Melanie Griffith
+29,best_actress_comedy,1989,False,Jamie Lee Curtis
+30,best_actress_comedy,1989,False,Amy Irving
+31,best_actress_comedy,1989,False,Michelle Pfeiffer
+32,best_actress_comedy,1989,False,Susan Sarandon
+33,best_actress_comedy,1989,False,na
+34,best_actress_comedy,1989,False,na
+35,best_actor_comedy,1989,True,Tom Hanks
+36,best_actor_comedy,1989,False,John Cleese
+37,best_actor_comedy,1989,False,Robert De Niro
+38,best_actor_comedy,1989,False,Bob Hoskins
+39,best_actor_comedy,1989,False,Michael Caine
+40,best_actor_comedy,1989,False,na
+41,best_actor_comedy,1989,False,na
+42,support_actress,1989,True,Sigourney Weaver
+43,support_actress,1989,False,Sônia Braga
+44,support_actress,1989,False,Barbara Hershey
+45,support_actress,1989,False,Lena Olin
+46,support_actress,1989,False,Diane Venora
+47,support_actress,1989,False,na
+48,support_actress,1989,False,na
+49,support_actor,1989,True,Martin Landau
+50,support_actor,1989,False,Neil Patrick Harris
+51,support_actor,1989,False,Raul Julia
+52,support_actor,1989,False,Lou Diamond Phillips
+53,support_actor,1989,False,River Phoenix
+54,support_actor,1989,False,Alec Guinness
+55,support_actor,1989,False,na
+0,best_picture - drama,1988,True,The Last Emperor
+1,best_picture - drama,1988,False,Cry Freedom
+2,best_picture - drama,1988,False,Empire of the Sun
+3,best_picture - drama,1988,False,Fatal Attraction
+4,best_picture - drama,1988,False,La Bamba
+5,best_picture - drama,1988,False,Nuts
+6,best_picture - comedy,1988,True,Hope and Glory
+7,best_picture - comedy,1988,False,Moonstruck
+8,best_picture - comedy,1988,False,Baby Boom
+9,best_picture - comedy,1988,False,Broadcast News
+10,best_picture - comedy,1988,False,Dirty Dancing
+11,best_picture - comedy,1988,False,na
+12,best_actress_drama,1988,True,Sally Kirkland
+13,best_actress_drama,1988,False,Barbra Streisand
+14,best_actress_drama,1988,False,Glenn Close
+15,best_actress_drama,1988,False,Faye Dunaway
+16,best_actress_drama,1988,False,Rachel Levin
+17,best_actress_drama,1988,False,na
+18,best_actor_drama,1988,True,Michael Douglas
+19,best_actor_drama,1988,False,John Lone
+20,best_actor_drama,1988,False,Jack Nicholson
+21,best_actor_drama,1988,False,Nick Nolte
+22,best_actor_drama,1988,False,Denzel Washington
+23,best_actor_drama,1988,False,na
+24,best_actress_comedy,1988,True,Cher
+25,best_actress_comedy,1988,False,Jennifer Grey
+26,best_actress_comedy,1988,False,Holly Hunter
+27,best_actress_comedy,1988,False,Diane Keaton
+28,best_actress_comedy,1988,False,Bette Midler
+29,best_actress_comedy,1988,False,na
+30,best_actor_comedy,1988,True,Robin Williams
+31,best_actor_comedy,1988,False,Nicolas Cage
+32,best_actor_comedy,1988,False,Danny DeVito
+33,best_actor_comedy,1988,False,William Hurt
+34,best_actor_comedy,1988,False,Steve Martin
+35,best_actor_comedy,1988,False,Patrick Swayze
+36,support_actress,1988,True,Olympia Dukakis
+37,support_actress,1988,False,Norma Aleandro
+38,support_actress,1988,False,Anne Archer
+39,support_actress,1988,False,Anne Ramsey
+40,support_actress,1988,False,Vanessa Redgrave
+41,support_actress,1988,False,na
+42,support_actor,1988,True,Sean Connery
+43,support_actor,1988,False,Richard Dreyfuss
+44,support_actor,1988,False,R. Lee Ermey
+45,support_actor,1988,False,Morgan Freeman
+46,support_actor,1988,False,Rob Lowe
+47,support_actor,1988,False,na
+0,best_picture - drama,1987,True,Platoon
+1,best_picture - drama,1987,False,A Room with a View
+2,best_picture - drama,1987,False,Stand By Me
+3,best_picture - drama,1987,False,Children of a Lesser God
+4,best_picture - drama,1987,False,The Mission
+5,best_picture - drama,1987,False,Mona Lisa
+6,best_picture - comedy,1987,True,Hannah and Her Sisters
+7,best_picture - comedy,1987,False,Crimes of the Heart
+8,best_picture - comedy,1987,False,Down and Out In Beverly Hills
+9,best_picture - comedy,1987,False,Little Shop of Horrors
+10,best_picture - comedy,1987,False,Peggy Sue Got Married
+11,best_picture - comedy,1987,False,Crocodile Dundee
+12,best_actress_drama,1987,True,Marlee Matlin
+13,best_actress_drama,1987,False,Julie Andrews
+14,best_actress_drama,1987,False,Anne Bancroft
+15,best_actress_drama,1987,False,Farrah Fawcett
+16,best_actress_drama,1987,False,Sigourney Weaver
+17,best_actress_drama,1987,False,na
+18,best_actor_drama,1987,True,Bob Hoskins
+19,best_actor_drama,1987,False,Jeremy Irons
+20,best_actor_drama,1987,False,Paul Newman
+21,best_actor_drama,1987,False,Harrison Ford
+22,best_actor_drama,1987,False,Dexter Gordon
+23,best_actor_drama,1987,False,William Hurt
+24,best_actress_comedy,1987,True,Sissy Spacek
+25,best_actress_comedy,1987,False,Kathleen Turner
+26,best_actress_comedy,1987,False,Julie Andrews
+27,best_actress_comedy,1987,False,Melanie Griffith
+28,best_actress_comedy,1987,False,Bette Midler
+29,best_actress_comedy,1987,False,na
+30,best_actor_comedy,1987,True,Paul Hogan
+31,best_actor_comedy,1987,False,Matthew Broderick
+32,best_actor_comedy,1987,False,Jeff Daniels
+33,best_actor_comedy,1987,False,Danny DeVito
+34,best_actor_comedy,1987,False,Jack Lemmon
+35,best_actor_comedy,1987,False,na
+36,support_actress,1987,True,Maggie Smith
+37,support_actress,1987,False,Linda Kozlowski 
+38,support_actress,1987,False,Mary Elizabeth Mastrantonio
+39,support_actress,1987,False,Cathy Tyson
+40,support_actress,1987,False,Dianne Wiest
+41,support_actress,1987,False,na
+42,support_actor,1987,True,Tom Berenger
+43,support_actor,1987,False,Michael Caine
+44,support_actor,1987,False,Dennis Hopper
+45,support_actor,1987,False,Ray Liotta
+46,support_actor,1987,False,Dennis Hopper
+47,support_actor,1987,False,na
+0,best_picture - drama,1986,True,Out of Africa
+1,best_picture - drama,1986,False,The Color Purple
+2,best_picture - drama,1986,False,Kiss of the Spider Woman
+3,best_picture - drama,1986,False,Runaway Train
+4,best_picture - drama,1986,False,Witness
+5,best_picture - drama,1986,False,na
+6,best_picture - comedy,1986,True,Prizzi's Honor
+7,best_picture - comedy,1986,False,Back To The Future
+8,best_picture - comedy,1986,False,A Chorus Line: The Movie
+9,best_picture - comedy,1986,False,Cocoon
+10,best_picture - comedy,1986,False,The Purple Rose of Cairo
+11,best_picture - comedy,1986,False,na
+12,best_actress_drama,1986,True,Whoopi Goldberg
+13,best_actress_drama,1986,False,Anne Bancroft
+14,best_actress_drama,1986,False,Cher
+15,best_actress_drama,1986,False,Geraldine Page
+16,best_actress_drama,1986,False,Meryl Streep
+17,best_actress_drama,1986,False,na
+18,best_actor_drama,1986,True,Jon Voight
+19,best_actor_drama,1986,False,Raul Julia
+20,best_actor_drama,1986,False,Harrison Ford
+21,best_actor_drama,1986,False,Gene Hackman
+22,best_actor_drama,1986,False,William Hurt
+23,best_actor_drama,1986,False,na
+24,best_actress_comedy,1986,True,Kathleen Turner
+25,best_actress_comedy,1986,False,Rosanna Arquette
+26,best_actress_comedy,1986,False,Glenn Close
+27,best_actress_comedy,1986,False,Mia Farrow
+28,best_actress_comedy,1986,False,Sally Field
+29,best_actress_comedy,1986,False,na
+30,best_actor_comedy,1986,True,Jack Nicholson
+31,best_actor_comedy,1986,False,Griffin Dunne
+32,best_actor_comedy,1986,False,Michael J. Fox
+33,best_actor_comedy,1986,False,James Garner
+34,best_actor_comedy,1986,False,Jeff Daniels
+35,best_actor_comedy,1986,False,na
+36,support_actress,1986,True,Meg Tilly
+37,support_actress,1986,False,Sônia Braga
+38,support_actress,1986,False,Anjelica Huston
+39,support_actress,1986,False,Amy Madigan
+40,support_actress,1986,False,Kelly McGillis
+41,support_actress,1986,False,Oprah Winfrey
+42,support_actor,1986,True,Klaus Maria Brandauer
+43,support_actor,1986,False,Joel Grey
+44,support_actor,1986,False,John Lone
+45,support_actor,1986,False,Eric Roberts
+46,support_actor,1986,False,Eric Stoltz
+47,support_actor,1986,False,na
+0,best_picture - drama,1985,True,Amadeus
+1,best_picture - drama,1985,False,The Cotton Club
+2,best_picture - drama,1985,False,The Killing Fields
+3,best_picture - drama,1985,False,Places in the Heart
+4,best_picture - drama,1985,False,A Soldier's Story
+5,best_picture - drama,1985,False,na
+6,best_picture - drama,1985,False,na
+7,best_picture - comedy,1985,True,Romancing the Stone
+8,best_picture - comedy,1985,False,Ghostbusters
+9,best_picture - comedy,1985,False,Micki & Maude
+10,best_picture - comedy,1985,False,Splash
+11,best_picture - comedy,1985,False,Beverly Hills Cop
+12,best_picture - comedy,1985,False,na
+13,best_picture - comedy,1985,False,na
+14,best_actress_drama,1985,True,Sally Field
+15,best_actress_drama,1985,False,Jessica Lange
+16,best_actress_drama,1985,False,Vanessa Redgrave
+17,best_actress_drama,1985,False,Sissy Spacek
+18,best_actress_drama,1985,False,Diane Keaton
+19,best_actress_drama,1985,False,na
+20,best_actress_drama,1985,False,na
+21,best_actor_drama,1985,True,F. Murray Abraham
+22,best_actor_drama,1985,False,Jeff Bridges
+23,best_actor_drama,1985,False,Albert Finney
+24,best_actor_drama,1985,False,Tom Hulce
+25,best_actor_drama,1985,False,Sam Waterston
+26,best_actor_drama,1985,False,na
+27,best_actor_drama,1985,False,na
+28,best_actress_comedy,1985,True,Kathleen Turner
+29,best_actress_comedy,1985,False,Anne Bancroft
+30,best_actress_comedy,1985,False,Mia Farrow
+31,best_actress_comedy,1985,False,Shelley Long
+32,best_actress_comedy,1985,False,Lily Tomlin
+33,best_actress_comedy,1985,False,na
+34,best_actress_comedy,1985,False,na
+35,best_actor_comedy,1985,True,Dudley Moore
+36,best_actor_comedy,1985,False,Robin Williams
+37,best_actor_comedy,1985,False,Steve Martin
+38,best_actor_comedy,1985,False,Eddie Murphy
+39,best_actor_comedy,1985,False,Bill Murray
+40,best_actor_comedy,1985,False,na
+41,best_actor_comedy,1985,False,na
+42,support_actress,1985,True,Peggy Ashcroft
+43,support_actress,1985,False,Drew Barrymore
+44,support_actress,1985,False,Kim Basinger
+45,support_actress,1985,False,Jacqueline Bisset
+46,support_actress,1985,False,Melanie Griffith
+47,support_actress,1985,False,Christine Lahti
+48,support_actress,1985,False,Lesley Ann Warren
+49,support_actor,1985,True,Haing S. Ngor
+50,support_actor,1985,False,Jeffrey Jones
+51,support_actor,1985,False,Pat Morita
+52,support_actor,1985,False,Adolph Caesar
+53,support_actor,1985,False,Richard Crenna
+54,support_actor,1985,False,na
+55,support_actor,1985,False,na
+0,best_picture - drama,1984,True,Terms of Endearment
+1,best_picture - drama,1984,False,Silkwood
+2,best_picture - drama,1984,False,Tender Mercies
+3,best_picture - drama,1984,False,"Reuben,  Reuben"
+4,best_picture - drama,1984,False,"Right Stuff,  The"
+5,best_picture - drama,1984,False,na
+6,best_picture - drama,1984,False,na
+7,best_picture - comedy,1984,True,Yentl
+8,best_picture - comedy,1984,False,"Big Chill,  The"
+9,best_picture - comedy,1984,False,Flashdance
+10,best_picture - comedy,1984,False,Trading Places
+11,best_picture - comedy,1984,False,Zelig
+12,best_picture - comedy,1984,False,na
+13,best_picture - comedy,1984,False,na
+14,best_actress_drama,1984,True,Shirley MacLaine
+15,best_actress_drama,1984,False,Jane Alexander
+16,best_actress_drama,1984,False,Bonnie Bedelia
+17,best_actress_drama,1984,False,Meryl Streep
+18,best_actress_drama,1984,False,Debra Winger
+19,best_actress_drama,1984,False,na
+20,best_actress_drama,1984,False,na
+21,best_actor_drama,1984,True,Robert Duvall
+22,best_actor_drama,1984,False,Tom Courtenay
+23,best_actor_drama,1984,False,Albert Finney
+24,best_actor_drama,1984,False,Al Pacino
+25,best_actor_drama,1984,False,Eric Roberts
+26,best_actor_drama,1984,False,Tom Conti
+27,best_actor_drama,1984,False,Richard Farnsworth
+28,best_actress_comedy,1984,True,Julie Walters
+29,best_actress_comedy,1984,False,Anne Bancroft
+30,best_actress_comedy,1984,False,Jennifer Beals
+31,best_actress_comedy,1984,False,Linda Ronstadt
+32,best_actress_comedy,1984,False,Barbra Streisand
+33,best_actress_comedy,1984,False,na
+34,best_actress_comedy,1984,False,na
+35,best_actor_comedy,1984,True,Michael Caine
+36,best_actor_comedy,1984,False,Tom Cruise
+37,best_actor_comedy,1984,False,Eddie Murphy
+38,best_actor_comedy,1984,False,Mandy Patinkin
+39,best_actor_comedy,1984,False,Woody Allen
+40,best_actor_comedy,1984,False,na
+41,best_actor_comedy,1984,False,na
+42,support_actress,1984,True,Cher
+43,support_actress,1984,False,Barbara Carrera
+44,support_actress,1984,False,Tess Harper
+45,support_actress,1984,False,Linda Hunt
+46,support_actress,1984,False,Joanna Pacula
+47,support_actress,1984,False,na
+48,support_actress,1984,False,na
+49,support_actor,1984,True,Jack Nicholson
+50,support_actor,1984,False,Charles Durning
+51,support_actor,1984,False,Gene Hackman
+52,support_actor,1984,False,Kurt Russell
+53,support_actor,1984,False,Steven Bauer
+54,support_actor,1984,False,na
+55,support_actor,1984,False,na
+0,best_picture - drama,1983,True,E. T. The Extra-Terrestrial
+1,best_picture - drama,1983,False,Missing
+2,best_picture - drama,1983,False,An Officer and a Gentleman
+3,best_picture - drama,1983,False,Sophie's Choice
+4,best_picture - drama,1983,False,The Verdict
+5,best_picture - drama,1983,False,na
+6,best_picture - comedy,1983,True,Tootsie
+7,best_picture - comedy,1983,False,The Best Little Whorehouse In Texas
+8,best_picture - comedy,1983,False,Diner
+9,best_picture - comedy,1983,False,My Favorite Year
+10,best_picture - comedy,1983,False,Victor Victoria
+11,best_picture - comedy,1983,False,na
+12,best_actress_drama,1983,True,Meryl Streep
+13,best_actress_drama,1983,False,Diane Keaton
+14,best_actress_drama,1983,False,Jessica Lange
+15,best_actress_drama,1983,False,Sissy Spacek
+16,best_actress_drama,1983,False,Debra Winger
+17,best_actress_drama,1983,False,na
+18,best_actor_drama,1983,True,Ben Kingsley
+19,best_actor_drama,1983,False,Paul Newman
+20,best_actor_drama,1983,False,Albert Finney
+21,best_actor_drama,1983,False,Richard Gere
+22,best_actor_drama,1983,False,Jack Lemmon
+23,best_actor_drama,1983,False,na
+24,best_actress_comedy,1983,True,Julie Andrews
+25,best_actress_comedy,1983,False,Dolly Parton
+26,best_actress_comedy,1983,False,Aileen Quinn
+27,best_actress_comedy,1983,False,Carol Burnett
+28,best_actress_comedy,1983,False,Sally Field
+29,best_actress_comedy,1983,False,Goldie Hawn
+30,best_actor_comedy,1983,True,Dustin Hoffman
+31,best_actor_comedy,1983,False,Peter O'Toole
+32,best_actor_comedy,1983,False,Al Pacino
+33,best_actor_comedy,1983,False,Robert Preston
+34,best_actor_comedy,1983,False,Henry Winkler
+35,best_actor_comedy,1983,False,na
+36,support_actress,1983,True,Jessica Lange
+37,support_actress,1983,False,Lesley Ann Warren
+38,support_actress,1983,False,Cher
+39,support_actress,1983,False,Lainie Kazan
+40,support_actress,1983,False,Kim Stanley
+41,support_actress,1983,False,na
+42,support_actor,1983,True,Louis Gossett Jr.
+43,support_actor,1983,False,Raul Julia
+44,support_actor,1983,False,David Keith
+45,support_actor,1983,False,James Mason
+46,support_actor,1983,False,Jim Metzler
+47,support_actor,1983,False,na
+0,best_picture - drama,1982,True,On Golden Pond
+1,best_picture - drama,1982,False,"French Lieutenant's Woman,  The"
+2,best_picture - drama,1982,False,Prince of the City
+3,best_picture - drama,1982,False,Ragtime
+4,best_picture - drama,1982,False,Reds
+5,best_picture - comedy,1982,True,Arthur
+6,best_picture - comedy,1982,False,"Four Seasons,  The"
+7,best_picture - comedy,1982,False,Pennies from Heaven
+8,best_picture - comedy,1982,False,S. O. B.
+9,best_picture - comedy,1982,False,Zoot Suit
+10,best_actress_drama,1982,True,Meryl Streep
+11,best_actress_drama,1982,False,Sally Field
+12,best_actress_drama,1982,False,Katharine Hepburn
+13,best_actress_drama,1982,False,Diane Keaton
+14,best_actress_drama,1982,False,Sissy Spacek
+15,best_actor_drama,1982,True,Henry Fonda
+16,best_actor_drama,1982,False,Treat Williams
+17,best_actor_drama,1982,False,Warren Beatty
+18,best_actor_drama,1982,False,Timothy Hutton
+19,best_actor_drama,1982,False,Burt Lancaster
+20,best_actress_comedy,1982,True,Bernadette Peters
+21,best_actress_comedy,1982,False,Liza Minnelli
+22,best_actress_comedy,1982,False,Blair Brown
+23,best_actress_comedy,1982,False,Carol Burnett
+24,best_actress_comedy,1982,False,Jill Clayburgh
+25,best_actor_comedy,1982,True,Dudley Moore
+26,best_actor_comedy,1982,False,Alan Alda
+27,best_actor_comedy,1982,False,George Hamilton
+28,best_actor_comedy,1982,False,Steve Martin
+29,best_actor_comedy,1982,False,Walter Matthau
+30,support_actress,1982,True,Joan Hackett
+31,support_actress,1982,False,Jane Fonda
+32,support_actress,1982,False,Kristy McNichol
+33,support_actress,1982,False,Maureen Stapleton
+34,support_actress,1982,False,Mary Steenburgen
+35,support_actor,1982,True,John Gielgud
+36,support_actor,1982,False,James Coco
+37,support_actor,1982,False,Jack Nicholson
+38,support_actor,1982,False,Howard E. Rollins Jr.
+39,support_actor,1982,False,Orson Welles
+0,best_picture - drama,1981,True,Ordinary People
+1,best_picture - drama,1981,False,"Elephant Man,  The"
+2,best_picture - drama,1981,False,"Ninth Configuration,  The"
+3,best_picture - drama,1981,False,Raging Bull
+4,best_picture - drama,1981,False,"Stunt Man,  The"
+5,best_picture - comedy,1981,True,Coal Miner's Daughter
+6,best_picture - comedy,1981,False,Airplane!
+7,best_picture - comedy,1981,False,Fame
+8,best_picture - comedy,1981,False,"Idolmaker,  The"
+9,best_picture - comedy,1981,False,Melvin and Howard
+10,best_actress_drama,1981,True,Mary Tyler Moore
+11,best_actress_drama,1981,False,Gena Rowlands
+12,best_actress_drama,1981,False,Ellen Burstyn
+13,best_actress_drama,1981,False,Nastassja Kinski
+14,best_actress_drama,1981,False,Deborah Raffin
+15,best_actor_drama,1981,True,Robert De Niro
+16,best_actor_drama,1981,False,John Hurt
+17,best_actor_drama,1981,False,Jack Lemmon
+18,best_actor_drama,1981,False,Peter O'Toole
+19,best_actor_drama,1981,False,Donald Sutherland
+20,best_actress_comedy,1981,True,Sissy Spacek
+21,best_actress_comedy,1981,False,Irene Cara
+22,best_actress_comedy,1981,False,Goldie Hawn
+23,best_actress_comedy,1981,False,Bette Midler
+24,best_actress_comedy,1981,False,Dolly Parton
+25,best_actor_comedy,1981,True,Ray Sharkey
+26,best_actor_comedy,1981,False,Walter Matthau
+27,best_actor_comedy,1981,False,Neil Diamond
+28,best_actor_comedy,1981,False,Tommy Lee Jones
+29,best_actor_comedy,1981,False,Paul Le Mat
+30,support_actress,1981,True,Mary Steenburgen
+31,support_actress,1981,False,Lucie Arnaz
+32,support_actress,1981,False,Beverly D'Angelo
+33,support_actress,1981,False,Cathy Moriarty
+34,support_actress,1981,False,Debra Winger
+35,support_actor,1981,True,Timothy Hutton
+36,support_actor,1981,False,Judd Hirsch
+37,support_actor,1981,False,Joe Pesci
+38,support_actor,1981,False,Jason Robards Jr.
+39,support_actor,1981,False,Scott Wilson
+0,best_picture - drama,1980,True,Kramer vs. Kramer
+1,best_picture - drama,1980,False,Apocalypse Now
+2,best_picture - drama,1980,False,"China Syndrome,  The"
+3,best_picture - drama,1980,False,Manhattan
+4,best_picture - drama,1980,False,Norma Rae
+5,best_picture - comedy,1980,True,Breaking Away
+6,best_picture - comedy,1980,False,Being There
+7,best_picture - comedy,1980,False,Hair
+8,best_picture - comedy,1980,False,"Rose,  The"
+9,best_picture - comedy,1980,False,10
+10,best_actress_drama,1980,True,Sally Field
+11,best_actress_drama,1980,False,Marsha Mason
+12,best_actress_drama,1980,False,Jill Clayburgh
+13,best_actress_drama,1980,False,Lisa Eichhorn
+14,best_actress_drama,1980,False,Jane Fonda
+15,best_actor_drama,1980,True,Dustin Hoffman
+16,best_actor_drama,1980,False,Jack Lemmon
+17,best_actor_drama,1980,False,Al Pacino
+18,best_actor_drama,1980,False,Jon Voight
+19,best_actor_drama,1980,False,James Woods
+20,best_actress_comedy,1980,True,Bette Midler
+21,best_actress_comedy,1980,False,Julie Andrews
+22,best_actress_comedy,1980,False,Jill Clayburgh
+23,best_actress_comedy,1980,False,Shirley MacLaine
+24,best_actress_comedy,1980,False,Marsha Mason
+25,best_actor_comedy,1980,True,Peter Sellers
+26,best_actor_comedy,1980,False,Roy Scheider
+27,best_actor_comedy,1980,False,George Hamilton
+28,best_actor_comedy,1980,False,Dudley Moore
+29,best_actor_comedy,1980,False,Burt Reynolds
+30,support_actress,1980,True,Meryl Streep
+31,support_actress,1980,False,Jane Alexander
+32,support_actress,1980,False,Kathleen Beller
+33,support_actress,1980,False,Candice Bergen
+34,support_actress,1980,False,Valerie Harper
+35,support_actor,1980,True,Robert Duvall
+36,support_actor,1980,False,Melvyn Douglas
+37,support_actor,1980,False,Frederic Forrest
+38,support_actor,1980,False,Justin Henry
+39,support_actor,1980,False,Laurence Olivier
+0,best_picture - drama,1979,True,Midnight Express
+1,best_picture - drama,1979,False,Coming Home
+2,best_picture - drama,1979,False,Days of Heaven
+3,best_picture - drama,1979,False,The Deer Hunter
+4,best_picture - drama,1979,False,An Unmarried Woman
+5,best_picture - drama,1979,False,na
+6,best_picture - comedy,1979,True,Heaven Can Wait
+7,best_picture - comedy,1979,False,California Suite
+8,best_picture - comedy,1979,False,Foul Play
+9,best_picture - comedy,1979,False,Grease
+10,best_picture - comedy,1979,False,Movie Movie
+11,best_picture - comedy,1979,False,na
+12,best_actress_drama,1979,True,Jane Fonda
+13,best_actress_drama,1979,False,Ingrid Bergman
+14,best_actress_drama,1979,False,Jill Clayburgh
+15,best_actress_drama,1979,False,Glenda Jackson
+16,best_actress_drama,1979,False,Geraldine Page
+17,best_actress_drama,1979,False,na
+18,best_actor_drama,1979,True,Jon Voight
+19,best_actor_drama,1979,False,Gregory Peck
+20,best_actor_drama,1979,False,Brad Davis
+21,best_actor_drama,1979,False,Robert De Niro
+22,best_actor_drama,1979,False,Anthony Hopkins
+23,best_actor_drama,1979,False,na
+24,best_actress_comedy,1979,True,Ellen Burstyn
+25,best_actress_comedy,1979,False,Maggie Smith
+26,best_actress_comedy,1979,False,Jacqueline Bisset
+27,best_actress_comedy,1979,False,Goldie Hawn
+28,best_actress_comedy,1979,False,Olivia Newton-John
+29,best_actress_comedy,1979,False,na
+30,best_actor_comedy,1979,True,Warren Beatty
+31,best_actor_comedy,1979,False,Alan Alda
+32,best_actor_comedy,1979,False,Gary Busey
+33,best_actor_comedy,1979,False,Chevy Chase
+34,best_actor_comedy,1979,False,George C. Scott
+35,best_actor_comedy,1979,False,John Travolta
+36,support_actress,1979,True,Dyan Cannon
+37,support_actress,1979,False,Carol Burnett
+38,support_actress,1979,False,Maureen Stapleton
+39,support_actress,1979,False,Meryl Streep
+40,support_actress,1979,False,Mona Washbourne
+41,support_actress,1979,False,na
+42,support_actor,1979,True,John Hurt
+43,support_actor,1979,False,Bruce Dern
+44,support_actor,1979,False,Dudley Moore
+45,support_actor,1979,False,Robert Morley
+46,support_actor,1979,False,Christopher Walken
+47,support_actor,1979,False,na
+0,best_picture - drama,1978,True,The Turning Point
+1,best_picture - drama,1978,False,Close Encounters of the Third Kind
+2,best_picture - drama,1978,False,I Never Promised You a Rose Garden
+3,best_picture - drama,1978,False,Julia
+4,best_picture - drama,1978,False,Star Wars: Episode IV - A New Hope
+5,best_picture - drama,1978,False,na
+6,best_picture - comedy,1978,True,The Goodbye Girl
+7,best_picture - comedy,1978,False,High Anxiety
+8,best_picture - comedy,1978,False,"New York,  New York"
+9,best_picture - comedy,1978,False,Saturday Night Fever
+10,best_picture - comedy,1978,False,Annie Hall
+11,best_picture - comedy,1978,False,na
+12,best_actress_drama,1978,True,Jane Fonda
+13,best_actress_drama,1978,False,Diane Keaton
+14,best_actress_drama,1978,False,Kathleen Quinlan
+15,best_actress_drama,1978,False,Gena Rowlands
+16,best_actress_drama,1978,False,Anne Bancroft
+17,best_actress_drama,1978,False,na
+18,best_actor_drama,1978,True,Richard Burton
+19,best_actor_drama,1978,False,Marcello Mastroianni
+20,best_actor_drama,1978,False,Al Pacino
+21,best_actor_drama,1978,False,Gregory Peck
+22,best_actor_drama,1978,False,Henry Winkler
+23,best_actor_drama,1978,False,na
+24,best_actress_comedy,1978,True,Diane Keaton
+25,best_actress_comedy,1978,False,Marsha Mason
+26,best_actress_comedy,1978,False,Sally Field
+27,best_actress_comedy,1978,False,Liza Minnelli
+28,best_actress_comedy,1978,False,Lily Tomlin
+29,best_actress_comedy,1978,False,na
+30,best_actor_comedy,1978,True,Richard Dreyfuss
+31,best_actor_comedy,1978,False,Woody Allen
+32,best_actor_comedy,1978,False,Mel Brooks
+33,best_actor_comedy,1978,False,Robert De Niro
+34,best_actor_comedy,1978,False,John Travolta
+35,best_actor_comedy,1978,False,na
+36,support_actress,1978,True,Vanessa Redgrave
+37,support_actress,1978,False,Lilia Skala
+38,support_actress,1978,False,Ann-Margret
+39,support_actress,1978,False,Joan Blondell
+40,support_actress,1978,False,Leslie Browne
+41,support_actress,1978,False,Quinn Cummings
+42,support_actor,1978,True,Peter Firth
+43,support_actor,1978,False,Mikhail Baryshnikov
+44,support_actor,1978,False,Alec Guinness
+45,support_actor,1978,False,Jason Robards Jr.
+46,support_actor,1978,False,Maximilian Schell
+47,support_actor,1978,False,na
+0,best_picture - drama,1977,True,Rocky
+1,best_picture - drama,1977,False,All The President's Men
+2,best_picture - drama,1977,False,Bound for Glory
+3,best_picture - drama,1977,False,Network
+4,best_picture - drama,1977,False,Voyage of the Damned
+5,best_picture - drama,1977,False,na
+6,best_picture - comedy,1977,True,A Star Is Born
+7,best_picture - comedy,1977,False,Bugsy Malone
+8,best_picture - comedy,1977,False,The Pink Panther Strikes Again
+9,best_picture - comedy,1977,False,The Ritz
+10,best_picture - comedy,1977,False,Silent Movie
+11,best_picture - comedy,1977,False,na
+12,best_actress_drama,1977,True,Faye Dunaway
+13,best_actress_drama,1977,False,Glenda Jackson
+14,best_actress_drama,1977,False,Sarah Miles
+15,best_actress_drama,1977,False,Talia Shire
+16,best_actress_drama,1977,False,Liv Ullmann
+17,best_actress_drama,1977,False,na
+18,best_actor_drama,1977,True,Peter Finch
+19,best_actor_drama,1977,False,Sylvester Stallone
+20,best_actor_drama,1977,False,David Carradine
+21,best_actor_drama,1977,False,Robert De Niro
+22,best_actor_drama,1977,False,Dustin Hoffman
+23,best_actor_drama,1977,False,na
+24,best_actress_comedy,1977,True,Barbra Streisand
+25,best_actress_comedy,1977,False,Jodie Foster
+26,best_actress_comedy,1977,False,Barbara Harris
+27,best_actress_comedy,1977,False,Barbara Harris
+28,best_actress_comedy,1977,False,Goldie Hawn
+29,best_actress_comedy,1977,False,Rita Moreno
+30,best_actor_comedy,1977,True,Kris Kristofferson
+31,best_actor_comedy,1977,False,Mel Brooks
+32,best_actor_comedy,1977,False,Peter Sellers
+33,best_actor_comedy,1977,False,Jack Weston
+34,best_actor_comedy,1977,False,Gene Wilder
+35,best_actor_comedy,1977,False,na
+36,support_actress,1977,True,Katharine Ross
+37,support_actress,1977,False,Lee Grant
+38,support_actress,1977,False,Marthe Keller
+39,support_actress,1977,False,Piper Laurie
+40,support_actress,1977,False,Bernadette Peters
+41,support_actress,1977,False,Shelley Winters
+42,support_actor,1977,True,Laurence Olivier
+43,support_actor,1977,False,Marty Feldman
+44,support_actor,1977,False,Ron Howard
+45,support_actor,1977,False,Jason Robards Jr.
+46,support_actor,1977,False,Oskar Werner
+47,support_actor,1977,False,na
+0,best_picture - drama,1976,True,One Flew Over The Cuckoo's Nest
+1,best_picture - drama,1976,False,Barry Lyndon
+2,best_picture - drama,1976,False,Dog Day Afternoon
+3,best_picture - drama,1976,False,Jaws
+4,best_picture - drama,1976,False,Nashville
+5,best_picture - drama,1976,False,na
+6,best_picture - comedy,1976,True,The Sunshine Boys
+7,best_picture - comedy,1976,False,The Return of the Pink Panther
+8,best_picture - comedy,1976,False,Shampoo
+9,best_picture - comedy,1976,False,Tommy
+10,best_picture - comedy,1976,False,Funny Lady
+11,best_picture - comedy,1976,False,na
+12,best_actress_drama,1976,True,Louise Fletcher
+13,best_actress_drama,1976,False,Faye Dunaway
+14,best_actress_drama,1976,False,Marilyn Hassett
+15,best_actress_drama,1976,False,Glenda Jackson
+16,best_actress_drama,1976,False,Karen Black
+17,best_actress_drama,1976,False,na
+18,best_actor_drama,1976,True,Jack Nicholson
+19,best_actor_drama,1976,False,Gene Hackman
+20,best_actor_drama,1976,False,Al Pacino
+21,best_actor_drama,1976,False,Maximilian Schell
+22,best_actor_drama,1976,False,James Whitmore
+23,best_actor_drama,1976,False,na
+24,best_actress_comedy,1976,True,Ann-Margret
+25,best_actress_comedy,1976,False,Julie Christie
+26,best_actress_comedy,1976,False,Goldie Hawn
+27,best_actress_comedy,1976,False,Liza Minnelli
+28,best_actress_comedy,1976,False,Barbra Streisand
+29,best_actress_comedy,1976,False,na
+30,best_actor_comedy,1976,True,Walter Matthau
+31,best_actor_comedy,1976,False,Warren Beatty
+32,best_actor_comedy,1976,False,James Caan
+33,best_actor_comedy,1976,False,Peter Sellers
+34,best_actor_comedy,1976,False,na
+35,best_actor_comedy,1976,False,na
+36,support_actress,1976,True,Brenda Vaccaro
+37,support_actress,1976,False,Ronee Blakley
+38,support_actress,1976,False,Geraldine Chaplin
+39,support_actress,1976,False,Lee Grant
+40,support_actress,1976,False,Barbara Harris
+41,support_actress,1976,False,Lily Tomlin
+42,support_actor,1976,True,Richard Benjamin
+43,support_actor,1976,False,John Cazale
+44,support_actor,1976,False,Charles Durning
+45,support_actor,1976,False,Henry Gibson
+46,support_actor,1976,False,Burgess Meredith
+47,support_actor,1976,False,na
+0,best_picture - drama,1975,True,Chinatown
+1,best_picture - drama,1975,False,Earthquake
+2,best_picture - drama,1975,False,"Godfather Part II,  The"
+3,best_picture - drama,1975,False,"Woman Under The Influence,  A"
+4,best_picture - drama,1975,False,"Conversation,  The"
+5,best_picture - comedy,1975,True,The Longest Yard
+6,best_picture - comedy,1975,False,"Front Page,  The"
+7,best_picture - comedy,1975,False,Harry & Tonto
+8,best_picture - comedy,1975,False,"Little Prince,  The"
+9,best_picture - comedy,1975,False,"Three Musketeers,  The"
+10,best_actress_drama,1975,True,Gena Rowlands
+11,best_actress_drama,1975,False,Ellen Burstyn
+12,best_actress_drama,1975,False,Faye Dunaway
+13,best_actress_drama,1975,False,Valerie Perrine
+14,best_actress_drama,1975,False,Liv Ullmann
+15,best_actor_drama,1975,True,Jack Nicholson
+16,best_actor_drama,1975,False,James Caan
+17,best_actor_drama,1975,False,Gene Hackman
+18,best_actor_drama,1975,False,Dustin Hoffman
+19,best_actor_drama,1975,False,Al Pacino
+20,best_actress_comedy,1975,True,Raquel Welch
+21,best_actress_comedy,1975,False,Lucille Ball
+22,best_actress_comedy,1975,False,Diahann Carroll
+23,best_actress_comedy,1975,False,Helen Hayes
+24,best_actress_comedy,1975,False,Cloris Leachman
+25,best_actor_comedy,1975,True,Art Carney
+26,best_actor_comedy,1975,False,Jack Lemmon
+27,best_actor_comedy,1975,False,Walter Matthau
+28,best_actor_comedy,1975,False,Burt Reynolds
+29,best_actor_comedy,1975,False,James Earl Jones
+30,support_actress,1975,True,Karen Black
+31,support_actress,1975,False,Beatrice Arthur
+32,support_actress,1975,False,Jennifer Jones
+33,support_actress,1975,False,Madeline Kahn
+34,support_actress,1975,False,Diane Ladd
+35,support_actor,1975,True,Fred Astaire
+36,support_actor,1975,False,Bruce Dern
+37,support_actor,1975,False,John Huston
+38,support_actor,1975,False,Sam Waterston
+39,support_actor,1975,False,Eddie Albert
+0,best_picture - drama,1974,True,The Exorcist
+1,best_picture - drama,1974,False,Cinderella Liberty
+2,best_picture - drama,1974,False,The Day of the Jackal
+3,best_picture - drama,1974,False,Last Tango in Paris
+4,best_picture - drama,1974,False,Save the Tiger
+5,best_picture - drama,1974,False,Serpico
+6,best_picture - comedy,1974,True,American Graffiti
+7,best_picture - comedy,1974,False,Jesus Christ Superstar
+8,best_picture - comedy,1974,False,Paper Moon
+9,best_picture - comedy,1974,False,Tom Sawyer
+10,best_picture - comedy,1974,False,A Touch of Class
+11,best_picture - comedy,1974,False,na
+12,best_actress_drama,1974,True,Marsha Mason
+13,best_actress_drama,1974,False,Barbra Streisand
+14,best_actress_drama,1974,False,Elizabeth Taylor
+15,best_actress_drama,1974,False,Joanne Woodward
+16,best_actress_drama,1974,False,Ellen Burstyn
+17,best_actress_drama,1974,False,na
+18,best_actor_drama,1974,True,Al Pacino
+19,best_actor_drama,1974,False,Robert Blake
+20,best_actor_drama,1974,False,Jack Lemmon
+21,best_actor_drama,1974,False,Steve McQueen
+22,best_actor_drama,1974,False,Jack Nicholson
+23,best_actor_drama,1974,False,na
+24,best_actress_comedy,1974,True,Glenda Jackson
+25,best_actress_comedy,1974,False,Liv Ullmann
+26,best_actress_comedy,1974,False,Yvonne Elliman
+27,best_actress_comedy,1974,False,Cloris Leachman
+28,best_actress_comedy,1974,False,Tatum O'Neal
+29,best_actress_comedy,1974,False,na
+30,best_actor_comedy,1974,True,George Segal
+31,best_actor_comedy,1974,False,Carl Anderson
+32,best_actor_comedy,1974,False,Richard Dreyfuss
+33,best_actor_comedy,1974,False,Ted Neeley
+34,best_actor_comedy,1974,False,Ryan O'Neal
+35,best_actor_comedy,1974,False,na
+36,support_actress,1974,True,Linda Blair
+37,support_actress,1974,False,Valentina Cortese
+38,support_actress,1974,False,Madeline Kahn
+39,support_actress,1974,False,Kate Reid
+40,support_actress,1974,False,Sylvia Sidney
+41,support_actress,1974,False,na
+42,support_actor,1974,True,John Houseman
+43,support_actor,1974,False,Martin Balsam
+44,support_actor,1974,False,Jack Gilford
+45,support_actor,1974,False,Randy Quaid
+46,support_actor,1974,False,Max von Sydow
+47,support_actor,1974,False,na
+0,best_picture - drama,1973,True,The Godfather
+1,best_picture - drama,1973,False,Deliverance
+2,best_picture - drama,1973,False,Frenzy
+3,best_picture - drama,1973,False,The Poseidon Adventure
+4,best_picture - drama,1973,False,Sleuth
+5,best_picture - drama,1973,False,na
+6,best_picture - comedy,1973,True,Cabaret
+7,best_picture - comedy,1973,False,Avanti!
+8,best_picture - comedy,1973,False,Butterflies Are Free
+9,best_picture - comedy,1973,False,1776
+10,best_picture - comedy,1973,False,Travels with My Aunt
+11,best_picture - comedy,1973,False,na
+12,best_actress_drama,1973,True,Liv Ullmann
+13,best_actress_drama,1973,False,Cicely Tyson
+14,best_actress_drama,1973,False,Trish Van Devere
+15,best_actress_drama,1973,False,Tuesday Weld
+16,best_actress_drama,1973,False,Joanne Woodward
+17,best_actress_drama,1973,False,Diana Ross
+18,best_actor_drama,1973,True,Marlon Brando
+19,best_actor_drama,1973,False,Laurence Olivier
+20,best_actor_drama,1973,False,Michael Caine
+21,best_actor_drama,1973,False,Al Pacino
+22,best_actor_drama,1973,False,Jon Voight
+23,best_actor_drama,1973,False,na
+24,best_actress_comedy,1973,True,Liza Minnelli
+25,best_actress_comedy,1973,False,Maggie Smith
+26,best_actress_comedy,1973,False,Carol Burnett
+27,best_actress_comedy,1973,False,Goldie Hawn
+28,best_actress_comedy,1973,False,Juliet Mills
+29,best_actress_comedy,1973,False,na
+30,best_actor_comedy,1973,True,Jack Lemmon
+31,best_actor_comedy,1973,False,Edward Albert
+32,best_actor_comedy,1973,False,Charles Grodin
+33,best_actor_comedy,1973,False,Walter Matthau
+34,best_actor_comedy,1973,False,Peter O'Toole
+35,best_actor_comedy,1973,False,na
+36,support_actress,1973,True,Shelley Winters
+37,support_actress,1973,False,Marisa Berenson
+38,support_actress,1973,False,Jeannie Berlin
+39,support_actress,1973,False,Helena Kallianiotes
+40,support_actress,1973,False,Geraldine Page
+41,support_actress,1973,False,na
+42,support_actor,1973,True,Joel Grey
+43,support_actor,1973,False,James Caan
+44,support_actor,1973,False,James Coco
+45,support_actor,1973,False,Alec McCowen
+46,support_actor,1973,False,Clive Revill
+47,support_actor,1973,False,na
+0,best_picture - drama,1972,True,"French Connection,  The"
+1,best_picture - drama,1972,False,"Clockwork Orange,  A"
+2,best_picture - drama,1972,False,"Last Picture Show,  The"
+3,best_picture - drama,1972,False,"Mary,  Queen of Scots"
+4,best_picture - drama,1972,False,Summer of '42
+5,best_picture - comedy,1972,True,Fiddler on the Roof
+6,best_picture - comedy,1972,False,Kotch
+7,best_picture - comedy,1972,False,"New Leaf,  A"
+8,best_picture - comedy,1972,False,Plaza Suite
+9,best_picture - comedy,1972,False,"Boy Friend,  The"
+10,best_actress_drama,1972,True,Jane Fonda
+11,best_actress_drama,1972,False,Glenda Jackson
+12,best_actress_drama,1972,False,Vanessa Redgrave
+13,best_actress_drama,1972,False,Jessica Walter
+14,best_actress_drama,1972,False,Dyan Cannon
+15,best_actor_drama,1972,True,Gene Hackman
+16,best_actor_drama,1972,False,Peter Finch
+17,best_actor_drama,1972,False,Malcolm McDowell
+18,best_actor_drama,1972,False,Jack Nicholson
+19,best_actor_drama,1972,False,George C. Scott
+20,best_actress_comedy,1972,True,Twiggy
+21,best_actress_comedy,1972,False,Elaine May
+22,best_actress_comedy,1972,False,Sandy Duncan
+23,best_actress_comedy,1972,False,Ruth Gordon
+24,best_actress_comedy,1972,False,Angela Lansbury
+25,best_actor_comedy,1972,True, Topol
+26,best_actor_comedy,1972,False,Bud Cort
+27,best_actor_comedy,1972,False,Dean Jones
+28,best_actor_comedy,1972,False,Walter Matthau
+29,best_actor_comedy,1972,False,Gene Wilder
+30,support_actress,1972,True,Ann-Margret
+31,support_actress,1972,False,Cloris Leachman
+32,support_actress,1972,False,Diana Rigg
+33,support_actress,1972,False,Maureen Stapleton
+34,support_actress,1972,False,Ellen Burstyn
+35,support_actor,1972,True,Ben Johnson
+36,support_actor,1972,False,Tom Baker
+37,support_actor,1972,False,Art Garfunkel
+38,support_actor,1972,False,Paul Mann
+39,support_actor,1972,False,Jan-Michael Vincent
+0,best_picture - drama,1971,True,Love Story
+1,best_picture - drama,1971,False,Airport
+2,best_picture - drama,1971,False,Five Easy Pieces
+3,best_picture - drama,1971,False,I Never Sang For My Father
+4,best_picture - drama,1971,False,Patton
+5,best_picture - comedy,1971,True,M*A*S*H
+6,best_picture - comedy,1971,False,Diary of a Mad Housewife
+7,best_picture - comedy,1971,False,Lovers and Other Strangers
+8,best_picture - comedy,1971,False,Scrooge
+9,best_picture - comedy,1971,False,Darling Lili
+10,best_actress_drama,1971,True,Ali MacGraw
+11,best_actress_drama,1971,False,Glenda Jackson
+12,best_actress_drama,1971,False,Melina Mercouri
+13,best_actress_drama,1971,False,Sarah Miles
+14,best_actress_drama,1971,False,Faye Dunaway
+15,best_actor_drama,1971,True,George C. Scott
+16,best_actor_drama,1971,False,Melvyn Douglas
+17,best_actor_drama,1971,False,James Earl Jones
+18,best_actor_drama,1971,False,Jack Nicholson
+19,best_actor_drama,1971,False,Ryan O'Neal
+20,best_actress_comedy,1971,True,Carrie Snodgress
+21,best_actress_comedy,1971,False,Sandy Dennis
+22,best_actress_comedy,1971,False,Angela Lansbury
+23,best_actress_comedy,1971,False,Barbra Streisand
+24,best_actress_comedy,1971,False,Julie Andrews
+25,best_actor_comedy,1971,True,Albert Finney
+26,best_actor_comedy,1971,False,Donald Sutherland
+27,best_actor_comedy,1971,False,Richard Benjamin
+28,best_actor_comedy,1971,False,Elliott Gould
+29,best_actor_comedy,1971,False,Jack Lemmon
+30,support_actress,1971,True,Karen Black
+31,support_actress,1971,False,Maureen Stapleton
+32,support_actress,1971,False,Tina Chen
+33,support_actress,1971,False,Lee Grant
+34,support_actress,1971,False,Sally Kellerman
+35,support_actor,1971,True,John Mills
+36,support_actor,1971,False,Chief Dan George
+37,support_actor,1971,False,Trevor Howard
+38,support_actor,1971,False,George Kennedy
+39,support_actor,1971,False,John Marley
+0,best_picture - drama,1970,True,Anne of the Thousand Days
+1,best_picture - drama,1970,False,Midnight Cowboy
+2,best_picture - drama,1970,False,"Prime of Miss Jean Brodie,  The"
+3,best_picture - drama,1970,False,"They Shoot Horses,  Don't They?"
+4,best_picture - drama,1970,False,Butch Cassidy and The Sundance Kid
+5,best_picture - comedy,1970,True,"Secret of Santa Vittoria,  The"
+6,best_picture - comedy,1970,False,Cactus Flower
+7,best_picture - comedy,1970,False,"Goodbye,  Columbus"
+8,best_picture - comedy,1970,False,"Hello,  Dolly!"
+9,best_picture - comedy,1970,False,Paint Your Wagon
+10,best_actress_drama,1970,True,Geneviève Bujold
+11,best_actress_drama,1970,False,Jane Fonda
+12,best_actress_drama,1970,False,Liza Minnelli
+13,best_actress_drama,1970,False,Jean Simmons
+14,best_actress_drama,1970,False,Maggie Smith
+15,best_actor_drama,1970,True,John Wayne
+16,best_actor_drama,1970,False,Alan Arkin
+17,best_actor_drama,1970,False,Richard Burton
+18,best_actor_drama,1970,False,Dustin Hoffman
+19,best_actor_drama,1970,False,Jon Voight
+20,best_actress_comedy,1970,True,Patty Duke
+21,best_actress_comedy,1970,False,Shirley MacLaine
+22,best_actress_comedy,1970,False,Anna Magnani
+23,best_actress_comedy,1970,False,Barbra Streisand
+24,best_actress_comedy,1970,False,Ingrid Bergman
+25,best_actor_comedy,1970,True,Peter O'Toole
+26,best_actor_comedy,1970,False,Lee Marvin
+27,best_actor_comedy,1970,False,Steve McQueen
+28,best_actor_comedy,1970,False,Anthony Quinn
+29,best_actor_comedy,1970,False,Dustin Hoffman
+30,support_actress,1970,True,Goldie Hawn
+31,support_actress,1970,False,Marianne McAndrew
+32,support_actress,1970,False,Sian Phillips
+33,support_actress,1970,False,Brenda Vaccaro
+34,support_actress,1970,False,Susannah York
+35,support_actor,1970,True,Gig Young
+36,support_actor,1970,False,Jack Nicholson
+37,support_actor,1970,False,Anthony Quayle
+38,support_actor,1970,False,Mitch Vogel
+39,support_actor,1970,False,Red Buttons
+0,best_picture - drama,1969,True,The Lion in Winter
+1,best_picture - drama,1969,False,Charly
+2,best_picture - drama,1969,False,The Fixer
+3,best_picture - drama,1969,False,The Heart Is a Lonely Hunter
+4,best_picture - drama,1969,False,The Shoes of the Fisherman
+5,best_picture - comedy,1969,True,Oliver!
+6,best_picture - comedy,1969,False,Finian's Rainbow
+7,best_picture - comedy,1969,False,The Odd Couple
+8,best_picture - comedy,1969,False,"Yours,  Mine and Ours"
+9,best_picture - comedy,1969,False,Funny Girl
+10,best_actress_drama,1969,True,Joanne Woodward
+11,best_actress_drama,1969,False,Mia Farrow
+12,best_actress_drama,1969,False,Katharine Hepburn
+13,best_actress_drama,1969,False,Vanessa Redgrave
+14,best_actress_drama,1969,False,Beryl Reid
+15,best_actor_drama,1969,True,Peter O'Toole
+16,best_actor_drama,1969,False,Cliff Robertson
+17,best_actor_drama,1969,False,Alan Arkin
+18,best_actor_drama,1969,False,Alan Bates
+19,best_actor_drama,1969,False,Tony Curtis
+20,best_actress_comedy,1969,True,Barbra Streisand
+21,best_actress_comedy,1969,False,Gina Lollobrigida
+22,best_actress_comedy,1969,False,Julie Andrews
+23,best_actress_comedy,1969,False,Lucille Ball
+24,best_actress_comedy,1969,False,Petula Clark
+25,best_actor_comedy,1969,True,Ron Moody
+26,best_actor_comedy,1969,False,Fred Astaire
+27,best_actor_comedy,1969,False,Jack Lemmon
+28,best_actor_comedy,1969,False,Walter Matthau
+29,best_actor_comedy,1969,False,Zero Mostel
+30,support_actress,1969,True,Ruth Gordon
+31,support_actress,1969,False,Abbey Lincoln
+32,support_actress,1969,False,Sondra Locke
+33,support_actress,1969,False,Jane Morrow
+34,support_actress,1969,False,Barbara Hancock
+35,support_actor,1969,True,Daniel Massey
+36,support_actor,1969,False,Beau Bridges
+37,support_actor,1969,False,Ossie Davis
+38,support_actor,1969,False,Hugh Griffith
+39,support_actor,1969,False,Martin Sheen
+0,best_picture - drama,1968,True,In the Heat of the Night
+1,best_picture - drama,1968,False,In Cold Blood
+2,best_picture - drama,1968,False,Bonnie and Clyde
+3,best_picture - drama,1968,False,Far From The Madding Crowd
+4,best_picture - drama,1968,False,Guess Who's Coming To Dinner
+5,best_picture - drama,1968,False,na
+6,best_picture - comedy,1968,True,The Graduate
+7,best_picture - comedy,1968,False,Camelot
+8,best_picture - comedy,1968,False,Doctor Dolittle
+9,best_picture - comedy,1968,False,The Taming of the Shrew
+10,best_picture - comedy,1968,False,Thoroughly Modern Millie
+11,best_picture - comedy,1968,False,na
+12,best_actress_drama,1968,True,Edith Evans
+13,best_actress_drama,1968,False,Faye Dunaway
+14,best_actress_drama,1968,False,Audrey Hepburn
+15,best_actress_drama,1968,False,Katharine Hepburn
+16,best_actress_drama,1968,False,Anne Heywood
+17,best_actress_drama,1968,False,na
+18,best_actor_drama,1968,True,Rod Steiger
+19,best_actor_drama,1968,False,Spencer Tracy
+20,best_actor_drama,1968,False,Sidney Poitier
+21,best_actor_drama,1968,False,Alan Bates
+22,best_actor_drama,1968,False,Warren Beatty
+23,best_actor_drama,1968,False,Paul Newman
+24,best_actress_comedy,1968,True,Anne Bancroft
+25,best_actress_comedy,1968,False,Julie Andrews
+26,best_actress_comedy,1968,False,Audrey Hepburn
+27,best_actress_comedy,1968,False,Shirley MacLaine
+28,best_actress_comedy,1968,False,Vanessa Redgrave
+29,best_actress_comedy,1968,False,na
+30,best_actor_comedy,1968,True,Richard Harris
+31,best_actor_comedy,1968,False,Rex Harrison
+32,best_actor_comedy,1968,False,Dustin Hoffman
+33,best_actor_comedy,1968,False,Ugo Tognazzi
+34,best_actor_comedy,1968,False,Richard Burton
+35,best_actor_comedy,1968,False,na
+36,support_actress,1968,True,Carol Channing
+37,support_actress,1968,False,Quentin Dean
+38,support_actress,1968,False,Lillian Gish
+39,support_actress,1968,False,Lee Grant
+40,support_actress,1968,False,Pruenella Ransome
+41,support_actress,1968,False,Beah Richards
+42,support_actor,1968,True,Richard Attenborough
+43,support_actor,1968,False,John Cassavetes
+44,support_actor,1968,False,George Kennedy
+45,support_actor,1968,False,Michael J. Pollard
+46,support_actor,1968,False,Efrem Zimbalist Jr.
+47,support_actor,1968,False,na
+0,best_picture - drama,1967,True,A Man for All Seasons
+1,best_picture - drama,1967,False,The Professionals
+2,best_picture - drama,1967,False,The Sand Pebbles
+3,best_picture - drama,1967,False,Who's Afraid of Virginia Woolf?
+4,best_picture - drama,1967,False,Born Free
+5,best_picture - comedy,1967,True,"The Russians Are Coming,  The Russians Are Coming"
+6,best_picture - comedy,1967,False,A Funny Thing Happened on the Way to the Forum
+7,best_picture - comedy,1967,False,Gambit
+8,best_picture - comedy,1967,False,"Not With My Wife,  You Don't"
+9,best_picture - comedy,1967,False,You're a Big Boy Now
+10,best_actress_drama,1967,True,Anouk Aimée
+11,best_actress_drama,1967,False,Ida Kaminska
+12,best_actress_drama,1967,False,Virginia McKenna
+13,best_actress_drama,1967,False,Elizabeth Taylor
+14,best_actress_drama,1967,False,Natalie Wood
+15,best_actor_drama,1967,True,Paul Scofield
+16,best_actor_drama,1967,False,Richard Burton
+17,best_actor_drama,1967,False,Michael Caine
+18,best_actor_drama,1967,False,Steve McQueen
+19,best_actor_drama,1967,False,Max von Sydow
+20,best_actress_comedy,1967,True,Lynn Redgrave
+21,best_actress_comedy,1967,False,Vanessa Redgrave
+22,best_actress_comedy,1967,False,Jane Fonda
+23,best_actress_comedy,1967,False,Elizabeth Hartman
+24,best_actress_comedy,1967,False,Shirley MacLaine
+25,best_actor_comedy,1967,True,Alan Arkin
+26,best_actor_comedy,1967,False,Walter Matthau
+27,best_actor_comedy,1967,False,Alan Bates
+28,best_actor_comedy,1967,False,Michael Caine
+29,best_actor_comedy,1967,False,Lionel Jeffries
+30,support_actress,1967,True,Jocelyn Lagarde
+31,support_actress,1967,False,Sandy Dennis
+32,support_actress,1967,False,Vivien Merchant
+33,support_actress,1967,False,Geraldine Page
+34,support_actress,1967,False,Shelley Winters
+35,support_actor,1967,True,Richard Attenborough
+36,support_actor,1967,False,Mako
+37,support_actor,1967,False,John Saxon
+38,support_actor,1967,False,George Segal
+39,support_actor,1967,False,Robert Shaw
+0,best_picture - drama,1966,True,Doctor Zhivago
+1,best_picture - drama,1966,False,The Collector
+2,best_picture - drama,1966,False,The Flight of the Phoenix
+3,best_picture - drama,1966,False,A Patch of Blue
+4,best_picture - drama,1966,False,Ship of Fools
+5,best_picture - comedy,1966,True,The Sound of Music
+6,best_picture - comedy,1966,False,Cat Ballou
+7,best_picture - comedy,1966,False,The Great Race
+8,best_picture - comedy,1966,False,Those Magnificent Men in Their Flying Machines
+9,best_picture - comedy,1966,False,A Thousand Clowns
+10,best_actress_drama,1966,True,Samantha Eggar
+11,best_actress_drama,1966,False,Julie Christie
+12,best_actress_drama,1966,False,Elizabeth Hartman
+13,best_actress_drama,1966,False,Simone Signoret
+14,best_actress_drama,1966,False,Maggie Smith
+15,best_actor_drama,1966,True,Omar Sharif
+16,best_actor_drama,1966,False,Oskar Werner
+17,best_actor_drama,1966,False,Rex Harrison
+18,best_actor_drama,1966,False,Sidney Poitier
+19,best_actor_drama,1966,False,Rod Steiger
+20,best_actress_comedy,1966,True,Julie Andrews
+21,best_actress_comedy,1966,False,Jane Fonda
+22,best_actress_comedy,1966,False,Barbara Harris
+23,best_actress_comedy,1966,False,Rita Tushingham
+24,best_actress_comedy,1966,False,Natalie Wood
+25,best_actor_comedy,1966,True,Lee Marvin
+26,best_actor_comedy,1966,False,Jack Lemmon
+27,best_actor_comedy,1966,False,Jerry Lewis
+28,best_actor_comedy,1966,False,Jason Robards Jr.
+29,best_actor_comedy,1966,False,Alberto Sordi
+30,support_actress,1966,True,Ruth Gordon
+31,support_actress,1966,False,Joyce Redman
+32,support_actress,1966,False,Thelma Ritter
+33,support_actress,1966,False,Peggy Wood
+34,support_actress,1966,False,Joan Blondell
+35,support_actor,1966,True,Oskar Werner
+36,support_actor,1966,False,Red Buttons
+37,support_actor,1966,False,Frank Finlay
+38,support_actor,1966,False,Telly Savalas
+39,support_actor,1966,False,na
+0,best_picture - drama,1965,True,Becket
+1,best_picture - drama,1965,False,The Chalk Garden
+2,best_picture - drama,1965,False,Dear Heart
+3,best_picture - drama,1965,False,The Night of the Iguana
+4,best_picture - drama,1965,False,Zorba The Greek
+5,best_picture - comedy,1965,True,My Fair Lady
+6,best_picture - comedy,1965,False,Father Goose
+7,best_picture - comedy,1965,False,Mary Poppins
+8,best_picture - comedy,1965,False,The Unsinkable Molly Brown
+9,best_picture - comedy,1965,False,The World of Henry Orient
+10,best_actress_drama,1965,True,Anne Bancroft
+11,best_actress_drama,1965,False,Ava Gardner
+12,best_actress_drama,1965,False,Rita Hayworth
+13,best_actress_drama,1965,False,Geraldine Page
+14,best_actress_drama,1965,False,Jean Seberg
+15,best_actor_drama,1965,True,Peter O'Toole
+16,best_actor_drama,1965,False,Richard Burton
+17,best_actor_drama,1965,False,Anthony Franciosa
+18,best_actor_drama,1965,False,Fredric March
+19,best_actor_drama,1965,False,Anthony Quinn
+20,best_actress_comedy,1965,True,Julie Andrews
+21,best_actress_comedy,1965,False,Sophia Loren
+22,best_actress_comedy,1965,False,Melina Mercouri
+23,best_actress_comedy,1965,False,Debbie Reynolds
+24,best_actress_comedy,1965,False,Audrey Hepburn
+25,best_actor_comedy,1965,True,Rex Harrison
+26,best_actor_comedy,1965,False,Marcello Mastroianni
+27,best_actor_comedy,1965,False,Peter Sellers
+28,best_actor_comedy,1965,False,Peter Ustinov
+29,best_actor_comedy,1965,False,Dick Van Dyke
+30,support_actress,1965,True,Agnes Moorehead
+31,support_actress,1965,False,Grayson Hall
+32,support_actress,1965,False,Lila Kedrova
+33,support_actress,1965,False,Ann Sothern
+34,support_actress,1965,False,Elizabeth Ashley
+35,support_actor,1965,True,Edmond O'Brien
+36,support_actor,1965,False,Cyril Delevanti
+37,support_actor,1965,False,Stanley Holloway
+38,support_actor,1965,False,Lee Tracy
+39,support_actor,1965,False,Gilbert Roland
+0,best_picture - drama,1964,True,The Cardinal
+1,best_picture - drama,1964,False,"America,  America"
+2,best_picture - drama,1964,False,"Captain Newman,  M.D."
+3,best_picture - drama,1964,False,The Caretakers
+4,best_picture - drama,1964,False,Cleopatra
+5,best_picture - drama,1964,False,The Great Escape
+6,best_picture - drama,1964,False,Hud
+7,best_picture - drama,1964,False,Lilies of the Field
+8,best_picture - drama,1964,False,na
+9,best_picture - comedy,1964,True,Tom Jones
+10,best_picture - comedy,1964,False,Bye Bye Birdie
+11,best_picture - comedy,1964,False,Irma La Douce
+12,best_picture - comedy,1964,False,"It's a Mad,  Mad,  Mad,  Mad World"
+13,best_picture - comedy,1964,False,A Ticklish Affair
+14,best_picture - comedy,1964,False,Under The Yum Yum Tree
+15,best_picture - comedy,1964,False,na
+16,best_picture - comedy,1964,False,na
+17,best_picture - comedy,1964,False,na
+18,best_actress_drama,1964,True,Leslie Caron
+19,best_actress_drama,1964,False,Natalie Wood
+20,best_actress_drama,1964,False,Polly Bergen
+21,best_actress_drama,1964,False,Geraldine Page
+22,best_actress_drama,1964,False,Rachel Roberts
+23,best_actress_drama,1964,False,Romy Schneider
+24,best_actress_drama,1964,False,Alida Valli
+25,best_actress_drama,1964,False,Marina Vlady
+26,best_actress_drama,1964,False,na
+27,best_actor_drama,1964,True,Sidney Poitier
+28,best_actor_drama,1964,False,Steve McQueen
+29,best_actor_drama,1964,False,Paul Newman
+30,best_actor_drama,1964,False,Gregory Peck
+31,best_actor_drama,1964,False,Tom Tryon
+32,best_actor_drama,1964,False,Marlon Brando
+33,best_actor_drama,1964,False,Stathis Giallelis
+34,best_actor_drama,1964,False,Rex Harrison
+35,best_actor_drama,1964,False,na
+36,best_actress_comedy,1964,True,Shirley MacLaine
+37,best_actress_comedy,1964,False,Doris Day
+38,best_actress_comedy,1964,False,Audrey Hepburn
+39,best_actress_comedy,1964,False,Hayley Mills
+40,best_actress_comedy,1964,False,Molly Picon
+41,best_actress_comedy,1964,False,Jill St. John
+42,best_actress_comedy,1964,False,Joanne Woodward
+43,best_actress_comedy,1964,False,Ann-Margret
+44,best_actress_comedy,1964,False,na
+45,best_actor_comedy,1964,True,Alberto Sordi
+46,best_actor_comedy,1964,False,Jack Lemmon
+47,best_actor_comedy,1964,False,Jack Lemmon
+48,best_actor_comedy,1964,False,Frank Sinatra
+49,best_actor_comedy,1964,False,Terry-Thomas
+50,best_actor_comedy,1964,False,Jonathan Winters
+51,best_actor_comedy,1964,False,Albert Finney
+52,best_actor_comedy,1964,False,James Garner
+53,best_actor_comedy,1964,False,Cary Grant
+54,support_actress,1964,True,Margaret Rutherford
+55,support_actress,1964,False,Liselotte Pulver
+56,support_actress,1964,False,Lilia Skala
+57,support_actress,1964,False,Diane Baker
+58,support_actress,1964,False,Joan Greenwood
+59,support_actress,1964,False,Wendy Hiller
+60,support_actress,1964,False,Linda Marsh
+61,support_actress,1964,False,Patricia Neal
+62,support_actress,1964,False,na
+63,support_actor,1964,True,John Huston
+64,support_actor,1964,False,Gregory Rozakis
+65,support_actor,1964,False,Lee J. Cobb
+66,support_actor,1964,False,Bobby Darin
+67,support_actor,1964,False,Melvyn Douglas
+68,support_actor,1964,False,Hugh Griffith
+69,support_actor,1964,False,Paul Mann
+70,support_actor,1964,False,Roddy McDowall
+71,support_actor,1964,False,na
+0,best_picture - drama,1963,True,Lawrence Of Arabia
+1,best_picture - drama,1963,False,Hemingway's Adventures of a Young Man
+2,best_picture - drama,1963,False,The Chapman Report
+3,best_picture - drama,1963,False,Days of Wine and Roses
+4,best_picture - drama,1963,False,Freud
+5,best_picture - drama,1963,False,Lisa
+6,best_picture - drama,1963,False,The Longest Day
+7,best_picture - drama,1963,False,The Miracle Worker
+8,best_picture - drama,1963,False,Mutiny on the Bounty
+9,best_picture - drama,1963,False,To Kill A Mockingbird
+10,best_picture - comedy,1963,True,That Touch of Mink
+11,best_picture - comedy,1963,False,The Best Of Enemies
+12,best_picture - comedy,1963,False,Boys' Night Out
+13,best_picture - comedy,1963,False,If a Man Answers
+14,best_picture - comedy,1963,False,Period of Adjustment
+15,best_picture - comedy,1963,False,na
+16,best_picture - comedy,1963,False,na
+17,best_picture - comedy,1963,False,na
+18,best_picture - comedy,1963,False,na
+19,best_picture - comedy,1963,False,na
+20,best_actress_drama,1963,True,Geraldine Page
+21,best_actress_drama,1963,False,Anne Bancroft
+22,best_actress_drama,1963,False,Bette Davis
+23,best_actress_drama,1963,False,Katharine Hepburn
+24,best_actress_drama,1963,False,Glynis Johns
+25,best_actress_drama,1963,False,Melina Mercouri
+26,best_actress_drama,1963,False,Lee Remick
+27,best_actress_drama,1963,False,Susan Strasberg
+28,best_actress_drama,1963,False,Shelley Winters
+29,best_actress_drama,1963,False,Susannah York
+30,best_actor_drama,1963,True,Gregory Peck
+31,best_actor_drama,1963,False,Anthony Quinn
+32,best_actor_drama,1963,False,Bobby Darin
+33,best_actor_drama,1963,False,Jackie Gleason
+34,best_actor_drama,1963,False,Laurence Harvey
+35,best_actor_drama,1963,False,Burt Lancaster
+36,best_actor_drama,1963,False,Jack Lemmon
+37,best_actor_drama,1963,False,James Mason
+38,best_actor_drama,1963,False,Paul Newman
+39,best_actor_drama,1963,False,Peter O'Toole
+40,best_actress_comedy,1963,True,Rosalind Russell
+41,best_actress_comedy,1963,False,Doris Day
+42,best_actress_comedy,1963,False,Jane Fonda
+43,best_actress_comedy,1963,False,Shirley Jones
+44,best_actress_comedy,1963,False,Natalie Wood
+45,best_actress_comedy,1963,False,na
+46,best_actress_comedy,1963,False,na
+47,best_actress_comedy,1963,False,na
+48,best_actress_comedy,1963,False,na
+49,best_actress_comedy,1963,False,na
+50,best_actor_comedy,1963,True,Marcello Mastroianni
+51,best_actor_comedy,1963,False,Stephen Boyd
+52,best_actor_comedy,1963,False,Jimmy Durante
+53,best_actor_comedy,1963,False,Cary Grant
+54,best_actor_comedy,1963,False,Charlton Heston
+55,best_actor_comedy,1963,False,Karl Malden
+56,best_actor_comedy,1963,False,Robert Preston
+57,best_actor_comedy,1963,False,Alberto Sordi
+58,best_actor_comedy,1963,False,James Stewart
+59,best_actor_comedy,1963,False,na
+60,support_actress,1963,True,Angela Lansbury
+61,support_actress,1963,False,Hermione Gingold
+62,support_actress,1963,False,Shirley Knight
+63,support_actress,1963,False,Susan Kohner
+64,support_actress,1963,False,Gabriella Pallotta
+65,support_actress,1963,False,Martha Raye
+66,support_actress,1963,False,Kaye Stevens
+67,support_actress,1963,False,Jessica Tandy
+68,support_actress,1963,False,Tarita
+69,support_actress,1963,False,Patty Duke
+70,support_actor,1963,True,Omar Sharif
+71,support_actor,1963,False,Harry Guardino
+72,support_actor,1963,False,Ross Martin
+73,support_actor,1963,False,Paul Newman
+74,support_actor,1963,False,Cesar Romero
+75,support_actor,1963,False,Telly Savalas
+76,support_actor,1963,False,Peter Sellers
+77,support_actor,1963,False,Harold J. Stone
+78,support_actor,1963,False,Ed Begley
+79,support_actor,1963,False,Victor Buono
+0,best_picture - drama,1962,True,The Guns Of Navarone
+1,best_picture - drama,1962,False,Fanny
+2,best_picture - drama,1962,False,Judgment at Nuremberg
+3,best_picture - drama,1962,False,Splendor in the Grass
+4,best_picture - drama,1962,False,El Cid
+5,best_picture - comedy,1962,True,A Majority Of One
+6,best_picture - comedy,1962,False,Breakfast at Tiffany's
+7,best_picture - comedy,1962,False,"One,  Two,  Three"
+8,best_picture - comedy,1962,False,Pocketful of Miracles
+9,best_picture - comedy,1962,False,na
+10,best_actress_drama,1962,True,Geraldine Page
+11,best_actress_drama,1962,False,Leslie Caron
+12,best_actress_drama,1962,False,Shirley MacLaine
+13,best_actress_drama,1962,False,Claudia McNeil
+14,best_actress_drama,1962,False,Natalie Wood
+15,best_actor_drama,1962,True,Maximilian Schell
+16,best_actor_drama,1962,False,Warren Beatty
+17,best_actor_drama,1962,False,Maurice Chevalier
+18,best_actor_drama,1962,False,Paul Newman
+19,best_actor_drama,1962,False,Sidney Poitier
+20,best_actress_comedy,1962,True,Rosalind Russell
+21,best_actress_comedy,1962,False,Bette Davis
+22,best_actress_comedy,1962,False,Audrey Hepburn
+23,best_actress_comedy,1962,False,Hayley Mills
+24,best_actress_comedy,1962,False,Miyoshi Umeki
+25,best_actor_comedy,1962,True,Glenn Ford
+26,best_actor_comedy,1962,False,Fred Astaire
+27,best_actor_comedy,1962,False,Richard Beymer
+28,best_actor_comedy,1962,False,Bob Hope
+29,best_actor_comedy,1962,False,Fred MacMurray
+30,support_actress,1962,True,Rita Moreno
+31,support_actress,1962,False,Fay Bainter
+32,support_actress,1962,False,Judy Garland
+33,support_actress,1962,False,Lotte Lenya
+34,support_actress,1962,False,Pamela Tiffin
+35,support_actor,1962,True,George Chakiris
+36,support_actor,1962,False,Montgomery Clift
+37,support_actor,1962,False,Jackie Gleason
+38,support_actor,1962,False,Tony Randall
+39,support_actor,1962,False,George C. Scott
+0,best_picture - drama,1961,True,Spartacus
+1,best_picture - drama,1961,False,Inherit the Wind - 1960
+2,best_picture - drama,1961,False,Sons and Lovers
+3,best_picture - drama,1961,False,Sunrise at Campobello
+4,best_picture - drama,1961,False,Elmer Gantry
+5,best_picture - comedy,1961,True,The Apartment
+6,best_picture - comedy,1961,False,The Facts of Life
+7,best_picture - comedy,1961,False,The Grass is Greener
+8,best_picture - comedy,1961,False,It Started in Naples
+9,best_picture - comedy,1961,False,Our Man in Havana
+10,best_actress_drama,1961,True,Greer Garson
+11,best_actress_drama,1961,False,Doris Day
+12,best_actress_drama,1961,False,Nancy Kwan
+13,best_actress_drama,1961,False,Jean Simmons
+14,best_actress_drama,1961,False,Elizabeth Taylor
+15,best_actor_drama,1961,True,Burt Lancaster
+16,best_actor_drama,1961,False,Trevor Howard
+17,best_actor_drama,1961,False,Laurence Olivier
+18,best_actor_drama,1961,False,Dean Stockwell
+19,best_actor_drama,1961,False,Spencer Tracy
+20,best_actress_comedy,1961,True,Shirley MacLaine
+21,best_actress_comedy,1961,False,Lucille Ball
+22,best_actress_comedy,1961,False,Capucine
+23,best_actress_comedy,1961,False,Judy Holliday
+24,best_actress_comedy,1961,False,Sophia Loren
+25,best_actor_comedy,1961,True,Jack Lemmon
+26,best_actor_comedy,1961,False,Dirk Bogarde
+27,best_actor_comedy,1961,False,Cantinflas
+28,best_actor_comedy,1961,False,Cary Grant
+29,best_actor_comedy,1961,False,Bob Hope
+30,support_actress,1961,True,Janet Leigh
+31,support_actress,1961,False,Ina Balin
+32,support_actress,1961,False,Shirley Jones
+33,support_actress,1961,False,Shirley Knight
+34,support_actress,1961,False,Mary Ure
+35,support_actor,1961,True,Sal Mineo
+36,support_actor,1961,False,Lee Kinsolving
+37,support_actor,1961,False,Ray Stricklyn
+38,support_actor,1961,False,Woody Strode
+39,support_actor,1961,False,Peter Ustinov
+0,best_picture - drama,1960,True,Ben-Hur
+1,best_picture - drama,1960,False,The Diary of Anne Frank
+2,best_picture - drama,1960,False,The Nun's Story
+3,best_picture - drama,1960,False,On The Beach
+4,best_picture - drama,1960,False,Anatomy of a Murder
+5,best_picture - comedy,1960,True,Some Like It Hot
+6,best_picture - comedy,1960,False,But Not For Me
+7,best_picture - comedy,1960,False,Operation Petticoat
+8,best_picture - comedy,1960,False,Pillow Talk
+9,best_picture - comedy,1960,False,Who Was That Lady?
+10,best_actress_drama,1960,True,Elizabeth Taylor
+11,best_actress_drama,1960,False,Audrey Hepburn
+12,best_actress_drama,1960,False,Lee Remick
+13,best_actress_drama,1960,False,Simone Signoret
+14,best_actress_drama,1960,False,Katharine Hepburn
+15,best_actor_drama,1960,True,Anthony Franciosa
+16,best_actor_drama,1960,False,Richard Burton
+17,best_actor_drama,1960,False,Charlton Heston
+18,best_actor_drama,1960,False,Fredric March
+19,best_actor_drama,1960,False,Joseph Schildkraut
+20,best_actress_comedy,1960,True,Marilyn Monroe
+21,best_actress_comedy,1960,False,Dorothy Dandridge
+22,best_actress_comedy,1960,False,Doris Day
+23,best_actress_comedy,1960,False,Shirley MacLaine
+24,best_actress_comedy,1960,False,Lilli Palmer
+25,best_actor_comedy,1960,True,Jack Lemmon
+26,best_actor_comedy,1960,False,Clark Gable
+27,best_actor_comedy,1960,False,Cary Grant
+28,best_actor_comedy,1960,False,Dean Martin
+29,best_actor_comedy,1960,False,Sidney Poitier
+30,support_actress,1960,True,Susan Kohner
+31,support_actress,1960,False,Edith Evans
+32,support_actress,1960,False,Estelle Hemsley
+33,support_actress,1960,False,Juanita Moore
+34,support_actress,1960,False,Shelley Winters
+35,support_actor,1960,True,Stephen Boyd
+36,support_actor,1960,False,Joseph Welch
+37,support_actor,1960,False,Fred Astaire
+38,support_actor,1960,False,Tony Randall
+39,support_actor,1960,False,Robert Vaughn

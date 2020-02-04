@@ -1,0 +1,2111 @@
+,year,category,winner,entity,award
+0,1962,BEST PICTURE,True,Lawrence of Arabia,academy_award
+1,1962,BEST PICTURE,False,The Longest Day,academy_award
+2,1962,BEST PICTURE,False,Meredith Willson's The Music Man,academy_award
+3,1962,BEST PICTURE,False,Mutiny on the Bounty,academy_award
+4,1962,BEST PICTURE,False,To Kill a Mockingbird,academy_award
+5,1963,BEST PICTURE,False,America America,academy_award
+6,1963,BEST PICTURE,False,Cleopatra,academy_award
+7,1963,BEST PICTURE,False,How the West Was Won,academy_award
+8,1963,BEST PICTURE,False,Lilies of the Field,academy_award
+9,1963,BEST PICTURE,True,Tom Jones,academy_award
+10,1964,BEST PICTURE,False,Becket,academy_award
+11,1964,BEST PICTURE,False,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,academy_award
+12,1964,BEST PICTURE,False,Mary Poppins,academy_award
+13,1964,BEST PICTURE,True,My Fair Lady,academy_award
+14,1964,BEST PICTURE,False,Zorba the Greek,academy_award
+15,1965,BEST PICTURE,False,Darling,academy_award
+16,1965,BEST PICTURE,False,Doctor Zhivago,academy_award
+17,1965,BEST PICTURE,False,Ship of Fools,academy_award
+18,1965,BEST PICTURE,True,The Sound of Music,academy_award
+19,1965,BEST PICTURE,False,A Thousand Clowns,academy_award
+20,1966,BEST PICTURE,False,Alfie,academy_award
+21,1966,BEST PICTURE,True,A Man for All Seasons,academy_award
+22,1966,BEST PICTURE,False,The Russians Are Coming The Russians Are Coming,academy_award
+23,1966,BEST PICTURE,False,The Sand Pebbles,academy_award
+24,1966,BEST PICTURE,False,Who's Afraid of Virginia Woolf?,academy_award
+25,1967,BEST PICTURE,False,Bonnie and Clyde,academy_award
+26,1967,BEST PICTURE,False,Doctor Dolittle,academy_award
+27,1967,BEST PICTURE,False,The Graduate,academy_award
+28,1967,BEST PICTURE,False,Guess Who's Coming to Dinner,academy_award
+29,1967,BEST PICTURE,True,In the Heat of the Night,academy_award
+30,1968,BEST PICTURE,False,Funny Girl,academy_award
+31,1968,BEST PICTURE,False,The Lion in Winter,academy_award
+32,1968,BEST PICTURE,True,Oliver!,academy_award
+33,1968,BEST PICTURE,False,"Rachel, Rachel",academy_award
+34,1968,BEST PICTURE,False,Romeo and Juliet,academy_award
+35,1969,BEST PICTURE,False,Anne of the Thousand Days,academy_award
+36,1969,BEST PICTURE,False,Butch Cassidy and the Sundance Kid,academy_award
+37,1969,BEST PICTURE,False,"Hello, Dolly!",academy_award
+38,1969,BEST PICTURE,True,Midnight Cowboy,academy_award
+39,1969,BEST PICTURE,False,Z,academy_award
+40,1970,BEST PICTURE,False,Airport,academy_award
+41,1970,BEST PICTURE,False,Five Easy Pieces,academy_award
+42,1970,BEST PICTURE,False,Love Story,academy_award
+43,1970,BEST PICTURE,False,M*A*S*H,academy_award
+44,1970,BEST PICTURE,True,Patton,academy_award
+45,1971,BEST PICTURE,False,A Clockwork Orange,academy_award
+46,1971,BEST PICTURE,False,Fiddler on the Roof,academy_award
+47,1971,BEST PICTURE,True,The French Connection,academy_award
+48,1971,BEST PICTURE,False,The Last Picture Show,academy_award
+49,1971,BEST PICTURE,False,Nicholas and Alexandra,academy_award
+50,1972,BEST PICTURE,False,Cabaret,academy_award
+51,1972,BEST PICTURE,False,Deliverance,academy_award
+52,1972,BEST PICTURE,False,The Emigrants,academy_award
+53,1972,BEST PICTURE,True,The Godfather,academy_award
+54,1972,BEST PICTURE,False,Sounder,academy_award
+55,1973,BEST PICTURE,False,American Graffiti,academy_award
+56,1973,BEST PICTURE,False,Cries and Whispers,academy_award
+57,1973,BEST PICTURE,False,The Exorcist,academy_award
+58,1973,BEST PICTURE,True,The Sting,academy_award
+59,1973,BEST PICTURE,False,A Touch of Class,academy_award
+60,1974,BEST PICTURE,False,Chinatown,academy_award
+61,1974,BEST PICTURE,False,The Conversation,academy_award
+62,1974,BEST PICTURE,True,The Godfather Part II,academy_award
+63,1974,BEST PICTURE,False,Lenny,academy_award
+64,1974,BEST PICTURE,False,The Towering Inferno,academy_award
+65,1975,BEST PICTURE,False,Barry Lyndon,academy_award
+66,1975,BEST PICTURE,False,Dog Day Afternoon,academy_award
+67,1975,BEST PICTURE,False,Jaws,academy_award
+68,1975,BEST PICTURE,False,Nashville,academy_award
+69,1975,BEST PICTURE,True,One Flew over the Cuckoo's Nest,academy_award
+70,1976,BEST PICTURE,False,All the President's Men,academy_award
+71,1976,BEST PICTURE,False,Bound for Glory,academy_award
+72,1976,BEST PICTURE,False,Network,academy_award
+73,1976,BEST PICTURE,True,Rocky,academy_award
+74,1976,BEST PICTURE,False,Taxi Driver,academy_award
+75,1977,BEST PICTURE,True,Annie Hall,academy_award
+76,1977,BEST PICTURE,False,The Goodbye Girl,academy_award
+77,1977,BEST PICTURE,False,Julia,academy_award
+78,1977,BEST PICTURE,False,Star Wars,academy_award
+79,1977,BEST PICTURE,False,The Turning Point,academy_award
+80,1978,BEST PICTURE,False,Coming Home,academy_award
+81,1978,BEST PICTURE,True,The Deer Hunter,academy_award
+82,1978,BEST PICTURE,False,Heaven Can Wait,academy_award
+83,1978,BEST PICTURE,False,Midnight Express,academy_award
+84,1978,BEST PICTURE,False,An Unmarried Woman,academy_award
+85,1979,BEST PICTURE,False,All That Jazz,academy_award
+86,1979,BEST PICTURE,False,Apocalypse Now,academy_award
+87,1979,BEST PICTURE,False,Breaking Away,academy_award
+88,1979,BEST PICTURE,True,Kramer vs. Kramer,academy_award
+89,1979,BEST PICTURE,False,Norma Rae,academy_award
+90,1980,BEST PICTURE,False,Coal Miner's Daughter,academy_award
+91,1980,BEST PICTURE,False,The Elephant Man,academy_award
+92,1980,BEST PICTURE,True,Ordinary People,academy_award
+93,1980,BEST PICTURE,False,Raging Bull,academy_award
+94,1980,BEST PICTURE,False,Tess,academy_award
+95,1981,BEST PICTURE,False,Atlantic City,academy_award
+96,1981,BEST PICTURE,True,Chariots of Fire,academy_award
+97,1981,BEST PICTURE,False,On Golden Pond,academy_award
+98,1981,BEST PICTURE,False,Raiders of the Lost Ark,academy_award
+99,1981,BEST PICTURE,False,Reds,academy_award
+100,1982,BEST PICTURE,False,E.T. The Extra-Terrestrial,academy_award
+101,1982,BEST PICTURE,True,Gandhi,academy_award
+102,1982,BEST PICTURE,False,Missing,academy_award
+103,1982,BEST PICTURE,False,Tootsie,academy_award
+104,1982,BEST PICTURE,False,The Verdict,academy_award
+105,1983,BEST PICTURE,False,The Big Chill,academy_award
+106,1983,BEST PICTURE,False,The Dresser,academy_award
+107,1983,BEST PICTURE,False,The Right Stuff,academy_award
+108,1983,BEST PICTURE,False,Tender Mercies,academy_award
+109,1983,BEST PICTURE,True,Terms of Endearment,academy_award
+110,1984,BEST PICTURE,True,Amadeus,academy_award
+111,1984,BEST PICTURE,False,The Killing Fields,academy_award
+112,1984,BEST PICTURE,False,A Passage to India,academy_award
+113,1984,BEST PICTURE,False,Places in the Heart,academy_award
+114,1984,BEST PICTURE,False,A Soldier's Story,academy_award
+115,1985,BEST PICTURE,False,The Color Purple,academy_award
+116,1985,BEST PICTURE,False,Kiss of the Spider Woman,academy_award
+117,1985,BEST PICTURE,True,Out of Africa,academy_award
+118,1985,BEST PICTURE,False,Prizzi's Honor,academy_award
+119,1985,BEST PICTURE,False,Witness,academy_award
+120,1986,BEST PICTURE,False,Children of a Lesser God,academy_award
+121,1986,BEST PICTURE,False,Hannah and Her Sisters,academy_award
+122,1986,BEST PICTURE,False,The Mission,academy_award
+123,1986,BEST PICTURE,True,Platoon,academy_award
+124,1986,BEST PICTURE,False,A Room with a View,academy_award
+125,1987,BEST PICTURE,False,Broadcast News,academy_award
+126,1987,BEST PICTURE,False,Fatal Attraction,academy_award
+127,1987,BEST PICTURE,False,Hope and Glory,academy_award
+128,1987,BEST PICTURE,True,The Last Emperor,academy_award
+129,1987,BEST PICTURE,False,Moonstruck,academy_award
+130,1988,BEST PICTURE,False,The Accidental Tourist,academy_award
+131,1988,BEST PICTURE,False,Dangerous Liaisons,academy_award
+132,1988,BEST PICTURE,False,Mississippi Burning,academy_award
+133,1988,BEST PICTURE,True,Rain Man,academy_award
+134,1988,BEST PICTURE,False,Working Girl,academy_award
+135,1989,BEST PICTURE,False,Born on the Fourth of July,academy_award
+136,1989,BEST PICTURE,False,Dead Poets Society,academy_award
+137,1989,BEST PICTURE,True,Driving Miss Daisy,academy_award
+138,1989,BEST PICTURE,False,Field of Dreams,academy_award
+139,1989,BEST PICTURE,False,My Left Foot,academy_award
+140,1990,BEST PICTURE,False,Awakenings,academy_award
+141,1990,BEST PICTURE,True,Dances With Wolves,academy_award
+142,1990,BEST PICTURE,False,Ghost,academy_award
+143,1990,BEST PICTURE,False,"The Godfather, Part III",academy_award
+144,1990,BEST PICTURE,False,Good Fellas,academy_award
+145,1991,BEST PICTURE,False,Beauty and the Beast,academy_award
+146,1991,BEST PICTURE,False,Bugsy,academy_award
+147,1991,BEST PICTURE,False,JFK,academy_award
+148,1991,BEST PICTURE,False,The Prince of Tides,academy_award
+149,1991,BEST PICTURE,True,The Silence of the Lambs,academy_award
+150,1992,BEST PICTURE,False,The Crying Game,academy_award
+151,1992,BEST PICTURE,False,A Few Good Men,academy_award
+152,1992,BEST PICTURE,False,Howards End,academy_award
+153,1992,BEST PICTURE,False,Scent of a Woman,academy_award
+154,1992,BEST PICTURE,True,Unforgiven,academy_award
+155,1993,BEST PICTURE,False,The Fugitive,academy_award
+156,1993,BEST PICTURE,False,In the Name of the Father,academy_award
+157,1993,BEST PICTURE,False,The Piano,academy_award
+158,1993,BEST PICTURE,False,The Remains of the Day,academy_award
+159,1993,BEST PICTURE,True,Schindler's List,academy_award
+160,1994,BEST PICTURE,True,Forrest Gump,academy_award
+161,1994,BEST PICTURE,False,Four Weddings and a Funeral,academy_award
+162,1994,BEST PICTURE,False,Pulp Fiction,academy_award
+163,1994,BEST PICTURE,False,Quiz Show,academy_award
+164,1994,BEST PICTURE,False,The Shawshank Redemption,academy_award
+165,1995,BEST PICTURE,False,Apollo 13,academy_award
+166,1995,BEST PICTURE,False,Babe,academy_award
+167,1995,BEST PICTURE,True,Braveheart,academy_award
+168,1995,BEST PICTURE,False,The Postman (Il Postino),academy_award
+169,1995,BEST PICTURE,False,Sense and Sensibility,academy_award
+170,1996,BEST PICTURE,True,The English Patient,academy_award
+171,1996,BEST PICTURE,False,Fargo,academy_award
+172,1996,BEST PICTURE,False,Jerry Maguire,academy_award
+173,1996,BEST PICTURE,False,Secrets & Lies,academy_award
+174,1996,BEST PICTURE,False,Shine,academy_award
+175,1997,BEST PICTURE,False,As Good as It Gets,academy_award
+176,1997,BEST PICTURE,False,The Full Monty,academy_award
+177,1997,BEST PICTURE,False,Good Will Hunting,academy_award
+178,1997,BEST PICTURE,False,L.A. Confidential,academy_award
+179,1997,BEST PICTURE,True,Titanic,academy_award
+180,1998,BEST PICTURE,False,Elizabeth,academy_award
+181,1998,BEST PICTURE,False,Life Is Beautiful,academy_award
+182,1998,BEST PICTURE,False,Saving Private Ryan,academy_award
+183,1998,BEST PICTURE,True,Shakespeare in Love,academy_award
+184,1998,BEST PICTURE,False,The Thin Red Line,academy_award
+185,1999,BEST PICTURE,True,American Beauty,academy_award
+186,1999,BEST PICTURE,False,The Cider House Rules,academy_award
+187,1999,BEST PICTURE,False,The Green Mile,academy_award
+188,1999,BEST PICTURE,False,The Insider,academy_award
+189,1999,BEST PICTURE,False,The Sixth Sense,academy_award
+190,2000,BEST PICTURE,False,Chocolat,academy_award
+191,2000,BEST PICTURE,False,"Crouching Tiger, Hidden Dragon",academy_award
+192,2000,BEST PICTURE,False,Erin Brockovich,academy_award
+193,2000,BEST PICTURE,True,Gladiator,academy_award
+194,2000,BEST PICTURE,False,Traffic,academy_award
+195,2001,BEST PICTURE,True,A Beautiful Mind,academy_award
+196,2001,BEST PICTURE,False,Gosford Park,academy_award
+197,2001,BEST PICTURE,False,In the Bedroom,academy_award
+198,2001,BEST PICTURE,False,The Lord of the Rings: The Fellowship of the Ring,academy_award
+199,2001,BEST PICTURE,False,Moulin Rouge,academy_award
+200,2002,BEST PICTURE,True,Chicago,academy_award
+201,2002,BEST PICTURE,False,Gangs of New York,academy_award
+202,2002,BEST PICTURE,False,The Hours,academy_award
+203,2002,BEST PICTURE,False,The Lord of the Rings: The Two Towers,academy_award
+204,2002,BEST PICTURE,False,The Pianist,academy_award
+205,2003,BEST PICTURE,True,The Lord of the Rings: The Return of the King,academy_award
+206,2003,BEST PICTURE,False,Lost in Translation,academy_award
+207,2003,BEST PICTURE,False,Master and Commander: The Far Side of the World,academy_award
+208,2003,BEST PICTURE,False,Mystic River,academy_award
+209,2003,BEST PICTURE,False,Seabiscuit,academy_award
+210,2004,BEST PICTURE,False,The Aviator,academy_award
+211,2004,BEST PICTURE,False,Finding Neverland,academy_award
+212,2004,BEST PICTURE,True,Million Dollar Baby,academy_award
+213,2004,BEST PICTURE,False,Ray,academy_award
+214,2004,BEST PICTURE,False,Sideways,academy_award
+215,2005,BEST PICTURE,False,Brokeback Mountain,academy_award
+216,2005,BEST PICTURE,False,Capote,academy_award
+217,2005,BEST PICTURE,True,Crash,academy_award
+218,2005,BEST PICTURE,False,"Good Night, and Good Luck.",academy_award
+219,2005,BEST PICTURE,False,Munich,academy_award
+220,2006,BEST PICTURE,False,Babel,academy_award
+221,2006,BEST PICTURE,True,The Departed,academy_award
+222,2006,BEST PICTURE,False,Letters from Iwo Jima,academy_award
+223,2006,BEST PICTURE,False,Little Miss Sunshine,academy_award
+224,2006,BEST PICTURE,False,The Queen,academy_award
+225,2007,BEST PICTURE,False,Atonement,academy_award
+226,2007,BEST PICTURE,False,Juno,academy_award
+227,2007,BEST PICTURE,False,Michael Clayton,academy_award
+228,2007,BEST PICTURE,True,No Country for Old Men,academy_award
+229,2007,BEST PICTURE,False,There Will Be Blood,academy_award
+230,2008,BEST PICTURE,False,The Curious Case of Benjamin Button,academy_award
+231,2008,BEST PICTURE,False,Frost/Nixon,academy_award
+232,2008,BEST PICTURE,False,Milk,academy_award
+233,2008,BEST PICTURE,False,The Reader,academy_award
+234,2008,BEST PICTURE,True,Slumdog Millionaire,academy_award
+235,2009,BEST PICTURE,False,Avatar,academy_award
+236,2009,BEST PICTURE,False,The Blind Side,academy_award
+237,2009,BEST PICTURE,False,District 9,academy_award
+238,2009,BEST PICTURE,False,An Education,academy_award
+239,2009,BEST PICTURE,True,The Hurt Locker,academy_award
+240,2009,BEST PICTURE,False,Inglourious Basterds,academy_award
+241,2009,BEST PICTURE,False,Precious: Based on the Novel 'Push' by Sapphire,academy_award
+242,2009,BEST PICTURE,False,A Serious Man,academy_award
+243,2009,BEST PICTURE,False,Up,academy_award
+244,2009,BEST PICTURE,False,Up in the Air,academy_award
+245,2010,BEST PICTURE,False,Black Swan,academy_award
+246,2010,BEST PICTURE,False,The Fighter,academy_award
+247,2010,BEST PICTURE,False,Inception,academy_award
+248,2010,BEST PICTURE,False,The Kids Are All Right,academy_award
+249,2010,BEST PICTURE,True,The King's Speech,academy_award
+250,2010,BEST PICTURE,False,127 Hours,academy_award
+251,2010,BEST PICTURE,False,The Social Network,academy_award
+252,2010,BEST PICTURE,False,Toy Story 3,academy_award
+253,2010,BEST PICTURE,False,True Grit,academy_award
+254,2010,BEST PICTURE,False,Winter's Bone,academy_award
+255,2011,BEST PICTURE,True,The Artist,academy_award
+256,2011,BEST PICTURE,False,The Descendants,academy_award
+257,2011,BEST PICTURE,False,Extremely Loud & Incredibly Close,academy_award
+258,2011,BEST PICTURE,False,The Help,academy_award
+259,2011,BEST PICTURE,False,Hugo,academy_award
+260,2011,BEST PICTURE,False,Midnight in Paris,academy_award
+261,2011,BEST PICTURE,False,Moneyball,academy_award
+262,2011,BEST PICTURE,False,The Tree of Life,academy_award
+263,2011,BEST PICTURE,False,War Horse,academy_award
+264,2012,BEST PICTURE,False,Amour,academy_award
+265,2012,BEST PICTURE,True,Argo,academy_award
+266,2012,BEST PICTURE,False,Beasts of the Southern Wild,academy_award
+267,2012,BEST PICTURE,False,Django Unchained,academy_award
+268,2012,BEST PICTURE,False,Les Misérables,academy_award
+269,2012,BEST PICTURE,False,Life of Pi,academy_award
+270,2012,BEST PICTURE,False,Lincoln,academy_award
+271,2012,BEST PICTURE,False,Silver Linings Playbook,academy_award
+272,2012,BEST PICTURE,False,Zero Dark Thirty,academy_award
+273,2013,BEST PICTURE,False,American Hustle,academy_award
+274,2013,BEST PICTURE,False,Captain Phillips,academy_award
+275,2013,BEST PICTURE,False,Dallas Buyers Club,academy_award
+276,2013,BEST PICTURE,False,Gravity,academy_award
+277,2013,BEST PICTURE,False,Her,academy_award
+278,2013,BEST PICTURE,False,Nebraska,academy_award
+279,2013,BEST PICTURE,False,Philomena,academy_award
+280,2013,BEST PICTURE,True,12 Years a Slave,academy_award
+281,2013,BEST PICTURE,False,The Wolf of Wall Street,academy_award
+282,2014,BEST PICTURE,False,American Sniper,academy_award
+283,2014,BEST PICTURE,True,Birdman or (The Unexpected Virtue of Ignorance),academy_award
+284,2014,BEST PICTURE,False,Boyhood,academy_award
+285,2014,BEST PICTURE,False,The Grand Budapest Hotel,academy_award
+286,2014,BEST PICTURE,False,The Imitation Game,academy_award
+287,2014,BEST PICTURE,False,Selma,academy_award
+288,2014,BEST PICTURE,False,The Theory of Everything,academy_award
+289,2014,BEST PICTURE,False,Whiplash,academy_award
+290,2015,BEST PICTURE,False,The Big Short,academy_award
+291,2015,BEST PICTURE,False,Bridge of Spies,academy_award
+292,2015,BEST PICTURE,False,Brooklyn,academy_award
+293,2015,BEST PICTURE,False,Mad Max: Fury Road,academy_award
+294,2015,BEST PICTURE,False,The Martian,academy_award
+295,2015,BEST PICTURE,False,The Revenant,academy_award
+296,2015,BEST PICTURE,False,Room,academy_award
+297,2015,BEST PICTURE,True,Spotlight,academy_award
+298,2016,BEST PICTURE,False,Arrival,academy_award
+299,2016,BEST PICTURE,False,Fences,academy_award
+300,2016,BEST PICTURE,False,Hacksaw Ridge,academy_award
+301,2016,BEST PICTURE,False,Hell or High Water,academy_award
+302,2016,BEST PICTURE,False,Hidden Figures,academy_award
+303,2016,BEST PICTURE,False,La La Land,academy_award
+304,2016,BEST PICTURE,False,Lion,academy_award
+305,2016,BEST PICTURE,False,Manchester by the Sea,academy_award
+306,2016,BEST PICTURE,True,Moonlight,academy_award
+307,2017,BEST PICTURE,False,Call Me by Your Name,academy_award
+308,2017,BEST PICTURE,False,Darkest Hour,academy_award
+309,2017,BEST PICTURE,False,Dunkirk,academy_award
+310,2017,BEST PICTURE,False,Get Out,academy_award
+311,2017,BEST PICTURE,False,Lady Bird,academy_award
+312,2017,BEST PICTURE,False,Phantom Thread,academy_award
+313,2017,BEST PICTURE,False,The Post,academy_award
+314,2017,BEST PICTURE,True,The Shape of Water,academy_award
+315,2017,BEST PICTURE,False,"Three Billboards Outside Ebbing, Missouri",academy_award
+316,1927,ACTOR,False,Richard Barthelmess,academy_award
+317,1927,ACTOR,True,Emil Jannings,academy_award
+318,1928,ACTOR,False,George Bancroft,academy_award
+319,1928,ACTOR,True,Warner Baxter,academy_award
+320,1928,ACTOR,False,Chester Morris,academy_award
+321,1928,ACTOR,False,Paul Muni,academy_award
+322,1928,ACTOR,False,Lewis Stone,academy_award
+323,1929,ACTOR,True,George Arliss,academy_award
+324,1929,ACTOR,False,George Arliss,academy_award
+325,1929,ACTOR,False,Wallace Beery,academy_award
+326,1929,ACTOR,False,Maurice Chevalier,academy_award
+327,1929,ACTOR,False,Ronald Colman,academy_award
+328,1929,ACTOR,False,Lawrence Tibbett,academy_award
+329,1930,ACTOR,True,Lionel Barrymore,academy_award
+330,1930,ACTOR,False,Jackie Cooper,academy_award
+331,1930,ACTOR,False,Richard Dix,academy_award
+332,1930,ACTOR,False,Fredric March,academy_award
+333,1930,ACTOR,False,Adolphe Menjou,academy_award
+334,1931,ACTOR,True,Wallace Beery,academy_award
+335,1931,ACTOR,False,Alfred Lunt,academy_award
+336,1931,ACTOR,True,Fredric March,academy_award
+337,1932,ACTOR,False,Leslie Howard,academy_award
+338,1932,ACTOR,True,Charles Laughton,academy_award
+339,1932,ACTOR,False,Paul Muni,academy_award
+340,1934,ACTOR,True,Clark Gable,academy_award
+341,1934,ACTOR,False,Frank Morgan,academy_award
+342,1934,ACTOR,False,William Powell,academy_award
+343,1935,ACTOR,False,Clark Gable,academy_award
+344,1935,ACTOR,False,Charles Laughton,academy_award
+345,1935,ACTOR,True,Victor McLaglen,academy_award
+346,1935,ACTOR,False,Paul Muni,academy_award
+347,1935,ACTOR,False,Franchot Tone,academy_award
+348,1936,ACTOR,False,Gary Cooper,academy_award
+349,1936,ACTOR,False,Walter Huston,academy_award
+350,1936,ACTOR,True,Paul Muni,academy_award
+351,1936,ACTOR,False,William Powell,academy_award
+352,1936,ACTOR,False,Spencer Tracy,academy_award
+353,1937,ACTOR,False,Charles Boyer,academy_award
+354,1937,ACTOR,False,Fredric March,academy_award
+355,1937,ACTOR,False,Robert Montgomery,academy_award
+356,1937,ACTOR,False,Paul Muni,academy_award
+357,1937,ACTOR,True,Spencer Tracy,academy_award
+358,1938,ACTOR,False,Charles Boyer,academy_award
+359,1938,ACTOR,False,James Cagney,academy_award
+360,1938,ACTOR,False,Robert Donat,academy_award
+361,1938,ACTOR,False,Leslie Howard,academy_award
+362,1938,ACTOR,True,Spencer Tracy,academy_award
+363,1939,ACTOR,True,Robert Donat,academy_award
+364,1939,ACTOR,False,Clark Gable,academy_award
+365,1939,ACTOR,False,Laurence Olivier,academy_award
+366,1939,ACTOR,False,Mickey Rooney,academy_award
+367,1939,ACTOR,False,James Stewart,academy_award
+368,1940,ACTOR,False,Charles Chaplin,academy_award
+369,1940,ACTOR,False,Henry Fonda,academy_award
+370,1940,ACTOR,False,Raymond Massey,academy_award
+371,1940,ACTOR,False,Laurence Olivier,academy_award
+372,1940,ACTOR,True,James Stewart,academy_award
+373,1941,ACTOR,True,Gary Cooper,academy_award
+374,1941,ACTOR,False,Cary Grant,academy_award
+375,1941,ACTOR,False,Walter Huston,academy_award
+376,1941,ACTOR,False,Robert Montgomery,academy_award
+377,1941,ACTOR,False,Orson Welles,academy_award
+378,1942,ACTOR,True,James Cagney,academy_award
+379,1942,ACTOR,False,Ronald Colman,academy_award
+380,1942,ACTOR,False,Gary Cooper,academy_award
+381,1942,ACTOR,False,Walter Pidgeon,academy_award
+382,1942,ACTOR,False,Monty Woolley,academy_award
+383,1943,ACTOR,False,Humphrey Bogart,academy_award
+384,1943,ACTOR,False,Gary Cooper,academy_award
+385,1943,ACTOR,True,Paul Lukas,academy_award
+386,1943,ACTOR,False,Walter Pidgeon,academy_award
+387,1943,ACTOR,False,Mickey Rooney,academy_award
+388,1944,ACTOR,False,Charles Boyer,academy_award
+389,1944,ACTOR,True,Bing Crosby,academy_award
+390,1944,ACTOR,False,Barry Fitzgerald,academy_award
+391,1944,ACTOR,False,Cary Grant,academy_award
+392,1944,ACTOR,False,Alexander Knox,academy_award
+393,1945,ACTOR,False,Bing Crosby,academy_award
+394,1945,ACTOR,False,Gene Kelly,academy_award
+395,1945,ACTOR,True,Ray Milland,academy_award
+396,1945,ACTOR,False,Gregory Peck,academy_award
+397,1945,ACTOR,False,Cornel Wilde,academy_award
+398,1946,ACTOR,True,Fredric March,academy_award
+399,1946,ACTOR,False,Laurence Olivier,academy_award
+400,1946,ACTOR,False,Larry Parks,academy_award
+401,1946,ACTOR,False,Gregory Peck,academy_award
+402,1946,ACTOR,False,James Stewart,academy_award
+403,1947,ACTOR,True,Ronald Colman,academy_award
+404,1947,ACTOR,False,John Garfield,academy_award
+405,1947,ACTOR,False,Gregory Peck,academy_award
+406,1947,ACTOR,False,William Powell,academy_award
+407,1947,ACTOR,False,Michael Redgrave,academy_award
+408,1948,ACTOR,False,Lew Ayres,academy_award
+409,1948,ACTOR,False,Montgomery Clift,academy_award
+410,1948,ACTOR,False,Dan Dailey,academy_award
+411,1948,ACTOR,True,Laurence Olivier,academy_award
+412,1948,ACTOR,False,Clifton Webb,academy_award
+413,1949,ACTOR,True,Broderick Crawford,academy_award
+414,1949,ACTOR,False,Kirk Douglas,academy_award
+415,1949,ACTOR,False,Gregory Peck,academy_award
+416,1949,ACTOR,False,Richard Todd,academy_award
+417,1949,ACTOR,False,John Wayne,academy_award
+418,1950,ACTOR,False,Louis Calhern,academy_award
+419,1950,ACTOR,True,José Ferrer,academy_award
+420,1950,ACTOR,False,William Holden,academy_award
+421,1950,ACTOR,False,James Stewart,academy_award
+422,1950,ACTOR,False,Spencer Tracy,academy_award
+423,1951,ACTOR,True,Humphrey Bogart,academy_award
+424,1951,ACTOR,False,Marlon Brando,academy_award
+425,1951,ACTOR,False,Montgomery Clift,academy_award
+426,1951,ACTOR,False,Arthur Kennedy,academy_award
+427,1951,ACTOR,False,Fredric March,academy_award
+428,1952,ACTOR,False,Marlon Brando,academy_award
+429,1952,ACTOR,True,Gary Cooper,academy_award
+430,1952,ACTOR,False,Kirk Douglas,academy_award
+431,1952,ACTOR,False,José Ferrer,academy_award
+432,1952,ACTOR,False,Alec Guinness,academy_award
+433,1953,ACTOR,False,Marlon Brando,academy_award
+434,1953,ACTOR,False,Richard Burton,academy_award
+435,1953,ACTOR,False,Montgomery Clift,academy_award
+436,1953,ACTOR,True,William Holden,academy_award
+437,1953,ACTOR,False,Burt Lancaster,academy_award
+438,1954,ACTOR,False,Humphrey Bogart,academy_award
+439,1954,ACTOR,True,Marlon Brando,academy_award
+440,1954,ACTOR,False,Bing Crosby,academy_award
+441,1954,ACTOR,False,James Mason,academy_award
+442,1954,ACTOR,False,Dan O'Herlihy,academy_award
+443,1955,ACTOR,True,Ernest Borgnine,academy_award
+444,1955,ACTOR,False,James Cagney,academy_award
+445,1955,ACTOR,False,James Dean,academy_award
+446,1955,ACTOR,False,Frank Sinatra,academy_award
+447,1955,ACTOR,False,Spencer Tracy,academy_award
+448,1956,ACTOR,True,Yul Brynner,academy_award
+449,1956,ACTOR,False,James Dean,academy_award
+450,1956,ACTOR,False,Kirk Douglas,academy_award
+451,1956,ACTOR,False,Rock Hudson,academy_award
+452,1956,ACTOR,False,Sir Laurence Olivier,academy_award
+453,1957,ACTOR,False,Marlon Brando,academy_award
+454,1957,ACTOR,False,Anthony Franciosa,academy_award
+455,1957,ACTOR,True,Alec Guinness,academy_award
+456,1957,ACTOR,False,Charles Laughton,academy_award
+457,1957,ACTOR,False,Anthony Quinn,academy_award
+458,1958,ACTOR,False,Tony Curtis,academy_award
+459,1958,ACTOR,False,Paul Newman,academy_award
+460,1958,ACTOR,True,David Niven,academy_award
+461,1958,ACTOR,False,Sidney Poitier,academy_award
+462,1958,ACTOR,False,Spencer Tracy,academy_award
+463,1959,ACTOR,False,Laurence Harvey,academy_award
+464,1959,ACTOR,True,Charlton Heston,academy_award
+465,1959,ACTOR,False,Jack Lemmon,academy_award
+466,1959,ACTOR,False,Paul Muni,academy_award
+467,1959,ACTOR,False,James Stewart,academy_award
+468,1960,ACTOR,False,Trevor Howard,academy_award
+469,1960,ACTOR,True,Burt Lancaster,academy_award
+470,1960,ACTOR,False,Jack Lemmon,academy_award
+471,1960,ACTOR,False,Laurence Olivier,academy_award
+472,1960,ACTOR,False,Spencer Tracy,academy_award
+473,1961,ACTOR,False,Charles Boyer,academy_award
+474,1961,ACTOR,False,Paul Newman,academy_award
+475,1961,ACTOR,True,Maximilian Schell,academy_award
+476,1961,ACTOR,False,Spencer Tracy,academy_award
+477,1961,ACTOR,False,Stuart Whitman,academy_award
+478,1962,ACTOR,False,Burt Lancaster,academy_award
+479,1962,ACTOR,False,Jack Lemmon,academy_award
+480,1962,ACTOR,False,Marcello Mastroianni,academy_award
+481,1962,ACTOR,False,Peter O'Toole,academy_award
+482,1962,ACTOR,True,Gregory Peck,academy_award
+483,1963,ACTOR,False,Albert Finney,academy_award
+484,1963,ACTOR,False,Richard Harris,academy_award
+485,1963,ACTOR,False,Rex Harrison,academy_award
+486,1963,ACTOR,False,Paul Newman,academy_award
+487,1963,ACTOR,True,Sidney Poitier,academy_award
+488,1964,ACTOR,False,Richard Burton,academy_award
+489,1964,ACTOR,True,Rex Harrison,academy_award
+490,1964,ACTOR,False,Peter O'Toole,academy_award
+491,1964,ACTOR,False,Anthony Quinn,academy_award
+492,1964,ACTOR,False,Peter Sellers,academy_award
+493,1965,ACTOR,False,Richard Burton,academy_award
+494,1965,ACTOR,True,Lee Marvin,academy_award
+495,1965,ACTOR,False,Laurence Olivier,academy_award
+496,1965,ACTOR,False,Rod Steiger,academy_award
+497,1965,ACTOR,False,Oskar Werner,academy_award
+498,1966,ACTOR,False,Alan Arkin,academy_award
+499,1966,ACTOR,False,Richard Burton,academy_award
+500,1966,ACTOR,False,Michael Caine,academy_award
+501,1966,ACTOR,False,Steve McQueen,academy_award
+502,1966,ACTOR,True,Paul Scofield,academy_award
+503,1967,ACTOR,False,Warren Beatty,academy_award
+504,1967,ACTOR,False,Dustin Hoffman,academy_award
+505,1967,ACTOR,False,Paul Newman,academy_award
+506,1967,ACTOR,True,Rod Steiger,academy_award
+507,1967,ACTOR,False,Spencer Tracy,academy_award
+508,1968,ACTOR,False,Alan Arkin,academy_award
+509,1968,ACTOR,False,Alan Bates,academy_award
+510,1968,ACTOR,False,Ron Moody,academy_award
+511,1968,ACTOR,False,Peter O'Toole,academy_award
+512,1968,ACTOR,True,Cliff Robertson,academy_award
+513,1969,ACTOR,False,Richard Burton,academy_award
+514,1969,ACTOR,False,Dustin Hoffman,academy_award
+515,1969,ACTOR,False,Peter O'Toole,academy_award
+516,1969,ACTOR,False,Jon Voight,academy_award
+517,1969,ACTOR,True,John Wayne,academy_award
+518,1970,ACTOR,False,Melvyn Douglas,academy_award
+519,1970,ACTOR,False,James Earl Jones,academy_award
+520,1970,ACTOR,False,Jack Nicholson,academy_award
+521,1970,ACTOR,False,Ryan O'Neal,academy_award
+522,1970,ACTOR,True,George C. Scott,academy_award
+523,1971,ACTOR,False,Peter Finch,academy_award
+524,1971,ACTOR,True,Gene Hackman,academy_award
+525,1971,ACTOR,False,Walter Matthau,academy_award
+526,1971,ACTOR,False,George C. Scott,academy_award
+527,1971,ACTOR,False,Topol,academy_award
+528,1972,ACTOR,True,Marlon Brando,academy_award
+529,1972,ACTOR,False,Michael Caine,academy_award
+530,1972,ACTOR,False,Laurence Olivier,academy_award
+531,1972,ACTOR,False,Peter O'Toole,academy_award
+532,1972,ACTOR,False,Paul Winfield,academy_award
+533,1973,ACTOR,False,Marlon Brando,academy_award
+534,1973,ACTOR,True,Jack Lemmon,academy_award
+535,1973,ACTOR,False,Jack Nicholson,academy_award
+536,1973,ACTOR,False,Al Pacino,academy_award
+537,1973,ACTOR,False,Robert Redford,academy_award
+538,1974,ACTOR,True,Art Carney,academy_award
+539,1974,ACTOR,False,Albert Finney,academy_award
+540,1974,ACTOR,False,Dustin Hoffman,academy_award
+541,1974,ACTOR,False,Jack Nicholson,academy_award
+542,1974,ACTOR,False,Al Pacino,academy_award
+543,1975,ACTOR,False,Walter Matthau,academy_award
+544,1975,ACTOR,True,Jack Nicholson,academy_award
+545,1975,ACTOR,False,Al Pacino,academy_award
+546,1975,ACTOR,False,Maximilian Schell,academy_award
+547,1975,ACTOR,False,James Whitmore,academy_award
+548,1976,ACTOR,False,Robert De Niro,academy_award
+549,1976,ACTOR,True,Peter Finch,academy_award
+550,1976,ACTOR,False,Giancarlo Giannini,academy_award
+551,1976,ACTOR,False,William Holden,academy_award
+552,1976,ACTOR,False,Sylvester Stallone,academy_award
+553,1977,ACTOR,False,Woody Allen,academy_award
+554,1977,ACTOR,False,Richard Burton,academy_award
+555,1977,ACTOR,True,Richard Dreyfuss,academy_award
+556,1977,ACTOR,False,Marcello Mastroianni,academy_award
+557,1977,ACTOR,False,John Travolta,academy_award
+558,1978,ACTOR,False,Warren Beatty,academy_award
+559,1978,ACTOR,False,Gary Busey,academy_award
+560,1978,ACTOR,False,Robert De Niro,academy_award
+561,1978,ACTOR,False,Laurence Olivier,academy_award
+562,1978,ACTOR,True,Jon Voight,academy_award
+563,1979,ACTOR,True,Dustin Hoffman,academy_award
+564,1979,ACTOR,False,Jack Lemmon,academy_award
+565,1979,ACTOR,False,Al Pacino,academy_award
+566,1979,ACTOR,False,Roy Scheider,academy_award
+567,1979,ACTOR,False,Peter Sellers,academy_award
+568,1980,ACTOR,True,Robert De Niro,academy_award
+569,1980,ACTOR,False,Robert Duvall,academy_award
+570,1980,ACTOR,False,John Hurt,academy_award
+571,1980,ACTOR,False,Jack Lemmon,academy_award
+572,1980,ACTOR,False,Peter O'Toole,academy_award
+573,1981,ACTOR,False,Warren Beatty,academy_award
+574,1981,ACTOR,True,Henry Fonda,academy_award
+575,1981,ACTOR,False,Burt Lancaster,academy_award
+576,1981,ACTOR,False,Dudley Moore,academy_award
+577,1981,ACTOR,False,Paul Newman,academy_award
+578,1982,ACTOR,False,Dustin Hoffman,academy_award
+579,1982,ACTOR,True,Ben Kingsley,academy_award
+580,1982,ACTOR,False,Jack Lemmon,academy_award
+581,1982,ACTOR,False,Paul Newman,academy_award
+582,1982,ACTOR,False,Peter O'Toole,academy_award
+583,1983,ACTOR,False,Michael Caine,academy_award
+584,1983,ACTOR,False,Tom Conti,academy_award
+585,1983,ACTOR,False,Tom Courtenay,academy_award
+586,1983,ACTOR,True,Robert Duvall,academy_award
+587,1983,ACTOR,False,Albert Finney,academy_award
+588,1984,ACTOR,True,F. Murray Abraham,academy_award
+589,1984,ACTOR,False,Jeff Bridges,academy_award
+590,1984,ACTOR,False,Albert Finney,academy_award
+591,1984,ACTOR,False,Tom Hulce,academy_award
+592,1984,ACTOR,False,Sam Waterston,academy_award
+593,1985,ACTOR,False,Harrison Ford,academy_award
+594,1985,ACTOR,False,James Garner,academy_award
+595,1985,ACTOR,True,William Hurt,academy_award
+596,1985,ACTOR,False,Jack Nicholson,academy_award
+597,1985,ACTOR,False,Jon Voight,academy_award
+598,1986,ACTOR,False,Dexter Gordon,academy_award
+599,1986,ACTOR,False,Bob Hoskins,academy_award
+600,1986,ACTOR,False,William Hurt,academy_award
+601,1986,ACTOR,True,Paul Newman,academy_award
+602,1986,ACTOR,False,James Woods,academy_award
+603,1987,ACTOR,True,Michael Douglas,academy_award
+604,1987,ACTOR,False,William Hurt,academy_award
+605,1987,ACTOR,False,Marcello Mastroianni,academy_award
+606,1987,ACTOR,False,Jack Nicholson,academy_award
+607,1987,ACTOR,False,Robin Williams,academy_award
+608,1988,ACTOR,False,Gene Hackman,academy_award
+609,1988,ACTOR,False,Tom Hanks,academy_award
+610,1988,ACTOR,True,Dustin Hoffman,academy_award
+611,1988,ACTOR,False,Edward James Olmos,academy_award
+612,1988,ACTOR,False,Max von Sydow,academy_award
+613,1989,ACTOR,False,Kenneth Branagh,academy_award
+614,1989,ACTOR,False,Tom Cruise,academy_award
+615,1989,ACTOR,True,Daniel Day Lewis,academy_award
+616,1989,ACTOR,False,Morgan Freeman,academy_award
+617,1989,ACTOR,False,Robin Williams,academy_award
+618,1990,ACTOR,False,Kevin Costner,academy_award
+619,1990,ACTOR,False,Robert De Niro,academy_award
+620,1990,ACTOR,False,Gerard Depardieu,academy_award
+621,1990,ACTOR,False,Richard Harris,academy_award
+622,1990,ACTOR,True,Jeremy Irons,academy_award
+623,1991,ACTOR,False,Warren Beatty,academy_award
+624,1991,ACTOR,False,Robert De Niro,academy_award
+625,1991,ACTOR,True,Anthony Hopkins,academy_award
+626,1991,ACTOR,False,Nick Nolte,academy_award
+627,1991,ACTOR,False,Robin Williams,academy_award
+628,1992,ACTOR,False,Robert Downey Jr.,academy_award
+629,1992,ACTOR,False,Clint Eastwood,academy_award
+630,1992,ACTOR,True,Al Pacino,academy_award
+631,1992,ACTOR,False,Stephen Rea,academy_award
+632,1992,ACTOR,False,Denzel Washington,academy_award
+633,1993,ACTOR,False,Daniel Day-Lewis,academy_award
+634,1993,ACTOR,False,Laurence Fishburne,academy_award
+635,1993,ACTOR,True,Tom Hanks,academy_award
+636,1993,ACTOR,False,Anthony Hopkins,academy_award
+637,1993,ACTOR,False,Liam Neeson,academy_award
+638,1994,ACTOR,False,Morgan Freeman,academy_award
+639,1994,ACTOR,True,Tom Hanks,academy_award
+640,1994,ACTOR,False,Nigel Hawthorne,academy_award
+641,1994,ACTOR,False,Paul Newman,academy_award
+642,1994,ACTOR,False,John Travolta,academy_award
+643,1995,ACTOR,True,Nicolas Cage,academy_award
+644,1995,ACTOR,False,Richard Dreyfuss,academy_award
+645,1995,ACTOR,False,Anthony Hopkins,academy_award
+646,1995,ACTOR,False,Sean Penn,academy_award
+647,1995,ACTOR,False,Massimo Troisi,academy_award
+648,1996,ACTOR,False,Tom Cruise,academy_award
+649,1996,ACTOR,False,Ralph Fiennes,academy_award
+650,1996,ACTOR,False,Woody Harrelson,academy_award
+651,1996,ACTOR,True,Geoffrey Rush,academy_award
+652,1996,ACTOR,False,Billy Bob Thornton,academy_award
+653,1997,ACTOR,False,Matt Damon,academy_award
+654,1997,ACTOR,False,Robert Duvall,academy_award
+655,1997,ACTOR,False,Peter Fonda,academy_award
+656,1997,ACTOR,False,Dustin Hoffman,academy_award
+657,1997,ACTOR,True,Jack Nicholson,academy_award
+658,1998,ACTOR,True,Roberto Benigni,academy_award
+659,1998,ACTOR,False,Tom Hanks,academy_award
+660,1998,ACTOR,False,Ian McKellen,academy_award
+661,1998,ACTOR,False,Nick Nolte,academy_award
+662,1998,ACTOR,False,Edward Norton,academy_award
+663,1999,ACTOR,False,Russell Crowe,academy_award
+664,1999,ACTOR,False,Richard Farnsworth,academy_award
+665,1999,ACTOR,False,Sean Penn,academy_award
+666,1999,ACTOR,True,Kevin Spacey,academy_award
+667,1999,ACTOR,False,Denzel Washington,academy_award
+668,2000,ACTOR,False,Javier Bardem,academy_award
+669,2000,ACTOR,True,Russell Crowe,academy_award
+670,2000,ACTOR,False,Tom Hanks,academy_award
+671,2000,ACTOR,False,Ed Harris,academy_award
+672,2000,ACTOR,False,Geoffrey Rush,academy_award
+673,2001,ACTOR,False,Russell Crowe,academy_award
+674,2001,ACTOR,False,Sean Penn,academy_award
+675,2001,ACTOR,False,Will Smith,academy_award
+676,2001,ACTOR,True,Denzel Washington,academy_award
+677,2001,ACTOR,False,Tom Wilkinson,academy_award
+678,2002,ACTOR,True,Adrien Brody,academy_award
+679,2002,ACTOR,False,Nicolas Cage,academy_award
+680,2002,ACTOR,False,Michael Caine,academy_award
+681,2002,ACTOR,False,Daniel Day-Lewis,academy_award
+682,2002,ACTOR,False,Jack Nicholson,academy_award
+683,2003,ACTOR,False,Johnny Depp,academy_award
+684,2003,ACTOR,False,Ben Kingsley,academy_award
+685,2003,ACTOR,False,Jude Law,academy_award
+686,2003,ACTOR,False,Bill Murray,academy_award
+687,2003,ACTOR,True,Sean Penn,academy_award
+688,2004,ACTOR,False,Don Cheadle,academy_award
+689,2004,ACTOR,False,Johnny Depp,academy_award
+690,2004,ACTOR,False,Leonardo DiCaprio,academy_award
+691,2004,ACTOR,False,Clint Eastwood,academy_award
+692,2004,ACTOR,True,Jamie Foxx,academy_award
+693,2005,ACTOR,True,Philip Seymour Hoffman,academy_award
+694,2005,ACTOR,False,Terrence Howard,academy_award
+695,2005,ACTOR,False,Heath Ledger,academy_award
+696,2005,ACTOR,False,Joaquin Phoenix,academy_award
+697,2005,ACTOR,False,David Strathairn,academy_award
+698,2006,ACTOR,False,Leonardo DiCaprio,academy_award
+699,2006,ACTOR,False,Ryan Gosling,academy_award
+700,2006,ACTOR,False,Peter O'Toole,academy_award
+701,2006,ACTOR,False,Will Smith,academy_award
+702,2006,ACTOR,True,Forest Whitaker,academy_award
+703,2007,ACTOR,False,George Clooney,academy_award
+704,2007,ACTOR,True,Daniel Day-Lewis,academy_award
+705,2007,ACTOR,False,Johnny Depp,academy_award
+706,2007,ACTOR,False,Tommy Lee Jones,academy_award
+707,2007,ACTOR,False,Viggo Mortensen,academy_award
+708,2008,ACTOR,False,Richard Jenkins,academy_award
+709,2008,ACTOR,False,Frank Langella,academy_award
+710,2008,ACTOR,True,Sean Penn,academy_award
+711,2008,ACTOR,False,Brad Pitt,academy_award
+712,2008,ACTOR,False,Mickey Rourke,academy_award
+713,2009,ACTOR,True,Jeff Bridges,academy_award
+714,2009,ACTOR,False,George Clooney,academy_award
+715,2009,ACTOR,False,Colin Firth,academy_award
+716,2009,ACTOR,False,Morgan Freeman,academy_award
+717,2009,ACTOR,False,Jeremy Renner,academy_award
+718,2010,ACTOR,False,Javier Bardem,academy_award
+719,2010,ACTOR,False,Jeff Bridges,academy_award
+720,2010,ACTOR,False,Jesse Eisenberg,academy_award
+721,2010,ACTOR,True,Colin Firth,academy_award
+722,2010,ACTOR,False,James Franco,academy_award
+723,2011,ACTOR,False,Demián Bichir,academy_award
+724,2011,ACTOR,False,George Clooney,academy_award
+725,2011,ACTOR,True,Jean Dujardin,academy_award
+726,2011,ACTOR,False,Gary Oldman,academy_award
+727,2011,ACTOR,False,Brad Pitt,academy_award
+728,2012,ACTOR,False,Bradley Cooper,academy_award
+729,2012,ACTOR,True,Daniel Day-Lewis,academy_award
+730,2012,ACTOR,False,Hugh Jackman,academy_award
+731,2012,ACTOR,False,Joaquin Phoenix,academy_award
+732,2012,ACTOR,False,Denzel Washington,academy_award
+733,2013,ACTOR,False,Christian Bale,academy_award
+734,2013,ACTOR,False,Bruce Dern,academy_award
+735,2013,ACTOR,False,Leonardo DiCaprio,academy_award
+736,2013,ACTOR,False,Chiwetel Ejiofor,academy_award
+737,2013,ACTOR,True,Matthew McConaughey,academy_award
+738,2014,ACTOR,False,Steve Carell,academy_award
+739,2014,ACTOR,False,Bradley Cooper,academy_award
+740,2014,ACTOR,False,Benedict Cumberbatch,academy_award
+741,2014,ACTOR,False,Michael Keaton,academy_award
+742,2014,ACTOR,True,Eddie Redmayne,academy_award
+743,2015,ACTOR,False,Bryan Cranston,academy_award
+744,2015,ACTOR,False,Matt Damon,academy_award
+745,2015,ACTOR,True,Leonardo DiCaprio,academy_award
+746,2015,ACTOR,False,Michael Fassbender,academy_award
+747,2015,ACTOR,False,Eddie Redmayne,academy_award
+748,2016,ACTOR,True,Casey Affleck,academy_award
+749,2016,ACTOR,False,Andrew Garfield,academy_award
+750,2016,ACTOR,False,Ryan Gosling,academy_award
+751,2016,ACTOR,False,Viggo Mortensen,academy_award
+752,2016,ACTOR,False,Denzel Washington,academy_award
+753,2017,ACTOR,False,Timothée Chalamet,academy_award
+754,2017,ACTOR,False,Daniel Day-Lewis,academy_award
+755,2017,ACTOR,False,Daniel Kaluuya,academy_award
+756,2017,ACTOR,True,Gary Oldman,academy_award
+757,2017,ACTOR,False,Denzel Washington,academy_award
+758,1927,ACTRESS,False,Louise Dresser,academy_award
+759,1927,ACTRESS,True,Janet Gaynor,academy_award
+760,1927,ACTRESS,False,Gloria Swanson,academy_award
+761,1928,ACTRESS,False,Ruth Chatterton,academy_award
+762,1928,ACTRESS,False,Betty Compson,academy_award
+763,1928,ACTRESS,False,Jeanne Eagels,academy_award
+764,1928,ACTRESS,False,Corinne Griffith,academy_award
+765,1928,ACTRESS,False,Bessie Love,academy_award
+766,1928,ACTRESS,True,Mary Pickford,academy_award
+767,1929,ACTRESS,False,Nancy Carroll,academy_award
+768,1929,ACTRESS,False,Ruth Chatterton,academy_award
+769,1929,ACTRESS,False,Greta Garbo,academy_award
+770,1929,ACTRESS,True,Norma Shearer,academy_award
+771,1929,ACTRESS,False,Norma Shearer,academy_award
+772,1929,ACTRESS,False,Gloria Swanson,academy_award
+773,1930,ACTRESS,False,Marlene Dietrich,academy_award
+774,1930,ACTRESS,True,Marie Dressler,academy_award
+775,1930,ACTRESS,False,Irene Dunne,academy_award
+776,1930,ACTRESS,False,Ann Harding,academy_award
+777,1930,ACTRESS,False,Norma Shearer,academy_award
+778,1931,ACTRESS,False,Marie Dressler,academy_award
+779,1931,ACTRESS,False,Lynn Fontanne,academy_award
+780,1931,ACTRESS,True,Helen Hayes,academy_award
+781,1932,ACTRESS,True,Katharine Hepburn,academy_award
+782,1932,ACTRESS,False,May Robson,academy_award
+783,1932,ACTRESS,False,Diana Wynyard,academy_award
+784,1934,ACTRESS,True,Claudette Colbert,academy_award
+785,1934,ACTRESS,False,Bette Davis,academy_award
+786,1934,ACTRESS,False,Grace Moore,academy_award
+787,1934,ACTRESS,False,Norma Shearer,academy_award
+788,1935,ACTRESS,False,Elisabeth Bergner,academy_award
+789,1935,ACTRESS,False,Claudette Colbert,academy_award
+790,1935,ACTRESS,True,Bette Davis,academy_award
+791,1935,ACTRESS,False,Katharine Hepburn,academy_award
+792,1935,ACTRESS,False,Miriam Hopkins,academy_award
+793,1935,ACTRESS,False,Merle Oberon,academy_award
+794,1936,ACTRESS,False,Irene Dunne,academy_award
+795,1936,ACTRESS,False,Gladys George,academy_award
+796,1936,ACTRESS,False,Carole Lombard,academy_award
+797,1936,ACTRESS,True,Luise Rainer,academy_award
+798,1936,ACTRESS,False,Norma Shearer,academy_award
+799,1937,ACTRESS,False,Irene Dunne,academy_award
+800,1937,ACTRESS,False,Greta Garbo,academy_award
+801,1937,ACTRESS,False,Janet Gaynor,academy_award
+802,1937,ACTRESS,True,Luise Rainer,academy_award
+803,1937,ACTRESS,False,Barbara Stanwyck,academy_award
+804,1938,ACTRESS,False,Fay Bainter,academy_award
+805,1938,ACTRESS,True,Bette Davis,academy_award
+806,1938,ACTRESS,False,Wendy Hiller,academy_award
+807,1938,ACTRESS,False,Norma Shearer,academy_award
+808,1938,ACTRESS,False,Margaret Sullavan,academy_award
+809,1939,ACTRESS,False,Bette Davis,academy_award
+810,1939,ACTRESS,False,Irene Dunne,academy_award
+811,1939,ACTRESS,False,Greta Garbo,academy_award
+812,1939,ACTRESS,False,Greer Garson,academy_award
+813,1939,ACTRESS,True,Vivien Leigh,academy_award
+814,1940,ACTRESS,False,Bette Davis,academy_award
+815,1940,ACTRESS,False,Joan Fontaine,academy_award
+816,1940,ACTRESS,False,Katharine Hepburn,academy_award
+817,1940,ACTRESS,True,Ginger Rogers,academy_award
+818,1940,ACTRESS,False,Martha Scott,academy_award
+819,1941,ACTRESS,False,Bette Davis,academy_award
+820,1941,ACTRESS,False,Olivia de Havilland,academy_award
+821,1941,ACTRESS,True,Joan Fontaine,academy_award
+822,1941,ACTRESS,False,Greer Garson,academy_award
+823,1941,ACTRESS,False,Barbara Stanwyck,academy_award
+824,1942,ACTRESS,False,Bette Davis,academy_award
+825,1942,ACTRESS,True,Greer Garson,academy_award
+826,1942,ACTRESS,False,Katharine Hepburn,academy_award
+827,1942,ACTRESS,False,Rosalind Russell,academy_award
+828,1942,ACTRESS,False,Teresa Wright,academy_award
+829,1943,ACTRESS,False,Jean Arthur,academy_award
+830,1943,ACTRESS,False,Ingrid Bergman,academy_award
+831,1943,ACTRESS,False,Joan Fontaine,academy_award
+832,1943,ACTRESS,False,Greer Garson,academy_award
+833,1943,ACTRESS,True,Jennifer Jones,academy_award
+834,1944,ACTRESS,True,Ingrid Bergman,academy_award
+835,1944,ACTRESS,False,Claudette Colbert,academy_award
+836,1944,ACTRESS,False,Bette Davis,academy_award
+837,1944,ACTRESS,False,Greer Garson,academy_award
+838,1944,ACTRESS,False,Barbara Stanwyck,academy_award
+839,1945,ACTRESS,False,Ingrid Bergman,academy_award
+840,1945,ACTRESS,True,Joan Crawford,academy_award
+841,1945,ACTRESS,False,Greer Garson,academy_award
+842,1945,ACTRESS,False,Jennifer Jones,academy_award
+843,1945,ACTRESS,False,Gene Tierney,academy_award
+844,1946,ACTRESS,True,Olivia de Havilland,academy_award
+845,1946,ACTRESS,False,Celia Johnson,academy_award
+846,1946,ACTRESS,False,Jennifer Jones,academy_award
+847,1946,ACTRESS,False,Rosalind Russell,academy_award
+848,1946,ACTRESS,False,Jane Wyman,academy_award
+849,1947,ACTRESS,False,Joan Crawford,academy_award
+850,1947,ACTRESS,False,Susan Hayward,academy_award
+851,1947,ACTRESS,False,Dorothy McGuire,academy_award
+852,1947,ACTRESS,False,Rosalind Russell,academy_award
+853,1947,ACTRESS,True,Loretta Young,academy_award
+854,1948,ACTRESS,False,Ingrid Bergman,academy_award
+855,1948,ACTRESS,False,Olivia de Havilland,academy_award
+856,1948,ACTRESS,False,Irene Dunne,academy_award
+857,1948,ACTRESS,False,Barbara Stanwyck,academy_award
+858,1948,ACTRESS,True,Jane Wyman,academy_award
+859,1949,ACTRESS,False,Jeanne Crain,academy_award
+860,1949,ACTRESS,True,Olivia de Havilland,academy_award
+861,1949,ACTRESS,False,Susan Hayward,academy_award
+862,1949,ACTRESS,False,Deborah Kerr,academy_award
+863,1949,ACTRESS,False,Loretta Young,academy_award
+864,1950,ACTRESS,False,Anne Baxter,academy_award
+865,1950,ACTRESS,False,Bette Davis,academy_award
+866,1950,ACTRESS,True,Judy Holliday,academy_award
+867,1950,ACTRESS,False,Eleanor Parker,academy_award
+868,1950,ACTRESS,False,Gloria Swanson,academy_award
+869,1951,ACTRESS,False,Katharine Hepburn,academy_award
+870,1951,ACTRESS,True,Vivien Leigh,academy_award
+871,1951,ACTRESS,False,Eleanor Parker,academy_award
+872,1951,ACTRESS,False,Shelley Winters,academy_award
+873,1951,ACTRESS,False,Jane Wyman,academy_award
+874,1952,ACTRESS,True,Shirley Booth,academy_award
+875,1952,ACTRESS,False,Joan Crawford,academy_award
+876,1952,ACTRESS,False,Bette Davis,academy_award
+877,1952,ACTRESS,False,Julie Harris,academy_award
+878,1952,ACTRESS,False,Susan Hayward,academy_award
+879,1953,ACTRESS,False,Leslie Caron,academy_award
+880,1953,ACTRESS,False,Ava Gardner,academy_award
+881,1953,ACTRESS,True,Audrey Hepburn,academy_award
+882,1953,ACTRESS,False,Deborah Kerr,academy_award
+883,1953,ACTRESS,False,Maggie McNamara,academy_award
+884,1954,ACTRESS,False,Dorothy Dandridge,academy_award
+885,1954,ACTRESS,False,Judy Garland,academy_award
+886,1954,ACTRESS,False,Audrey Hepburn,academy_award
+887,1954,ACTRESS,True,Grace Kelly,academy_award
+888,1954,ACTRESS,False,Jane Wyman,academy_award
+889,1955,ACTRESS,False,Susan Hayward,academy_award
+890,1955,ACTRESS,False,Katharine Hepburn,academy_award
+891,1955,ACTRESS,False,Jennifer Jones,academy_award
+892,1955,ACTRESS,True,Anna Magnani,academy_award
+893,1955,ACTRESS,False,Eleanor Parker,academy_award
+894,1956,ACTRESS,False,Carroll Baker,academy_award
+895,1956,ACTRESS,True,Ingrid Bergman,academy_award
+896,1956,ACTRESS,False,Katharine Hepburn,academy_award
+897,1956,ACTRESS,False,Nancy Kelly,academy_award
+898,1956,ACTRESS,False,Deborah Kerr,academy_award
+899,1957,ACTRESS,False,Deborah Kerr,academy_award
+900,1957,ACTRESS,False,Anna Magnani,academy_award
+901,1957,ACTRESS,False,Elizabeth Taylor,academy_award
+902,1957,ACTRESS,False,Lana Turner,academy_award
+903,1957,ACTRESS,True,Joanne Woodward,academy_award
+904,1958,ACTRESS,True,Susan Hayward,academy_award
+905,1958,ACTRESS,False,Deborah Kerr,academy_award
+906,1958,ACTRESS,False,Shirley MacLaine,academy_award
+907,1958,ACTRESS,False,Rosalind Russell,academy_award
+908,1958,ACTRESS,False,Elizabeth Taylor,academy_award
+909,1959,ACTRESS,False,Doris Day,academy_award
+910,1959,ACTRESS,False,Audrey Hepburn,academy_award
+911,1959,ACTRESS,False,Katharine Hepburn,academy_award
+912,1959,ACTRESS,True,Simone Signoret,academy_award
+913,1959,ACTRESS,False,Elizabeth Taylor,academy_award
+914,1960,ACTRESS,False,Greer Garson,academy_award
+915,1960,ACTRESS,False,Deborah Kerr,academy_award
+916,1960,ACTRESS,False,Shirley MacLaine,academy_award
+917,1960,ACTRESS,False,Melina Mercouri,academy_award
+918,1960,ACTRESS,True,Elizabeth Taylor,academy_award
+919,1961,ACTRESS,False,Audrey Hepburn,academy_award
+920,1961,ACTRESS,False,Piper Laurie,academy_award
+921,1961,ACTRESS,True,Sophia Loren,academy_award
+922,1961,ACTRESS,False,Geraldine Page,academy_award
+923,1961,ACTRESS,False,Natalie Wood,academy_award
+924,1962,ACTRESS,True,Anne Bancroft,academy_award
+925,1962,ACTRESS,False,Bette Davis,academy_award
+926,1962,ACTRESS,False,Katharine Hepburn,academy_award
+927,1962,ACTRESS,False,Geraldine Page,academy_award
+928,1962,ACTRESS,False,Lee Remick,academy_award
+929,1963,ACTRESS,False,Leslie Caron,academy_award
+930,1963,ACTRESS,False,Shirley MacLaine,academy_award
+931,1963,ACTRESS,True,Patricia Neal,academy_award
+932,1963,ACTRESS,False,Rachel Roberts,academy_award
+933,1963,ACTRESS,False,Natalie Wood,academy_award
+934,1964,ACTRESS,True,Julie Andrews,academy_award
+935,1964,ACTRESS,False,Anne Bancroft,academy_award
+936,1964,ACTRESS,False,Sophia Loren,academy_award
+937,1964,ACTRESS,False,Debbie Reynolds,academy_award
+938,1964,ACTRESS,False,Kim Stanley,academy_award
+939,1965,ACTRESS,False,Julie Andrews,academy_award
+940,1965,ACTRESS,True,Julie Christie,academy_award
+941,1965,ACTRESS,False,Samantha Eggar,academy_award
+942,1965,ACTRESS,False,Elizabeth Hartman,academy_award
+943,1965,ACTRESS,False,Simone Signoret,academy_award
+944,1966,ACTRESS,False,Anouk Aimee,academy_award
+945,1966,ACTRESS,False,Ida Kaminska,academy_award
+946,1966,ACTRESS,False,Lynn Redgrave,academy_award
+947,1966,ACTRESS,False,Vanessa Redgrave,academy_award
+948,1966,ACTRESS,True,Elizabeth Taylor,academy_award
+949,1967,ACTRESS,False,Anne Bancroft,academy_award
+950,1967,ACTRESS,False,Faye Dunaway,academy_award
+951,1967,ACTRESS,False,Dame Edith Evans,academy_award
+952,1967,ACTRESS,False,Audrey Hepburn,academy_award
+953,1967,ACTRESS,True,Katharine Hepburn,academy_award
+954,1968,ACTRESS,True,Katharine Hepburn,academy_award
+955,1968,ACTRESS,False,Patricia Neal,academy_award
+956,1968,ACTRESS,False,Vanessa Redgrave,academy_award
+957,1968,ACTRESS,True,Barbra Streisand,academy_award
+958,1968,ACTRESS,False,Joanne Woodward,academy_award
+959,1969,ACTRESS,False,Genevieve Bujold,academy_award
+960,1969,ACTRESS,False,Jane Fonda,academy_award
+961,1969,ACTRESS,False,Liza Minnelli,academy_award
+962,1969,ACTRESS,False,Jean Simmons,academy_award
+963,1969,ACTRESS,True,Maggie Smith,academy_award
+964,1970,ACTRESS,False,Jane Alexander,academy_award
+965,1970,ACTRESS,True,Glenda Jackson,academy_award
+966,1970,ACTRESS,False,Ali MacGraw,academy_award
+967,1970,ACTRESS,False,Sarah Miles,academy_award
+968,1970,ACTRESS,False,Carrie Snodgress,academy_award
+969,1971,ACTRESS,False,Julie Christie,academy_award
+970,1971,ACTRESS,True,Jane Fonda,academy_award
+971,1971,ACTRESS,False,Glenda Jackson,academy_award
+972,1971,ACTRESS,False,Vanessa Redgrave,academy_award
+973,1971,ACTRESS,False,Janet Suzman,academy_award
+974,1972,ACTRESS,True,Liza Minnelli,academy_award
+975,1972,ACTRESS,False,Diana Ross,academy_award
+976,1972,ACTRESS,False,Maggie Smith,academy_award
+977,1972,ACTRESS,False,Cicely Tyson,academy_award
+978,1972,ACTRESS,False,Liv Ullmann,academy_award
+979,1973,ACTRESS,False,Ellen Burstyn,academy_award
+980,1973,ACTRESS,True,Glenda Jackson,academy_award
+981,1973,ACTRESS,False,Marsha Mason,academy_award
+982,1973,ACTRESS,False,Barbra Streisand,academy_award
+983,1973,ACTRESS,False,Joanne Woodward,academy_award
+984,1974,ACTRESS,True,Ellen Burstyn,academy_award
+985,1974,ACTRESS,False,Diahann Carroll,academy_award
+986,1974,ACTRESS,False,Faye Dunaway,academy_award
+987,1974,ACTRESS,False,Valerie Perrine,academy_award
+988,1974,ACTRESS,False,Gena Rowlands,academy_award
+989,1975,ACTRESS,False,Isabelle Adjani,academy_award
+990,1975,ACTRESS,False,Ann-Margret,academy_award
+991,1975,ACTRESS,True,Louise Fletcher,academy_award
+992,1975,ACTRESS,False,Glenda Jackson,academy_award
+993,1975,ACTRESS,False,Carol Kane,academy_award
+994,1976,ACTRESS,False,Marie-Christine Barrault,academy_award
+995,1976,ACTRESS,True,Faye Dunaway,academy_award
+996,1976,ACTRESS,False,Talia Shire,academy_award
+997,1976,ACTRESS,False,Sissy Spacek,academy_award
+998,1976,ACTRESS,False,Liv Ullmann,academy_award
+999,1977,ACTRESS,False,Anne Bancroft,academy_award
+1000,1977,ACTRESS,False,Jane Fonda,academy_award
+1001,1977,ACTRESS,True,Diane Keaton,academy_award
+1002,1977,ACTRESS,False,Shirley MacLaine,academy_award
+1003,1977,ACTRESS,False,Marsha Mason,academy_award
+1004,1978,ACTRESS,False,Ingrid Bergman,academy_award
+1005,1978,ACTRESS,False,Ellen Burstyn,academy_award
+1006,1978,ACTRESS,False,Jill Clayburgh,academy_award
+1007,1978,ACTRESS,True,Jane Fonda,academy_award
+1008,1978,ACTRESS,False,Geraldine Page,academy_award
+1009,1979,ACTRESS,False,Jill Clayburgh,academy_award
+1010,1979,ACTRESS,True,Sally Field,academy_award
+1011,1979,ACTRESS,False,Jane Fonda,academy_award
+1012,1979,ACTRESS,False,Marsha Mason,academy_award
+1013,1979,ACTRESS,False,Bette Midler,academy_award
+1014,1980,ACTRESS,False,Ellen Burstyn,academy_award
+1015,1980,ACTRESS,False,Goldie Hawn,academy_award
+1016,1980,ACTRESS,False,Mary Tyler Moore,academy_award
+1017,1980,ACTRESS,False,Gena Rowlands,academy_award
+1018,1980,ACTRESS,True,Sissy Spacek,academy_award
+1019,1981,ACTRESS,True,Katharine Hepburn,academy_award
+1020,1981,ACTRESS,False,Diane Keaton,academy_award
+1021,1981,ACTRESS,False,Marsha Mason,academy_award
+1022,1981,ACTRESS,False,Susan Sarandon,academy_award
+1023,1981,ACTRESS,False,Meryl Streep,academy_award
+1024,1982,ACTRESS,False,Julie Andrews,academy_award
+1025,1982,ACTRESS,False,Jessica Lange,academy_award
+1026,1982,ACTRESS,False,Sissy Spacek,academy_award
+1027,1982,ACTRESS,True,Meryl Streep,academy_award
+1028,1982,ACTRESS,False,Debra Winger,academy_award
+1029,1983,ACTRESS,False,Jane Alexander,academy_award
+1030,1983,ACTRESS,True,Shirley MacLaine,academy_award
+1031,1983,ACTRESS,False,Meryl Streep,academy_award
+1032,1983,ACTRESS,False,Julie Walters,academy_award
+1033,1983,ACTRESS,False,Debra Winger,academy_award
+1034,1984,ACTRESS,False,Judy Davis,academy_award
+1035,1984,ACTRESS,True,Sally Field,academy_award
+1036,1984,ACTRESS,False,Jessica Lange,academy_award
+1037,1984,ACTRESS,False,Vanessa Redgrave,academy_award
+1038,1984,ACTRESS,False,Sissy Spacek,academy_award
+1039,1985,ACTRESS,False,Anne Bancroft,academy_award
+1040,1985,ACTRESS,False,Whoopi Goldberg,academy_award
+1041,1985,ACTRESS,False,Jessica Lange,academy_award
+1042,1985,ACTRESS,True,Geraldine Page,academy_award
+1043,1985,ACTRESS,False,Meryl Streep,academy_award
+1044,1986,ACTRESS,False,Jane Fonda,academy_award
+1045,1986,ACTRESS,True,Marlee Matlin,academy_award
+1046,1986,ACTRESS,False,Sissy Spacek,academy_award
+1047,1986,ACTRESS,False,Kathleen Turner,academy_award
+1048,1986,ACTRESS,False,Sigourney Weaver,academy_award
+1049,1987,ACTRESS,True,Cher,academy_award
+1050,1987,ACTRESS,False,Glenn Close,academy_award
+1051,1987,ACTRESS,False,Holly Hunter,academy_award
+1052,1987,ACTRESS,False,Sally Kirkland,academy_award
+1053,1987,ACTRESS,False,Meryl Streep,academy_award
+1054,1988,ACTRESS,False,Glenn Close,academy_award
+1055,1988,ACTRESS,True,Jodie Foster,academy_award
+1056,1988,ACTRESS,False,Melanie Griffith,academy_award
+1057,1988,ACTRESS,False,Meryl Streep,academy_award
+1058,1988,ACTRESS,False,Sigourney Weaver,academy_award
+1059,1989,ACTRESS,False,Isabelle Adjani,academy_award
+1060,1989,ACTRESS,False,Pauline Collins,academy_award
+1061,1989,ACTRESS,False,Jessica Lange,academy_award
+1062,1989,ACTRESS,False,Michelle Pfeiffer,academy_award
+1063,1989,ACTRESS,True,Jessica Tandy,academy_award
+1064,1990,ACTRESS,True,Kathy Bates,academy_award
+1065,1990,ACTRESS,False,Anjelica Huston,academy_award
+1066,1990,ACTRESS,False,Julia Roberts,academy_award
+1067,1990,ACTRESS,False,Meryl Streep,academy_award
+1068,1990,ACTRESS,False,Joanne Woodward,academy_award
+1069,1991,ACTRESS,False,Geena Davis,academy_award
+1070,1991,ACTRESS,False,Laura Dern,academy_award
+1071,1991,ACTRESS,True,Jodie Foster,academy_award
+1072,1991,ACTRESS,False,Bette Midler,academy_award
+1073,1991,ACTRESS,False,Susan Sarandon,academy_award
+1074,1992,ACTRESS,False,Catherine Deneuve,academy_award
+1075,1992,ACTRESS,False,Mary McDonnell,academy_award
+1076,1992,ACTRESS,False,Michelle Pfeiffer,academy_award
+1077,1992,ACTRESS,False,Susan Sarandon,academy_award
+1078,1992,ACTRESS,True,Emma Thompson,academy_award
+1079,1993,ACTRESS,False,Angela Bassett,academy_award
+1080,1993,ACTRESS,False,Stockard Channing,academy_award
+1081,1993,ACTRESS,True,Holly Hunter,academy_award
+1082,1993,ACTRESS,False,Emma Thompson,academy_award
+1083,1993,ACTRESS,False,Debra Winger,academy_award
+1084,1994,ACTRESS,False,Jodie Foster,academy_award
+1085,1994,ACTRESS,True,Jessica Lange,academy_award
+1086,1994,ACTRESS,False,Miranda Richardson,academy_award
+1087,1994,ACTRESS,False,Winona Ryder,academy_award
+1088,1994,ACTRESS,False,Susan Sarandon,academy_award
+1089,1995,ACTRESS,True,Susan Sarandon,academy_award
+1090,1995,ACTRESS,False,Elisabeth Shue,academy_award
+1091,1995,ACTRESS,False,Sharon Stone,academy_award
+1092,1995,ACTRESS,False,Meryl Streep,academy_award
+1093,1995,ACTRESS,False,Emma Thompson,academy_award
+1094,1996,ACTRESS,False,Brenda Blethyn,academy_award
+1095,1996,ACTRESS,False,Diane Keaton,academy_award
+1096,1996,ACTRESS,True,Frances McDormand,academy_award
+1097,1996,ACTRESS,False,Kristin Scott Thomas,academy_award
+1098,1996,ACTRESS,False,Emily Watson,academy_award
+1099,1997,ACTRESS,False,Helena Bonham Carter,academy_award
+1100,1997,ACTRESS,False,Julie Christie,academy_award
+1101,1997,ACTRESS,False,Judi Dench,academy_award
+1102,1997,ACTRESS,True,Helen Hunt,academy_award
+1103,1997,ACTRESS,False,Kate Winslet,academy_award
+1104,1998,ACTRESS,False,Cate Blanchett,academy_award
+1105,1998,ACTRESS,False,Fernanda Montenegro,academy_award
+1106,1998,ACTRESS,True,Gwyneth Paltrow,academy_award
+1107,1998,ACTRESS,False,Meryl Streep,academy_award
+1108,1998,ACTRESS,False,Emily Watson,academy_award
+1109,1999,ACTRESS,False,Annette Bening,academy_award
+1110,1999,ACTRESS,False,Janet McTeer,academy_award
+1111,1999,ACTRESS,False,Julianne Moore,academy_award
+1112,1999,ACTRESS,False,Meryl Streep,academy_award
+1113,1999,ACTRESS,True,Hilary Swank,academy_award
+1114,2000,ACTRESS,False,Joan Allen,academy_award
+1115,2000,ACTRESS,False,Juliette Binoche,academy_award
+1116,2000,ACTRESS,False,Ellen Burstyn,academy_award
+1117,2000,ACTRESS,False,Laura Linney,academy_award
+1118,2000,ACTRESS,True,Julia Roberts,academy_award
+1119,2001,ACTRESS,True,Halle Berry,academy_award
+1120,2001,ACTRESS,False,Judi Dench,academy_award
+1121,2001,ACTRESS,False,Nicole Kidman,academy_award
+1122,2001,ACTRESS,False,Sissy Spacek,academy_award
+1123,2001,ACTRESS,False,Renée Zellweger,academy_award
+1124,2002,ACTRESS,False,Salma Hayek,academy_award
+1125,2002,ACTRESS,True,Nicole Kidman,academy_award
+1126,2002,ACTRESS,False,Diane Lane,academy_award
+1127,2002,ACTRESS,False,Julianne Moore,academy_award
+1128,2002,ACTRESS,False,Renée Zellweger,academy_award
+1129,2003,ACTRESS,False,Keisha Castle-Hughes,academy_award
+1130,2003,ACTRESS,False,Diane Keaton,academy_award
+1131,2003,ACTRESS,False,Samantha Morton,academy_award
+1132,2003,ACTRESS,True,Charlize Theron,academy_award
+1133,2003,ACTRESS,False,Naomi Watts,academy_award
+1134,2004,ACTRESS,False,Annette Bening,academy_award
+1135,2004,ACTRESS,False,Catalina Sandino Moreno,academy_award
+1136,2004,ACTRESS,False,Imelda Staunton,academy_award
+1137,2004,ACTRESS,True,Hilary Swank,academy_award
+1138,2004,ACTRESS,False,Kate Winslet,academy_award
+1139,2005,ACTRESS,False,Judi Dench,academy_award
+1140,2005,ACTRESS,False,Felicity Huffman,academy_award
+1141,2005,ACTRESS,False,Keira Knightley,academy_award
+1142,2005,ACTRESS,False,Charlize Theron,academy_award
+1143,2005,ACTRESS,True,Reese Witherspoon,academy_award
+1144,2006,ACTRESS,False,Penélope Cruz,academy_award
+1145,2006,ACTRESS,False,Judi Dench,academy_award
+1146,2006,ACTRESS,True,Helen Mirren,academy_award
+1147,2006,ACTRESS,False,Meryl Streep,academy_award
+1148,2006,ACTRESS,False,Kate Winslet,academy_award
+1149,2007,ACTRESS,False,Cate Blanchett,academy_award
+1150,2007,ACTRESS,False,Julie Christie,academy_award
+1151,2007,ACTRESS,True,Marion Cotillard,academy_award
+1152,2007,ACTRESS,False,Laura Linney,academy_award
+1153,2007,ACTRESS,False,Ellen Page,academy_award
+1154,2008,ACTRESS,False,Anne Hathaway,academy_award
+1155,2008,ACTRESS,False,Angelina Jolie,academy_award
+1156,2008,ACTRESS,False,Melissa Leo,academy_award
+1157,2008,ACTRESS,False,Meryl Streep,academy_award
+1158,2008,ACTRESS,True,Kate Winslet,academy_award
+1159,2009,ACTRESS,True,Sandra Bullock,academy_award
+1160,2009,ACTRESS,False,Helen Mirren,academy_award
+1161,2009,ACTRESS,False,Carey Mulligan,academy_award
+1162,2009,ACTRESS,False,Gabourey Sidibe,academy_award
+1163,2009,ACTRESS,False,Meryl Streep,academy_award
+1164,2010,ACTRESS,False,Annette Bening,academy_award
+1165,2010,ACTRESS,False,Nicole Kidman,academy_award
+1166,2010,ACTRESS,False,Jennifer Lawrence,academy_award
+1167,2010,ACTRESS,True,Natalie Portman,academy_award
+1168,2010,ACTRESS,False,Michelle Williams,academy_award
+1169,2011,ACTRESS,False,Glenn Close,academy_award
+1170,2011,ACTRESS,False,Viola Davis,academy_award
+1171,2011,ACTRESS,False,Rooney Mara,academy_award
+1172,2011,ACTRESS,True,Meryl Streep,academy_award
+1173,2011,ACTRESS,False,Michelle Williams,academy_award
+1174,2012,ACTRESS,False,Jessica Chastain,academy_award
+1175,2012,ACTRESS,True,Jennifer Lawrence,academy_award
+1176,2012,ACTRESS,False,Emmanuelle Riva,academy_award
+1177,2012,ACTRESS,False,Quvenzhané Wallis,academy_award
+1178,2012,ACTRESS,False,Naomi Watts,academy_award
+1179,2013,ACTRESS,False,Amy Adams,academy_award
+1180,2013,ACTRESS,True,Cate Blanchett,academy_award
+1181,2013,ACTRESS,False,Sandra Bullock,academy_award
+1182,2013,ACTRESS,False,Judi Dench,academy_award
+1183,2013,ACTRESS,False,Meryl Streep,academy_award
+1184,2014,ACTRESS,False,Marion Cotillard,academy_award
+1185,2014,ACTRESS,False,Felicity Jones,academy_award
+1186,2014,ACTRESS,True,Julianne Moore,academy_award
+1187,2014,ACTRESS,False,Rosamund Pike,academy_award
+1188,2014,ACTRESS,False,Reese Witherspoon,academy_award
+1189,2015,ACTRESS,False,Cate Blanchett,academy_award
+1190,2015,ACTRESS,True,Brie Larson,academy_award
+1191,2015,ACTRESS,False,Jennifer Lawrence,academy_award
+1192,2015,ACTRESS,False,Charlotte Rampling,academy_award
+1193,2015,ACTRESS,False,Saoirse Ronan,academy_award
+1194,2016,ACTRESS,False,Isabelle Huppert,academy_award
+1195,2016,ACTRESS,False,Ruth Negga,academy_award
+1196,2016,ACTRESS,False,Natalie Portman,academy_award
+1197,2016,ACTRESS,True,Emma Stone,academy_award
+1198,2016,ACTRESS,False,Meryl Streep,academy_award
+1199,2017,ACTRESS,False,Sally Hawkins,academy_award
+1200,2017,ACTRESS,True,Frances McDormand,academy_award
+1201,2017,ACTRESS,False,Margot Robbie,academy_award
+1202,2017,ACTRESS,False,Saoirse Ronan,academy_award
+1203,2017,ACTRESS,False,Meryl Streep,academy_award
+1204,1936,ACTOR IN A SUPPORTING ROLE,False,Mischa Auer,academy_award
+1205,1936,ACTOR IN A SUPPORTING ROLE,True,Walter Brennan,academy_award
+1206,1936,ACTOR IN A SUPPORTING ROLE,False,Stuart Erwin,academy_award
+1207,1936,ACTOR IN A SUPPORTING ROLE,False,Basil Rathbone,academy_award
+1208,1936,ACTOR IN A SUPPORTING ROLE,False,Akim Tamiroff,academy_award
+1209,1937,ACTOR IN A SUPPORTING ROLE,False,Ralph Bellamy,academy_award
+1210,1937,ACTOR IN A SUPPORTING ROLE,False,Thomas Mitchell,academy_award
+1211,1937,ACTOR IN A SUPPORTING ROLE,True,Joseph Schildkraut,academy_award
+1212,1937,ACTOR IN A SUPPORTING ROLE,False,H. B. Warner,academy_award
+1213,1937,ACTOR IN A SUPPORTING ROLE,False,Roland Young,academy_award
+1214,1938,ACTOR IN A SUPPORTING ROLE,True,Walter Brennan,academy_award
+1215,1938,ACTOR IN A SUPPORTING ROLE,False,John Garfield,academy_award
+1216,1938,ACTOR IN A SUPPORTING ROLE,False,Gene Lockhart,academy_award
+1217,1938,ACTOR IN A SUPPORTING ROLE,False,Robert Morley,academy_award
+1218,1938,ACTOR IN A SUPPORTING ROLE,False,Basil Rathbone,academy_award
+1219,1939,ACTOR IN A SUPPORTING ROLE,False,Brian Aherne,academy_award
+1220,1939,ACTOR IN A SUPPORTING ROLE,False,Harry Carey,academy_award
+1221,1939,ACTOR IN A SUPPORTING ROLE,False,Brian Donlevy,academy_award
+1222,1939,ACTOR IN A SUPPORTING ROLE,True,Thomas Mitchell,academy_award
+1223,1939,ACTOR IN A SUPPORTING ROLE,False,Claude Rains,academy_award
+1224,1940,ACTOR IN A SUPPORTING ROLE,False,Albert Basserman,academy_award
+1225,1940,ACTOR IN A SUPPORTING ROLE,True,Walter Brennan,academy_award
+1226,1940,ACTOR IN A SUPPORTING ROLE,False,William Gargan,academy_award
+1227,1940,ACTOR IN A SUPPORTING ROLE,False,Jack Oakie,academy_award
+1228,1940,ACTOR IN A SUPPORTING ROLE,False,James Stephenson,academy_award
+1229,1941,ACTOR IN A SUPPORTING ROLE,False,Walter Brennan,academy_award
+1230,1941,ACTOR IN A SUPPORTING ROLE,False,Charles Coburn,academy_award
+1231,1941,ACTOR IN A SUPPORTING ROLE,True,Donald Crisp,academy_award
+1232,1941,ACTOR IN A SUPPORTING ROLE,False,James Gleason,academy_award
+1233,1941,ACTOR IN A SUPPORTING ROLE,False,Sydney Greenstreet,academy_award
+1234,1942,ACTOR IN A SUPPORTING ROLE,False,William Bendix,academy_award
+1235,1942,ACTOR IN A SUPPORTING ROLE,True,Van Heflin,academy_award
+1236,1942,ACTOR IN A SUPPORTING ROLE,False,Walter Huston,academy_award
+1237,1942,ACTOR IN A SUPPORTING ROLE,False,Frank Morgan,academy_award
+1238,1942,ACTOR IN A SUPPORTING ROLE,False,Henry Travers,academy_award
+1239,1943,ACTOR IN A SUPPORTING ROLE,False,Charles Bickford,academy_award
+1240,1943,ACTOR IN A SUPPORTING ROLE,True,Charles Coburn,academy_award
+1241,1943,ACTOR IN A SUPPORTING ROLE,False,J. Carrol Naish,academy_award
+1242,1943,ACTOR IN A SUPPORTING ROLE,False,Claude Rains,academy_award
+1243,1943,ACTOR IN A SUPPORTING ROLE,False,Akim Tamiroff,academy_award
+1244,1944,ACTOR IN A SUPPORTING ROLE,False,Hume Cronyn,academy_award
+1245,1944,ACTOR IN A SUPPORTING ROLE,True,Barry Fitzgerald,academy_award
+1246,1944,ACTOR IN A SUPPORTING ROLE,False,Claude Rains,academy_award
+1247,1944,ACTOR IN A SUPPORTING ROLE,False,Clifton Webb,academy_award
+1248,1944,ACTOR IN A SUPPORTING ROLE,False,Monty Woolley,academy_award
+1249,1945,ACTOR IN A SUPPORTING ROLE,False,Michael Chekhov,academy_award
+1250,1945,ACTOR IN A SUPPORTING ROLE,False,John Dall,academy_award
+1251,1945,ACTOR IN A SUPPORTING ROLE,True,James Dunn,academy_award
+1252,1945,ACTOR IN A SUPPORTING ROLE,False,Robert Mitchum,academy_award
+1253,1945,ACTOR IN A SUPPORTING ROLE,False,J. Carrol Naish,academy_award
+1254,1946,ACTOR IN A SUPPORTING ROLE,False,Charles Coburn,academy_award
+1255,1946,ACTOR IN A SUPPORTING ROLE,False,William Demarest,academy_award
+1256,1946,ACTOR IN A SUPPORTING ROLE,False,Claude Rains,academy_award
+1257,1946,ACTOR IN A SUPPORTING ROLE,True,Harold Russell,academy_award
+1258,1946,ACTOR IN A SUPPORTING ROLE,False,Clifton Webb,academy_award
+1259,1947,ACTOR IN A SUPPORTING ROLE,False,Charles Bickford,academy_award
+1260,1947,ACTOR IN A SUPPORTING ROLE,False,Thomas Gomez,academy_award
+1261,1947,ACTOR IN A SUPPORTING ROLE,True,Edmund Gwenn,academy_award
+1262,1947,ACTOR IN A SUPPORTING ROLE,False,Robert Ryan,academy_award
+1263,1947,ACTOR IN A SUPPORTING ROLE,False,Richard Widmark,academy_award
+1264,1948,ACTOR IN A SUPPORTING ROLE,False,Charles Bickford,academy_award
+1265,1948,ACTOR IN A SUPPORTING ROLE,False,José Ferrer,academy_award
+1266,1948,ACTOR IN A SUPPORTING ROLE,False,Oscar Homolka,academy_award
+1267,1948,ACTOR IN A SUPPORTING ROLE,True,Walter Huston,academy_award
+1268,1948,ACTOR IN A SUPPORTING ROLE,False,Cecil Kellaway,academy_award
+1269,1949,ACTOR IN A SUPPORTING ROLE,False,John Ireland,academy_award
+1270,1949,ACTOR IN A SUPPORTING ROLE,True,Dean Jagger,academy_award
+1271,1949,ACTOR IN A SUPPORTING ROLE,False,Arthur Kennedy,academy_award
+1272,1949,ACTOR IN A SUPPORTING ROLE,False,Ralph Richardson,academy_award
+1273,1949,ACTOR IN A SUPPORTING ROLE,False,James Whitmore,academy_award
+1274,1950,ACTOR IN A SUPPORTING ROLE,False,Jeff Chandler,academy_award
+1275,1950,ACTOR IN A SUPPORTING ROLE,False,Edmund Gwenn,academy_award
+1276,1950,ACTOR IN A SUPPORTING ROLE,False,Sam Jaffe,academy_award
+1277,1950,ACTOR IN A SUPPORTING ROLE,True,George Sanders,academy_award
+1278,1950,ACTOR IN A SUPPORTING ROLE,False,Erich von Stroheim,academy_award
+1279,1951,ACTOR IN A SUPPORTING ROLE,False,Leo Genn,academy_award
+1280,1951,ACTOR IN A SUPPORTING ROLE,False,Kevin McCarthy,academy_award
+1281,1951,ACTOR IN A SUPPORTING ROLE,True,Karl Malden,academy_award
+1282,1951,ACTOR IN A SUPPORTING ROLE,False,Peter Ustinov,academy_award
+1283,1951,ACTOR IN A SUPPORTING ROLE,False,Gig Young,academy_award
+1284,1952,ACTOR IN A SUPPORTING ROLE,False,Richard Burton,academy_award
+1285,1952,ACTOR IN A SUPPORTING ROLE,False,Arthur Hunnicutt,academy_award
+1286,1952,ACTOR IN A SUPPORTING ROLE,False,Victor McLaglen,academy_award
+1287,1952,ACTOR IN A SUPPORTING ROLE,False,Jack Palance,academy_award
+1288,1952,ACTOR IN A SUPPORTING ROLE,True,Anthony Quinn,academy_award
+1289,1953,ACTOR IN A SUPPORTING ROLE,False,Eddie Albert,academy_award
+1290,1953,ACTOR IN A SUPPORTING ROLE,False,Brandon De Wilde,academy_award
+1291,1953,ACTOR IN A SUPPORTING ROLE,False,Jack Palance,academy_award
+1292,1953,ACTOR IN A SUPPORTING ROLE,True,Frank Sinatra,academy_award
+1293,1953,ACTOR IN A SUPPORTING ROLE,False,Robert Strauss,academy_award
+1294,1954,ACTOR IN A SUPPORTING ROLE,False,Lee J. Cobb,academy_award
+1295,1954,ACTOR IN A SUPPORTING ROLE,False,Karl Malden,academy_award
+1296,1954,ACTOR IN A SUPPORTING ROLE,True,Edmond O'Brien,academy_award
+1297,1954,ACTOR IN A SUPPORTING ROLE,False,Rod Steiger,academy_award
+1298,1954,ACTOR IN A SUPPORTING ROLE,False,Tom Tully,academy_award
+1299,1955,ACTOR IN A SUPPORTING ROLE,False,Arthur Kennedy,academy_award
+1300,1955,ACTOR IN A SUPPORTING ROLE,True,Jack Lemmon,academy_award
+1301,1955,ACTOR IN A SUPPORTING ROLE,False,Joe Mantell,academy_award
+1302,1955,ACTOR IN A SUPPORTING ROLE,False,Sal Mineo,academy_award
+1303,1955,ACTOR IN A SUPPORTING ROLE,False,Arthur O'Connell,academy_award
+1304,1956,ACTOR IN A SUPPORTING ROLE,False,Don Murray,academy_award
+1305,1956,ACTOR IN A SUPPORTING ROLE,False,Anthony Perkins,academy_award
+1306,1956,ACTOR IN A SUPPORTING ROLE,True,Anthony Quinn,academy_award
+1307,1956,ACTOR IN A SUPPORTING ROLE,False,Mickey Rooney,academy_award
+1308,1956,ACTOR IN A SUPPORTING ROLE,False,Robert Stack,academy_award
+1309,1957,ACTOR IN A SUPPORTING ROLE,True,Red Buttons,academy_award
+1310,1957,ACTOR IN A SUPPORTING ROLE,False,Vittorio De Sica,academy_award
+1311,1957,ACTOR IN A SUPPORTING ROLE,False,Sessue Hayakawa,academy_award
+1312,1957,ACTOR IN A SUPPORTING ROLE,False,Arthur Kennedy,academy_award
+1313,1957,ACTOR IN A SUPPORTING ROLE,False,Russ Tamblyn,academy_award
+1314,1958,ACTOR IN A SUPPORTING ROLE,False,Theodore Bikel,academy_award
+1315,1958,ACTOR IN A SUPPORTING ROLE,False,Lee J. Cobb,academy_award
+1316,1958,ACTOR IN A SUPPORTING ROLE,True,Burl Ives,academy_award
+1317,1958,ACTOR IN A SUPPORTING ROLE,False,Arthur Kennedy,academy_award
+1318,1958,ACTOR IN A SUPPORTING ROLE,False,Gig Young,academy_award
+1319,1959,ACTOR IN A SUPPORTING ROLE,True,Hugh Griffith,academy_award
+1320,1959,ACTOR IN A SUPPORTING ROLE,False,Arthur O'Connell,academy_award
+1321,1959,ACTOR IN A SUPPORTING ROLE,False,George C. Scott,academy_award
+1322,1959,ACTOR IN A SUPPORTING ROLE,False,Robert Vaughn,academy_award
+1323,1959,ACTOR IN A SUPPORTING ROLE,False,Ed Wynn,academy_award
+1324,1960,ACTOR IN A SUPPORTING ROLE,False,Peter Falk,academy_award
+1325,1960,ACTOR IN A SUPPORTING ROLE,False,Jack Kruschen,academy_award
+1326,1960,ACTOR IN A SUPPORTING ROLE,False,Sal Mineo,academy_award
+1327,1960,ACTOR IN A SUPPORTING ROLE,True,Peter Ustinov,academy_award
+1328,1960,ACTOR IN A SUPPORTING ROLE,False,Chill Wills,academy_award
+1329,1961,ACTOR IN A SUPPORTING ROLE,True,George Chakiris,academy_award
+1330,1961,ACTOR IN A SUPPORTING ROLE,False,Montgomery Clift,academy_award
+1331,1961,ACTOR IN A SUPPORTING ROLE,False,Peter Falk,academy_award
+1332,1961,ACTOR IN A SUPPORTING ROLE,False,Jackie Gleason,academy_award
+1333,1961,ACTOR IN A SUPPORTING ROLE,False,George C. Scott,academy_award
+1334,1962,ACTOR IN A SUPPORTING ROLE,True,Ed Begley,academy_award
+1335,1962,ACTOR IN A SUPPORTING ROLE,False,Victor Buono,academy_award
+1336,1962,ACTOR IN A SUPPORTING ROLE,False,Telly Savalas,academy_award
+1337,1962,ACTOR IN A SUPPORTING ROLE,False,Omar Sharif,academy_award
+1338,1962,ACTOR IN A SUPPORTING ROLE,False,Terence Stamp,academy_award
+1339,1963,ACTOR IN A SUPPORTING ROLE,False,Nick Adams,academy_award
+1340,1963,ACTOR IN A SUPPORTING ROLE,False,Bobby Darin,academy_award
+1341,1963,ACTOR IN A SUPPORTING ROLE,True,Melvyn Douglas,academy_award
+1342,1963,ACTOR IN A SUPPORTING ROLE,False,Hugh Griffith,academy_award
+1343,1963,ACTOR IN A SUPPORTING ROLE,False,John Huston,academy_award
+1344,1964,ACTOR IN A SUPPORTING ROLE,False,John Gielgud,academy_award
+1345,1964,ACTOR IN A SUPPORTING ROLE,False,Stanley Holloway,academy_award
+1346,1964,ACTOR IN A SUPPORTING ROLE,False,Edmond O'Brien,academy_award
+1347,1964,ACTOR IN A SUPPORTING ROLE,False,Lee Tracy,academy_award
+1348,1964,ACTOR IN A SUPPORTING ROLE,True,Peter Ustinov,academy_award
+1349,1965,ACTOR IN A SUPPORTING ROLE,True,Martin Balsam,academy_award
+1350,1965,ACTOR IN A SUPPORTING ROLE,False,Ian Bannen,academy_award
+1351,1965,ACTOR IN A SUPPORTING ROLE,False,Tom Courtenay,academy_award
+1352,1965,ACTOR IN A SUPPORTING ROLE,False,Michael Dunn,academy_award
+1353,1965,ACTOR IN A SUPPORTING ROLE,False,Frank Finlay,academy_award
+1354,1966,ACTOR IN A SUPPORTING ROLE,False,Mako,academy_award
+1355,1966,ACTOR IN A SUPPORTING ROLE,False,James Mason,academy_award
+1356,1966,ACTOR IN A SUPPORTING ROLE,True,Walter Matthau,academy_award
+1357,1966,ACTOR IN A SUPPORTING ROLE,False,George Segal,academy_award
+1358,1966,ACTOR IN A SUPPORTING ROLE,False,Robert Shaw,academy_award
+1359,1967,ACTOR IN A SUPPORTING ROLE,False,John Cassavetes,academy_award
+1360,1967,ACTOR IN A SUPPORTING ROLE,False,Gene Hackman,academy_award
+1361,1967,ACTOR IN A SUPPORTING ROLE,False,Cecil Kellaway,academy_award
+1362,1967,ACTOR IN A SUPPORTING ROLE,True,George Kennedy,academy_award
+1363,1967,ACTOR IN A SUPPORTING ROLE,False,Michael J. Pollard,academy_award
+1364,1968,ACTOR IN A SUPPORTING ROLE,True,Jack Albertson,academy_award
+1365,1968,ACTOR IN A SUPPORTING ROLE,False,Seymour Cassel,academy_award
+1366,1968,ACTOR IN A SUPPORTING ROLE,False,Daniel Massey,academy_award
+1367,1968,ACTOR IN A SUPPORTING ROLE,False,Jack Wild,academy_award
+1368,1968,ACTOR IN A SUPPORTING ROLE,False,Gene Wilder,academy_award
+1369,1969,ACTOR IN A SUPPORTING ROLE,False,Rupert Crosse,academy_award
+1370,1969,ACTOR IN A SUPPORTING ROLE,False,Elliott Gould,academy_award
+1371,1969,ACTOR IN A SUPPORTING ROLE,False,Jack Nicholson,academy_award
+1372,1969,ACTOR IN A SUPPORTING ROLE,False,Anthony Quayle,academy_award
+1373,1969,ACTOR IN A SUPPORTING ROLE,True,Gig Young,academy_award
+1374,1970,ACTOR IN A SUPPORTING ROLE,False,Richard Castellano,academy_award
+1375,1970,ACTOR IN A SUPPORTING ROLE,False,Chief Dan George,academy_award
+1376,1970,ACTOR IN A SUPPORTING ROLE,False,Gene Hackman,academy_award
+1377,1970,ACTOR IN A SUPPORTING ROLE,False,John Marley,academy_award
+1378,1970,ACTOR IN A SUPPORTING ROLE,True,John Mills,academy_award
+1379,1971,ACTOR IN A SUPPORTING ROLE,False,Jeff Bridges,academy_award
+1380,1971,ACTOR IN A SUPPORTING ROLE,False,Leonard Frey,academy_award
+1381,1971,ACTOR IN A SUPPORTING ROLE,False,Richard Jaeckel,academy_award
+1382,1971,ACTOR IN A SUPPORTING ROLE,True,Ben Johnson,academy_award
+1383,1971,ACTOR IN A SUPPORTING ROLE,False,Roy Scheider,academy_award
+1384,1972,ACTOR IN A SUPPORTING ROLE,False,Eddie Albert,academy_award
+1385,1972,ACTOR IN A SUPPORTING ROLE,False,James Caan,academy_award
+1386,1972,ACTOR IN A SUPPORTING ROLE,False,Robert Duvall,academy_award
+1387,1972,ACTOR IN A SUPPORTING ROLE,True,Joel Grey,academy_award
+1388,1972,ACTOR IN A SUPPORTING ROLE,False,Al Pacino,academy_award
+1389,1973,ACTOR IN A SUPPORTING ROLE,False,Vincent Gardenia,academy_award
+1390,1973,ACTOR IN A SUPPORTING ROLE,False,Jack Gilford,academy_award
+1391,1973,ACTOR IN A SUPPORTING ROLE,True,John Houseman,academy_award
+1392,1973,ACTOR IN A SUPPORTING ROLE,False,Jason Miller,academy_award
+1393,1973,ACTOR IN A SUPPORTING ROLE,False,Randy Quaid,academy_award
+1394,1974,ACTOR IN A SUPPORTING ROLE,False,Fred Astaire,academy_award
+1395,1974,ACTOR IN A SUPPORTING ROLE,False,Jeff Bridges,academy_award
+1396,1974,ACTOR IN A SUPPORTING ROLE,True,Robert De Niro,academy_award
+1397,1974,ACTOR IN A SUPPORTING ROLE,False,Michael V. Gazzo,academy_award
+1398,1974,ACTOR IN A SUPPORTING ROLE,False,Lee Strasberg,academy_award
+1399,1975,ACTOR IN A SUPPORTING ROLE,True,George Burns,academy_award
+1400,1975,ACTOR IN A SUPPORTING ROLE,False,Brad Dourif,academy_award
+1401,1975,ACTOR IN A SUPPORTING ROLE,False,Burgess Meredith,academy_award
+1402,1975,ACTOR IN A SUPPORTING ROLE,False,Chris Sarandon,academy_award
+1403,1975,ACTOR IN A SUPPORTING ROLE,False,Jack Warden,academy_award
+1404,1976,ACTOR IN A SUPPORTING ROLE,False,Ned Beatty,academy_award
+1405,1976,ACTOR IN A SUPPORTING ROLE,False,Burgess Meredith,academy_award
+1406,1976,ACTOR IN A SUPPORTING ROLE,False,Laurence Olivier,academy_award
+1407,1976,ACTOR IN A SUPPORTING ROLE,True,Jason Robards,academy_award
+1408,1976,ACTOR IN A SUPPORTING ROLE,False,Burt Young,academy_award
+1409,1977,ACTOR IN A SUPPORTING ROLE,False,Mikhail Baryshnikov,academy_award
+1410,1977,ACTOR IN A SUPPORTING ROLE,False,Peter Firth,academy_award
+1411,1977,ACTOR IN A SUPPORTING ROLE,False,Alec Guinness,academy_award
+1412,1977,ACTOR IN A SUPPORTING ROLE,True,Jason Robards,academy_award
+1413,1977,ACTOR IN A SUPPORTING ROLE,False,Maximilian Schell,academy_award
+1414,1978,ACTOR IN A SUPPORTING ROLE,False,Bruce Dern,academy_award
+1415,1978,ACTOR IN A SUPPORTING ROLE,False,Richard Farnsworth,academy_award
+1416,1978,ACTOR IN A SUPPORTING ROLE,False,John Hurt,academy_award
+1417,1978,ACTOR IN A SUPPORTING ROLE,True,Christopher Walken,academy_award
+1418,1978,ACTOR IN A SUPPORTING ROLE,False,Jack Warden,academy_award
+1419,1979,ACTOR IN A SUPPORTING ROLE,True,Melvyn Douglas,academy_award
+1420,1979,ACTOR IN A SUPPORTING ROLE,False,Robert Duvall,academy_award
+1421,1979,ACTOR IN A SUPPORTING ROLE,False,Frederic Forrest,academy_award
+1422,1979,ACTOR IN A SUPPORTING ROLE,False,Justin Henry,academy_award
+1423,1979,ACTOR IN A SUPPORTING ROLE,False,Mickey Rooney,academy_award
+1424,1980,ACTOR IN A SUPPORTING ROLE,False,Judd Hirsch,academy_award
+1425,1980,ACTOR IN A SUPPORTING ROLE,True,Timothy Hutton,academy_award
+1426,1980,ACTOR IN A SUPPORTING ROLE,False,Michael O'Keefe,academy_award
+1427,1980,ACTOR IN A SUPPORTING ROLE,False,Joe Pesci,academy_award
+1428,1980,ACTOR IN A SUPPORTING ROLE,False,Jason Robards,academy_award
+1429,1981,ACTOR IN A SUPPORTING ROLE,False,James Coco,academy_award
+1430,1981,ACTOR IN A SUPPORTING ROLE,True,John Gielgud,academy_award
+1431,1981,ACTOR IN A SUPPORTING ROLE,False,Ian Holm,academy_award
+1432,1981,ACTOR IN A SUPPORTING ROLE,False,Jack Nicholson,academy_award
+1433,1981,ACTOR IN A SUPPORTING ROLE,False,"Howard E. Rollins, Jr.",academy_award
+1434,1982,ACTOR IN A SUPPORTING ROLE,False,Charles Durning,academy_award
+1435,1982,ACTOR IN A SUPPORTING ROLE,True,"Louis Gossett, Jr.",academy_award
+1436,1982,ACTOR IN A SUPPORTING ROLE,False,John Lithgow,academy_award
+1437,1982,ACTOR IN A SUPPORTING ROLE,False,James Mason,academy_award
+1438,1982,ACTOR IN A SUPPORTING ROLE,False,Robert Preston,academy_award
+1439,1983,ACTOR IN A SUPPORTING ROLE,False,Charles Durning,academy_award
+1440,1983,ACTOR IN A SUPPORTING ROLE,False,John Lithgow,academy_award
+1441,1983,ACTOR IN A SUPPORTING ROLE,True,Jack Nicholson,academy_award
+1442,1983,ACTOR IN A SUPPORTING ROLE,False,Sam Shepard,academy_award
+1443,1983,ACTOR IN A SUPPORTING ROLE,False,Rip Torn,academy_award
+1444,1984,ACTOR IN A SUPPORTING ROLE,False,Adolph Caesar,academy_award
+1445,1984,ACTOR IN A SUPPORTING ROLE,False,John Malkovich,academy_award
+1446,1984,ACTOR IN A SUPPORTING ROLE,False,Noriyuki 'Pat' Morita,academy_award
+1447,1984,ACTOR IN A SUPPORTING ROLE,True,Haing S. Ngor,academy_award
+1448,1984,ACTOR IN A SUPPORTING ROLE,False,Ralph Richardson,academy_award
+1449,1985,ACTOR IN A SUPPORTING ROLE,True,Don Ameche,academy_award
+1450,1985,ACTOR IN A SUPPORTING ROLE,False,Klaus Maria Brandauer,academy_award
+1451,1985,ACTOR IN A SUPPORTING ROLE,False,William Hickey,academy_award
+1452,1985,ACTOR IN A SUPPORTING ROLE,False,Robert Loggia,academy_award
+1453,1985,ACTOR IN A SUPPORTING ROLE,False,Eric Roberts,academy_award
+1454,1986,ACTOR IN A SUPPORTING ROLE,False,Tom Berenger,academy_award
+1455,1986,ACTOR IN A SUPPORTING ROLE,True,Michael Caine,academy_award
+1456,1986,ACTOR IN A SUPPORTING ROLE,False,Willem Dafoe,academy_award
+1457,1986,ACTOR IN A SUPPORTING ROLE,False,Denholm Elliott,academy_award
+1458,1986,ACTOR IN A SUPPORTING ROLE,False,Dennis Hopper,academy_award
+1459,1987,ACTOR IN A SUPPORTING ROLE,False,Albert Brooks,academy_award
+1460,1987,ACTOR IN A SUPPORTING ROLE,True,Sean Connery,academy_award
+1461,1987,ACTOR IN A SUPPORTING ROLE,False,Morgan Freeman,academy_award
+1462,1987,ACTOR IN A SUPPORTING ROLE,False,Vincent Gardenia,academy_award
+1463,1987,ACTOR IN A SUPPORTING ROLE,False,Denzel Washington,academy_award
+1464,1988,ACTOR IN A SUPPORTING ROLE,False,Alec Guinness,academy_award
+1465,1988,ACTOR IN A SUPPORTING ROLE,True,Kevin Kline,academy_award
+1466,1988,ACTOR IN A SUPPORTING ROLE,False,Martin Landau,academy_award
+1467,1988,ACTOR IN A SUPPORTING ROLE,False,River Phoenix,academy_award
+1468,1988,ACTOR IN A SUPPORTING ROLE,False,Dean Stockwell,academy_award
+1469,1989,ACTOR IN A SUPPORTING ROLE,False,Danny Aiello,academy_award
+1470,1989,ACTOR IN A SUPPORTING ROLE,False,Dan Aykroyd,academy_award
+1471,1989,ACTOR IN A SUPPORTING ROLE,False,Marlon Brando,academy_award
+1472,1989,ACTOR IN A SUPPORTING ROLE,False,Martin Landau,academy_award
+1473,1989,ACTOR IN A SUPPORTING ROLE,True,Denzel Washington,academy_award
+1474,1990,ACTOR IN A SUPPORTING ROLE,False,Bruce Davison,academy_award
+1475,1990,ACTOR IN A SUPPORTING ROLE,False,Andy Garcia,academy_award
+1476,1990,ACTOR IN A SUPPORTING ROLE,False,Graham Greene,academy_award
+1477,1990,ACTOR IN A SUPPORTING ROLE,False,Al Pacino,academy_award
+1478,1990,ACTOR IN A SUPPORTING ROLE,True,Joe Pesci,academy_award
+1479,1991,ACTOR IN A SUPPORTING ROLE,False,Tommy Lee Jones,academy_award
+1480,1991,ACTOR IN A SUPPORTING ROLE,False,Harvey Keitel,academy_award
+1481,1991,ACTOR IN A SUPPORTING ROLE,False,Ben Kingsley,academy_award
+1482,1991,ACTOR IN A SUPPORTING ROLE,False,Michael Lerner,academy_award
+1483,1991,ACTOR IN A SUPPORTING ROLE,True,Jack Palance,academy_award
+1484,1992,ACTOR IN A SUPPORTING ROLE,False,Jaye Davidson,academy_award
+1485,1992,ACTOR IN A SUPPORTING ROLE,True,Gene Hackman,academy_award
+1486,1992,ACTOR IN A SUPPORTING ROLE,False,Jack Nicholson,academy_award
+1487,1992,ACTOR IN A SUPPORTING ROLE,False,Al Pacino,academy_award
+1488,1992,ACTOR IN A SUPPORTING ROLE,False,David Paymer,academy_award
+1489,1993,ACTOR IN A SUPPORTING ROLE,False,Leonardo DiCaprio,academy_award
+1490,1993,ACTOR IN A SUPPORTING ROLE,False,Ralph Fiennes,academy_award
+1491,1993,ACTOR IN A SUPPORTING ROLE,True,Tommy Lee Jones,academy_award
+1492,1993,ACTOR IN A SUPPORTING ROLE,False,John Malkovich,academy_award
+1493,1993,ACTOR IN A SUPPORTING ROLE,False,Pete Postlethwaite,academy_award
+1494,1994,ACTOR IN A SUPPORTING ROLE,False,Samuel L. Jackson,academy_award
+1495,1994,ACTOR IN A SUPPORTING ROLE,True,Martin Landau,academy_award
+1496,1994,ACTOR IN A SUPPORTING ROLE,False,Chazz Palminteri,academy_award
+1497,1994,ACTOR IN A SUPPORTING ROLE,False,Paul Scofield,academy_award
+1498,1994,ACTOR IN A SUPPORTING ROLE,False,Gary Sinise,academy_award
+1499,1995,ACTOR IN A SUPPORTING ROLE,False,James Cromwell,academy_award
+1500,1995,ACTOR IN A SUPPORTING ROLE,False,Ed Harris,academy_award
+1501,1995,ACTOR IN A SUPPORTING ROLE,False,Brad Pitt,academy_award
+1502,1995,ACTOR IN A SUPPORTING ROLE,False,Tim Roth,academy_award
+1503,1995,ACTOR IN A SUPPORTING ROLE,True,Kevin Spacey,academy_award
+1504,1996,ACTOR IN A SUPPORTING ROLE,True,"Cuba Gooding, Jr.",academy_award
+1505,1996,ACTOR IN A SUPPORTING ROLE,False,William H. Macy,academy_award
+1506,1996,ACTOR IN A SUPPORTING ROLE,False,Armin Mueller-Stahl,academy_award
+1507,1996,ACTOR IN A SUPPORTING ROLE,False,Edward Norton,academy_award
+1508,1996,ACTOR IN A SUPPORTING ROLE,False,James Woods,academy_award
+1509,1997,ACTOR IN A SUPPORTING ROLE,False,Robert Forster,academy_award
+1510,1997,ACTOR IN A SUPPORTING ROLE,False,Anthony Hopkins,academy_award
+1511,1997,ACTOR IN A SUPPORTING ROLE,False,Greg Kinnear,academy_award
+1512,1997,ACTOR IN A SUPPORTING ROLE,False,Burt Reynolds,academy_award
+1513,1997,ACTOR IN A SUPPORTING ROLE,True,Robin Williams,academy_award
+1514,1998,ACTOR IN A SUPPORTING ROLE,True,James Coburn,academy_award
+1515,1998,ACTOR IN A SUPPORTING ROLE,False,Robert Duvall,academy_award
+1516,1998,ACTOR IN A SUPPORTING ROLE,False,Ed Harris,academy_award
+1517,1998,ACTOR IN A SUPPORTING ROLE,False,Geoffrey Rush,academy_award
+1518,1998,ACTOR IN A SUPPORTING ROLE,False,Billy Bob Thornton,academy_award
+1519,1999,ACTOR IN A SUPPORTING ROLE,True,Michael Caine,academy_award
+1520,1999,ACTOR IN A SUPPORTING ROLE,False,Tom Cruise,academy_award
+1521,1999,ACTOR IN A SUPPORTING ROLE,False,Michael Clarke Duncan,academy_award
+1522,1999,ACTOR IN A SUPPORTING ROLE,False,Jude Law,academy_award
+1523,1999,ACTOR IN A SUPPORTING ROLE,False,Haley Joel Osment,academy_award
+1524,2000,ACTOR IN A SUPPORTING ROLE,False,Jeff Bridges,academy_award
+1525,2000,ACTOR IN A SUPPORTING ROLE,False,Willem Dafoe,academy_award
+1526,2000,ACTOR IN A SUPPORTING ROLE,True,Benicio Del Toro,academy_award
+1527,2000,ACTOR IN A SUPPORTING ROLE,False,Albert Finney,academy_award
+1528,2000,ACTOR IN A SUPPORTING ROLE,False,Joaquin Phoenix,academy_award
+1529,2001,ACTOR IN A SUPPORTING ROLE,True,Jim Broadbent,academy_award
+1530,2001,ACTOR IN A SUPPORTING ROLE,False,Ethan Hawke,academy_award
+1531,2001,ACTOR IN A SUPPORTING ROLE,False,Ben Kingsley,academy_award
+1532,2001,ACTOR IN A SUPPORTING ROLE,False,Ian McKellen,academy_award
+1533,2001,ACTOR IN A SUPPORTING ROLE,False,Jon Voight,academy_award
+1534,2002,ACTOR IN A SUPPORTING ROLE,True,Chris Cooper,academy_award
+1535,2002,ACTOR IN A SUPPORTING ROLE,False,Ed Harris,academy_award
+1536,2002,ACTOR IN A SUPPORTING ROLE,False,Paul Newman,academy_award
+1537,2002,ACTOR IN A SUPPORTING ROLE,False,John C. Reilly,academy_award
+1538,2002,ACTOR IN A SUPPORTING ROLE,False,Christopher Walken,academy_award
+1539,2003,ACTOR IN A SUPPORTING ROLE,False,Alec Baldwin,academy_award
+1540,2003,ACTOR IN A SUPPORTING ROLE,False,Benicio Del Toro,academy_award
+1541,2003,ACTOR IN A SUPPORTING ROLE,False,Djimon Hounsou,academy_award
+1542,2003,ACTOR IN A SUPPORTING ROLE,True,Tim Robbins,academy_award
+1543,2003,ACTOR IN A SUPPORTING ROLE,False,Ken Watanabe,academy_award
+1544,2004,ACTOR IN A SUPPORTING ROLE,False,Alan Alda,academy_award
+1545,2004,ACTOR IN A SUPPORTING ROLE,False,Thomas Haden Church,academy_award
+1546,2004,ACTOR IN A SUPPORTING ROLE,False,Jamie Foxx,academy_award
+1547,2004,ACTOR IN A SUPPORTING ROLE,True,Morgan Freeman,academy_award
+1548,2004,ACTOR IN A SUPPORTING ROLE,False,Clive Owen,academy_award
+1549,2005,ACTOR IN A SUPPORTING ROLE,True,George Clooney,academy_award
+1550,2005,ACTOR IN A SUPPORTING ROLE,False,Matt Dillon,academy_award
+1551,2005,ACTOR IN A SUPPORTING ROLE,False,Paul Giamatti,academy_award
+1552,2005,ACTOR IN A SUPPORTING ROLE,False,Jake Gyllenhaal,academy_award
+1553,2005,ACTOR IN A SUPPORTING ROLE,False,William Hurt,academy_award
+1554,2006,ACTOR IN A SUPPORTING ROLE,True,Alan Arkin,academy_award
+1555,2006,ACTOR IN A SUPPORTING ROLE,False,Jackie Earle Haley,academy_award
+1556,2006,ACTOR IN A SUPPORTING ROLE,False,Djimon Hounsou,academy_award
+1557,2006,ACTOR IN A SUPPORTING ROLE,False,Eddie Murphy,academy_award
+1558,2006,ACTOR IN A SUPPORTING ROLE,False,Mark Wahlberg,academy_award
+1559,2007,ACTOR IN A SUPPORTING ROLE,False,Casey Affleck,academy_award
+1560,2007,ACTOR IN A SUPPORTING ROLE,True,Javier Bardem,academy_award
+1561,2007,ACTOR IN A SUPPORTING ROLE,False,Philip Seymour Hoffman,academy_award
+1562,2007,ACTOR IN A SUPPORTING ROLE,False,Hal Holbrook,academy_award
+1563,2007,ACTOR IN A SUPPORTING ROLE,False,Tom Wilkinson,academy_award
+1564,2008,ACTOR IN A SUPPORTING ROLE,False,Josh Brolin,academy_award
+1565,2008,ACTOR IN A SUPPORTING ROLE,False,Robert Downey Jr.,academy_award
+1566,2008,ACTOR IN A SUPPORTING ROLE,False,Philip Seymour Hoffman,academy_award
+1567,2008,ACTOR IN A SUPPORTING ROLE,True,Heath Ledger,academy_award
+1568,2008,ACTOR IN A SUPPORTING ROLE,False,Michael Shannon,academy_award
+1569,2009,ACTOR IN A SUPPORTING ROLE,False,Matt Damon,academy_award
+1570,2009,ACTOR IN A SUPPORTING ROLE,False,Woody Harrelson,academy_award
+1571,2009,ACTOR IN A SUPPORTING ROLE,False,Christopher Plummer,academy_award
+1572,2009,ACTOR IN A SUPPORTING ROLE,False,Stanley Tucci,academy_award
+1573,2009,ACTOR IN A SUPPORTING ROLE,True,Christoph Waltz,academy_award
+1574,2010,ACTOR IN A SUPPORTING ROLE,True,Christian Bale,academy_award
+1575,2010,ACTOR IN A SUPPORTING ROLE,False,John Hawkes,academy_award
+1576,2010,ACTOR IN A SUPPORTING ROLE,False,Jeremy Renner,academy_award
+1577,2010,ACTOR IN A SUPPORTING ROLE,False,Mark Ruffalo,academy_award
+1578,2010,ACTOR IN A SUPPORTING ROLE,False,Geoffrey Rush,academy_award
+1579,2011,ACTOR IN A SUPPORTING ROLE,False,Kenneth Branagh,academy_award
+1580,2011,ACTOR IN A SUPPORTING ROLE,False,Jonah Hill,academy_award
+1581,2011,ACTOR IN A SUPPORTING ROLE,False,Nick Nolte,academy_award
+1582,2011,ACTOR IN A SUPPORTING ROLE,True,Christopher Plummer,academy_award
+1583,2011,ACTOR IN A SUPPORTING ROLE,False,Max von Sydow,academy_award
+1584,2012,ACTOR IN A SUPPORTING ROLE,False,Alan Arkin,academy_award
+1585,2012,ACTOR IN A SUPPORTING ROLE,False,Robert De Niro,academy_award
+1586,2012,ACTOR IN A SUPPORTING ROLE,False,Philip Seymour Hoffman,academy_award
+1587,2012,ACTOR IN A SUPPORTING ROLE,False,Tommy Lee Jones,academy_award
+1588,2012,ACTOR IN A SUPPORTING ROLE,True,Christoph Waltz,academy_award
+1589,2013,ACTOR IN A SUPPORTING ROLE,False,Barkhad Abdi,academy_award
+1590,2013,ACTOR IN A SUPPORTING ROLE,False,Bradley Cooper,academy_award
+1591,2013,ACTOR IN A SUPPORTING ROLE,False,Michael Fassbender,academy_award
+1592,2013,ACTOR IN A SUPPORTING ROLE,False,Jonah Hill,academy_award
+1593,2013,ACTOR IN A SUPPORTING ROLE,True,Jared Leto,academy_award
+1594,2014,ACTOR IN A SUPPORTING ROLE,False,Robert Duvall,academy_award
+1595,2014,ACTOR IN A SUPPORTING ROLE,False,Ethan Hawke,academy_award
+1596,2014,ACTOR IN A SUPPORTING ROLE,False,Edward Norton,academy_award
+1597,2014,ACTOR IN A SUPPORTING ROLE,False,Mark Ruffalo,academy_award
+1598,2014,ACTOR IN A SUPPORTING ROLE,True,J.K. Simmons,academy_award
+1599,2015,ACTOR IN A SUPPORTING ROLE,False,Christian Bale,academy_award
+1600,2015,ACTOR IN A SUPPORTING ROLE,False,Tom Hardy,academy_award
+1601,2015,ACTOR IN A SUPPORTING ROLE,False,Mark Ruffalo,academy_award
+1602,2015,ACTOR IN A SUPPORTING ROLE,True,Mark Rylance,academy_award
+1603,2015,ACTOR IN A SUPPORTING ROLE,False,Sylvester Stallone,academy_award
+1604,2016,ACTOR IN A SUPPORTING ROLE,True,Mahershala Ali,academy_award
+1605,2016,ACTOR IN A SUPPORTING ROLE,False,Jeff Bridges,academy_award
+1606,2016,ACTOR IN A SUPPORTING ROLE,False,Lucas Hedges,academy_award
+1607,2016,ACTOR IN A SUPPORTING ROLE,False,Dev Patel,academy_award
+1608,2016,ACTOR IN A SUPPORTING ROLE,False,Michael Shannon,academy_award
+1609,2017,ACTOR IN A SUPPORTING ROLE,False,Willem Dafoe,academy_award
+1610,2017,ACTOR IN A SUPPORTING ROLE,False,Woody Harrelson,academy_award
+1611,2017,ACTOR IN A SUPPORTING ROLE,False,Richard Jenkins,academy_award
+1612,2017,ACTOR IN A SUPPORTING ROLE,False,Christopher Plummer,academy_award
+1613,2017,ACTOR IN A SUPPORTING ROLE,True,Sam Rockwell,academy_award
+1614,1936,ACTRESS IN A SUPPORTING ROLE,False,Beulah Bondi,academy_award
+1615,1936,ACTRESS IN A SUPPORTING ROLE,False,Alice Brady,academy_award
+1616,1936,ACTRESS IN A SUPPORTING ROLE,False,Bonita Granville,academy_award
+1617,1936,ACTRESS IN A SUPPORTING ROLE,False,Maria Ouspenskaya,academy_award
+1618,1936,ACTRESS IN A SUPPORTING ROLE,True,Gale Sondergaard,academy_award
+1619,1937,ACTRESS IN A SUPPORTING ROLE,True,Alice Brady,academy_award
+1620,1937,ACTRESS IN A SUPPORTING ROLE,False,Andrea Leeds,academy_award
+1621,1937,ACTRESS IN A SUPPORTING ROLE,False,Anne Shirley,academy_award
+1622,1937,ACTRESS IN A SUPPORTING ROLE,False,Claire Trevor,academy_award
+1623,1937,ACTRESS IN A SUPPORTING ROLE,False,Dame May Whitty,academy_award
+1624,1938,ACTRESS IN A SUPPORTING ROLE,True,Fay Bainter,academy_award
+1625,1938,ACTRESS IN A SUPPORTING ROLE,False,Beulah Bondi,academy_award
+1626,1938,ACTRESS IN A SUPPORTING ROLE,False,Billie Burke,academy_award
+1627,1938,ACTRESS IN A SUPPORTING ROLE,False,Spring Byington,academy_award
+1628,1938,ACTRESS IN A SUPPORTING ROLE,False,Miliza Korjus,academy_award
+1629,1939,ACTRESS IN A SUPPORTING ROLE,False,Olivia de Havilland,academy_award
+1630,1939,ACTRESS IN A SUPPORTING ROLE,False,Geraldine Fitzgerald,academy_award
+1631,1939,ACTRESS IN A SUPPORTING ROLE,True,Hattie McDaniel,academy_award
+1632,1939,ACTRESS IN A SUPPORTING ROLE,False,Edna May Oliver,academy_award
+1633,1939,ACTRESS IN A SUPPORTING ROLE,False,Maria Ouspenskaya,academy_award
+1634,1940,ACTRESS IN A SUPPORTING ROLE,False,Judith Anderson,academy_award
+1635,1940,ACTRESS IN A SUPPORTING ROLE,True,Jane Darwell,academy_award
+1636,1940,ACTRESS IN A SUPPORTING ROLE,False,Ruth Hussey,academy_award
+1637,1940,ACTRESS IN A SUPPORTING ROLE,False,Barbara O'Neil,academy_award
+1638,1940,ACTRESS IN A SUPPORTING ROLE,False,Marjorie Rambeau,academy_award
+1639,1941,ACTRESS IN A SUPPORTING ROLE,False,Sara Allgood,academy_award
+1640,1941,ACTRESS IN A SUPPORTING ROLE,True,Mary Astor,academy_award
+1641,1941,ACTRESS IN A SUPPORTING ROLE,False,Patricia Collinge,academy_award
+1642,1941,ACTRESS IN A SUPPORTING ROLE,False,Teresa Wright,academy_award
+1643,1941,ACTRESS IN A SUPPORTING ROLE,False,Margaret Wycherly,academy_award
+1644,1942,ACTRESS IN A SUPPORTING ROLE,False,Gladys Cooper,academy_award
+1645,1942,ACTRESS IN A SUPPORTING ROLE,False,Agnes Moorehead,academy_award
+1646,1942,ACTRESS IN A SUPPORTING ROLE,False,Susan Peters,academy_award
+1647,1942,ACTRESS IN A SUPPORTING ROLE,False,Dame May Whitty,academy_award
+1648,1942,ACTRESS IN A SUPPORTING ROLE,True,Teresa Wright,academy_award
+1649,1943,ACTRESS IN A SUPPORTING ROLE,False,Gladys Cooper,academy_award
+1650,1943,ACTRESS IN A SUPPORTING ROLE,False,Paulette Goddard,academy_award
+1651,1943,ACTRESS IN A SUPPORTING ROLE,True,Katina Paxinou,academy_award
+1652,1943,ACTRESS IN A SUPPORTING ROLE,False,Anne Revere,academy_award
+1653,1943,ACTRESS IN A SUPPORTING ROLE,False,Lucile Watson,academy_award
+1654,1944,ACTRESS IN A SUPPORTING ROLE,True,Ethel Barrymore,academy_award
+1655,1944,ACTRESS IN A SUPPORTING ROLE,False,Jennifer Jones,academy_award
+1656,1944,ACTRESS IN A SUPPORTING ROLE,False,Angela Lansbury,academy_award
+1657,1944,ACTRESS IN A SUPPORTING ROLE,False,Aline MacMahon,academy_award
+1658,1944,ACTRESS IN A SUPPORTING ROLE,False,Agnes Moorehead,academy_award
+1659,1945,ACTRESS IN A SUPPORTING ROLE,False,Eve Arden,academy_award
+1660,1945,ACTRESS IN A SUPPORTING ROLE,False,Ann Blyth,academy_award
+1661,1945,ACTRESS IN A SUPPORTING ROLE,False,Angela Lansbury,academy_award
+1662,1945,ACTRESS IN A SUPPORTING ROLE,False,Joan Lorring,academy_award
+1663,1945,ACTRESS IN A SUPPORTING ROLE,True,Anne Revere,academy_award
+1664,1946,ACTRESS IN A SUPPORTING ROLE,False,Ethel Barrymore,academy_award
+1665,1946,ACTRESS IN A SUPPORTING ROLE,True,Anne Baxter,academy_award
+1666,1946,ACTRESS IN A SUPPORTING ROLE,False,Lillian Gish,academy_award
+1667,1946,ACTRESS IN A SUPPORTING ROLE,False,Flora Robson,academy_award
+1668,1946,ACTRESS IN A SUPPORTING ROLE,False,Gale Sondergaard,academy_award
+1669,1947,ACTRESS IN A SUPPORTING ROLE,False,Ethel Barrymore,academy_award
+1670,1947,ACTRESS IN A SUPPORTING ROLE,False,Gloria Grahame,academy_award
+1671,1947,ACTRESS IN A SUPPORTING ROLE,True,Celeste Holm,academy_award
+1672,1947,ACTRESS IN A SUPPORTING ROLE,False,Marjorie Main,academy_award
+1673,1947,ACTRESS IN A SUPPORTING ROLE,False,Anne Revere,academy_award
+1674,1948,ACTRESS IN A SUPPORTING ROLE,False,Barbara Bel Geddes,academy_award
+1675,1948,ACTRESS IN A SUPPORTING ROLE,False,Ellen Corby,academy_award
+1676,1948,ACTRESS IN A SUPPORTING ROLE,False,Agnes Moorehead,academy_award
+1677,1948,ACTRESS IN A SUPPORTING ROLE,False,Jean Simmons,academy_award
+1678,1948,ACTRESS IN A SUPPORTING ROLE,True,Claire Trevor,academy_award
+1679,1949,ACTRESS IN A SUPPORTING ROLE,False,Ethel Barrymore,academy_award
+1680,1949,ACTRESS IN A SUPPORTING ROLE,False,Celeste Holm,academy_award
+1681,1949,ACTRESS IN A SUPPORTING ROLE,False,Elsa Lanchester,academy_award
+1682,1949,ACTRESS IN A SUPPORTING ROLE,True,Mercedes McCambridge,academy_award
+1683,1949,ACTRESS IN A SUPPORTING ROLE,False,Ethel Waters,academy_award
+1684,1950,ACTRESS IN A SUPPORTING ROLE,False,Hope Emerson,academy_award
+1685,1950,ACTRESS IN A SUPPORTING ROLE,False,Celeste Holm,academy_award
+1686,1950,ACTRESS IN A SUPPORTING ROLE,True,Josephine Hull,academy_award
+1687,1950,ACTRESS IN A SUPPORTING ROLE,False,Nancy Olson,academy_award
+1688,1950,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter,academy_award
+1689,1951,ACTRESS IN A SUPPORTING ROLE,False,Joan Blondell,academy_award
+1690,1951,ACTRESS IN A SUPPORTING ROLE,False,Mildred Dunnock,academy_award
+1691,1951,ACTRESS IN A SUPPORTING ROLE,False,Lee Grant,academy_award
+1692,1951,ACTRESS IN A SUPPORTING ROLE,True,Kim Hunter,academy_award
+1693,1951,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter,academy_award
+1694,1952,ACTRESS IN A SUPPORTING ROLE,True,Gloria Grahame,academy_award
+1695,1952,ACTRESS IN A SUPPORTING ROLE,False,Jean Hagen,academy_award
+1696,1952,ACTRESS IN A SUPPORTING ROLE,False,Colette Marchand,academy_award
+1697,1952,ACTRESS IN A SUPPORTING ROLE,False,Terry Moore,academy_award
+1698,1952,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter,academy_award
+1699,1953,ACTRESS IN A SUPPORTING ROLE,False,Grace Kelly,academy_award
+1700,1953,ACTRESS IN A SUPPORTING ROLE,False,Geraldine Page,academy_award
+1701,1953,ACTRESS IN A SUPPORTING ROLE,False,Marjorie Rambeau,academy_award
+1702,1953,ACTRESS IN A SUPPORTING ROLE,True,Donna Reed,academy_award
+1703,1953,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter,academy_award
+1704,1954,ACTRESS IN A SUPPORTING ROLE,False,Nina Foch,academy_award
+1705,1954,ACTRESS IN A SUPPORTING ROLE,False,Katy Jurado,academy_award
+1706,1954,ACTRESS IN A SUPPORTING ROLE,True,Eva Marie Saint,academy_award
+1707,1954,ACTRESS IN A SUPPORTING ROLE,False,Jan Sterling,academy_award
+1708,1954,ACTRESS IN A SUPPORTING ROLE,False,Claire Trevor,academy_award
+1709,1955,ACTRESS IN A SUPPORTING ROLE,False,Betsy Blair,academy_award
+1710,1955,ACTRESS IN A SUPPORTING ROLE,False,Peggy Lee,academy_award
+1711,1955,ACTRESS IN A SUPPORTING ROLE,False,Marisa Pavan,academy_award
+1712,1955,ACTRESS IN A SUPPORTING ROLE,True,Jo Van Fleet,academy_award
+1713,1955,ACTRESS IN A SUPPORTING ROLE,False,Natalie Wood,academy_award
+1714,1956,ACTRESS IN A SUPPORTING ROLE,False,Mildred Dunnock,academy_award
+1715,1956,ACTRESS IN A SUPPORTING ROLE,False,Eileen Heckart,academy_award
+1716,1956,ACTRESS IN A SUPPORTING ROLE,False,Mercedes McCambridge,academy_award
+1717,1956,ACTRESS IN A SUPPORTING ROLE,False,Patty McCormack,academy_award
+1718,1956,ACTRESS IN A SUPPORTING ROLE,True,Dorothy Malone,academy_award
+1719,1957,ACTRESS IN A SUPPORTING ROLE,False,Carolyn Jones,academy_award
+1720,1957,ACTRESS IN A SUPPORTING ROLE,False,Elsa Lanchester,academy_award
+1721,1957,ACTRESS IN A SUPPORTING ROLE,False,Hope Lange,academy_award
+1722,1957,ACTRESS IN A SUPPORTING ROLE,True,Miyoshi Umeki,academy_award
+1723,1957,ACTRESS IN A SUPPORTING ROLE,False,Diane Varsi,academy_award
+1724,1958,ACTRESS IN A SUPPORTING ROLE,False,Peggy Cass,academy_award
+1725,1958,ACTRESS IN A SUPPORTING ROLE,True,Wendy Hiller,academy_award
+1726,1958,ACTRESS IN A SUPPORTING ROLE,False,Martha Hyer,academy_award
+1727,1958,ACTRESS IN A SUPPORTING ROLE,False,Maureen Stapleton,academy_award
+1728,1958,ACTRESS IN A SUPPORTING ROLE,False,Cara Williams,academy_award
+1729,1959,ACTRESS IN A SUPPORTING ROLE,False,Hermione Baddeley,academy_award
+1730,1959,ACTRESS IN A SUPPORTING ROLE,False,Susan Kohner,academy_award
+1731,1959,ACTRESS IN A SUPPORTING ROLE,False,Juanita Moore,academy_award
+1732,1959,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter,academy_award
+1733,1959,ACTRESS IN A SUPPORTING ROLE,True,Shelley Winters,academy_award
+1734,1960,ACTRESS IN A SUPPORTING ROLE,False,Glynis Johns,academy_award
+1735,1960,ACTRESS IN A SUPPORTING ROLE,True,Shirley Jones,academy_award
+1736,1960,ACTRESS IN A SUPPORTING ROLE,False,Shirley Knight,academy_award
+1737,1960,ACTRESS IN A SUPPORTING ROLE,False,Janet Leigh,academy_award
+1738,1960,ACTRESS IN A SUPPORTING ROLE,False,Mary Ure,academy_award
+1739,1961,ACTRESS IN A SUPPORTING ROLE,False,Fay Bainter,academy_award
+1740,1961,ACTRESS IN A SUPPORTING ROLE,False,Judy Garland,academy_award
+1741,1961,ACTRESS IN A SUPPORTING ROLE,False,Lotte Lenya,academy_award
+1742,1961,ACTRESS IN A SUPPORTING ROLE,False,Una Merkel,academy_award
+1743,1961,ACTRESS IN A SUPPORTING ROLE,True,Rita Moreno,academy_award
+1744,1962,ACTRESS IN A SUPPORTING ROLE,False,Mary Badham,academy_award
+1745,1962,ACTRESS IN A SUPPORTING ROLE,True,Patty Duke,academy_award
+1746,1962,ACTRESS IN A SUPPORTING ROLE,False,Shirley Knight,academy_award
+1747,1962,ACTRESS IN A SUPPORTING ROLE,False,Angela Lansbury,academy_award
+1748,1962,ACTRESS IN A SUPPORTING ROLE,False,Thelma Ritter,academy_award
+1749,1963,ACTRESS IN A SUPPORTING ROLE,False,Diane Cilento,academy_award
+1750,1963,ACTRESS IN A SUPPORTING ROLE,False,Dame Edith Evans,academy_award
+1751,1963,ACTRESS IN A SUPPORTING ROLE,False,Joyce Redman,academy_award
+1752,1963,ACTRESS IN A SUPPORTING ROLE,True,Margaret Rutherford,academy_award
+1753,1963,ACTRESS IN A SUPPORTING ROLE,False,Lilia Skala,academy_award
+1754,1964,ACTRESS IN A SUPPORTING ROLE,False,Gladys Cooper,academy_award
+1755,1964,ACTRESS IN A SUPPORTING ROLE,False,Dame Edith Evans,academy_award
+1756,1964,ACTRESS IN A SUPPORTING ROLE,False,Grayson Hall,academy_award
+1757,1964,ACTRESS IN A SUPPORTING ROLE,True,Lila Kedrova,academy_award
+1758,1964,ACTRESS IN A SUPPORTING ROLE,False,Agnes Moorehead,academy_award
+1759,1965,ACTRESS IN A SUPPORTING ROLE,False,Ruth Gordon,academy_award
+1760,1965,ACTRESS IN A SUPPORTING ROLE,False,Joyce Redman,academy_award
+1761,1965,ACTRESS IN A SUPPORTING ROLE,False,Maggie Smith,academy_award
+1762,1965,ACTRESS IN A SUPPORTING ROLE,True,Shelley Winters,academy_award
+1763,1965,ACTRESS IN A SUPPORTING ROLE,False,Peggy Wood,academy_award
+1764,1966,ACTRESS IN A SUPPORTING ROLE,True,Sandy Dennis,academy_award
+1765,1966,ACTRESS IN A SUPPORTING ROLE,False,Wendy Hiller,academy_award
+1766,1966,ACTRESS IN A SUPPORTING ROLE,False,Jocelyne Lagarde,academy_award
+1767,1966,ACTRESS IN A SUPPORTING ROLE,False,Vivien Merchant,academy_award
+1768,1966,ACTRESS IN A SUPPORTING ROLE,False,Geraldine Page,academy_award
+1769,1967,ACTRESS IN A SUPPORTING ROLE,False,Carol Channing,academy_award
+1770,1967,ACTRESS IN A SUPPORTING ROLE,False,Mildred Natwick,academy_award
+1771,1967,ACTRESS IN A SUPPORTING ROLE,True,Estelle Parsons,academy_award
+1772,1967,ACTRESS IN A SUPPORTING ROLE,False,Beah Richards,academy_award
+1773,1967,ACTRESS IN A SUPPORTING ROLE,False,Katharine Ross,academy_award
+1774,1968,ACTRESS IN A SUPPORTING ROLE,False,Lynn Carlin,academy_award
+1775,1968,ACTRESS IN A SUPPORTING ROLE,True,Ruth Gordon,academy_award
+1776,1968,ACTRESS IN A SUPPORTING ROLE,False,Sondra Locke,academy_award
+1777,1968,ACTRESS IN A SUPPORTING ROLE,False,Kay Medford,academy_award
+1778,1968,ACTRESS IN A SUPPORTING ROLE,False,Estelle Parsons,academy_award
+1779,1969,ACTRESS IN A SUPPORTING ROLE,False,Catherine Burns,academy_award
+1780,1969,ACTRESS IN A SUPPORTING ROLE,False,Dyan Cannon,academy_award
+1781,1969,ACTRESS IN A SUPPORTING ROLE,True,Goldie Hawn,academy_award
+1782,1969,ACTRESS IN A SUPPORTING ROLE,False,Sylvia Miles,academy_award
+1783,1969,ACTRESS IN A SUPPORTING ROLE,False,Susannah York,academy_award
+1784,1970,ACTRESS IN A SUPPORTING ROLE,False,Karen Black,academy_award
+1785,1970,ACTRESS IN A SUPPORTING ROLE,False,Lee Grant,academy_award
+1786,1970,ACTRESS IN A SUPPORTING ROLE,True,Helen Hayes,academy_award
+1787,1970,ACTRESS IN A SUPPORTING ROLE,False,Sally Kellerman,academy_award
+1788,1970,ACTRESS IN A SUPPORTING ROLE,False,Maureen Stapleton,academy_award
+1789,1971,ACTRESS IN A SUPPORTING ROLE,False,Ann-Margret,academy_award
+1790,1971,ACTRESS IN A SUPPORTING ROLE,False,Ellen Burstyn,academy_award
+1791,1971,ACTRESS IN A SUPPORTING ROLE,False,Barbara Harris,academy_award
+1792,1971,ACTRESS IN A SUPPORTING ROLE,True,Cloris Leachman,academy_award
+1793,1971,ACTRESS IN A SUPPORTING ROLE,False,Margaret Leighton,academy_award
+1794,1972,ACTRESS IN A SUPPORTING ROLE,False,Jeannie Berlin,academy_award
+1795,1972,ACTRESS IN A SUPPORTING ROLE,True,Eileen Heckart,academy_award
+1796,1972,ACTRESS IN A SUPPORTING ROLE,False,Geraldine Page,academy_award
+1797,1972,ACTRESS IN A SUPPORTING ROLE,False,Susan Tyrrell,academy_award
+1798,1972,ACTRESS IN A SUPPORTING ROLE,False,Shelley Winters,academy_award
+1799,1973,ACTRESS IN A SUPPORTING ROLE,False,Linda Blair,academy_award
+1800,1973,ACTRESS IN A SUPPORTING ROLE,False,Candy Clark,academy_award
+1801,1973,ACTRESS IN A SUPPORTING ROLE,False,Madeline Kahn,academy_award
+1802,1973,ACTRESS IN A SUPPORTING ROLE,True,Tatum O'Neal,academy_award
+1803,1973,ACTRESS IN A SUPPORTING ROLE,False,Sylvia Sidney,academy_award
+1804,1974,ACTRESS IN A SUPPORTING ROLE,True,Ingrid Bergman,academy_award
+1805,1974,ACTRESS IN A SUPPORTING ROLE,False,Valentina Cortese,academy_award
+1806,1974,ACTRESS IN A SUPPORTING ROLE,False,Madeline Kahn,academy_award
+1807,1974,ACTRESS IN A SUPPORTING ROLE,False,Diane Ladd,academy_award
+1808,1974,ACTRESS IN A SUPPORTING ROLE,False,Talia Shire,academy_award
+1809,1975,ACTRESS IN A SUPPORTING ROLE,False,Ronee Blakley,academy_award
+1810,1975,ACTRESS IN A SUPPORTING ROLE,True,Lee Grant,academy_award
+1811,1975,ACTRESS IN A SUPPORTING ROLE,False,Sylvia Miles,academy_award
+1812,1975,ACTRESS IN A SUPPORTING ROLE,False,Lily Tomlin,academy_award
+1813,1975,ACTRESS IN A SUPPORTING ROLE,False,Brenda Vaccaro,academy_award
+1814,1976,ACTRESS IN A SUPPORTING ROLE,False,Jane Alexander,academy_award
+1815,1976,ACTRESS IN A SUPPORTING ROLE,False,Jodie Foster,academy_award
+1816,1976,ACTRESS IN A SUPPORTING ROLE,False,Lee Grant,academy_award
+1817,1976,ACTRESS IN A SUPPORTING ROLE,False,Piper Laurie,academy_award
+1818,1976,ACTRESS IN A SUPPORTING ROLE,True,Beatrice Straight,academy_award
+1819,1977,ACTRESS IN A SUPPORTING ROLE,False,Leslie Browne,academy_award
+1820,1977,ACTRESS IN A SUPPORTING ROLE,False,Quinn Cummings,academy_award
+1821,1977,ACTRESS IN A SUPPORTING ROLE,False,Melinda Dillon,academy_award
+1822,1977,ACTRESS IN A SUPPORTING ROLE,True,Vanessa Redgrave,academy_award
+1823,1977,ACTRESS IN A SUPPORTING ROLE,False,Tuesday Weld,academy_award
+1824,1978,ACTRESS IN A SUPPORTING ROLE,False,Dyan Cannon,academy_award
+1825,1978,ACTRESS IN A SUPPORTING ROLE,False,Penelope Milford,academy_award
+1826,1978,ACTRESS IN A SUPPORTING ROLE,True,Maggie Smith,academy_award
+1827,1978,ACTRESS IN A SUPPORTING ROLE,False,Maureen Stapleton,academy_award
+1828,1978,ACTRESS IN A SUPPORTING ROLE,False,Meryl Streep,academy_award
+1829,1979,ACTRESS IN A SUPPORTING ROLE,False,Jane Alexander,academy_award
+1830,1979,ACTRESS IN A SUPPORTING ROLE,False,Barbara Barrie,academy_award
+1831,1979,ACTRESS IN A SUPPORTING ROLE,False,Candice Bergen,academy_award
+1832,1979,ACTRESS IN A SUPPORTING ROLE,False,Mariel Hemingway,academy_award
+1833,1979,ACTRESS IN A SUPPORTING ROLE,True,Meryl Streep,academy_award
+1834,1980,ACTRESS IN A SUPPORTING ROLE,False,Eileen Brennan,academy_award
+1835,1980,ACTRESS IN A SUPPORTING ROLE,False,Eva Le Gallienne,academy_award
+1836,1980,ACTRESS IN A SUPPORTING ROLE,False,Cathy Moriarty,academy_award
+1837,1980,ACTRESS IN A SUPPORTING ROLE,False,Diana Scarwid,academy_award
+1838,1980,ACTRESS IN A SUPPORTING ROLE,True,Mary Steenburgen,academy_award
+1839,1981,ACTRESS IN A SUPPORTING ROLE,False,Melinda Dillon,academy_award
+1840,1981,ACTRESS IN A SUPPORTING ROLE,False,Jane Fonda,academy_award
+1841,1981,ACTRESS IN A SUPPORTING ROLE,False,Joan Hackett,academy_award
+1842,1981,ACTRESS IN A SUPPORTING ROLE,False,Elizabeth McGovern,academy_award
+1843,1981,ACTRESS IN A SUPPORTING ROLE,True,Maureen Stapleton,academy_award
+1844,1982,ACTRESS IN A SUPPORTING ROLE,False,Glenn Close,academy_award
+1845,1982,ACTRESS IN A SUPPORTING ROLE,False,Teri Garr,academy_award
+1846,1982,ACTRESS IN A SUPPORTING ROLE,True,Jessica Lange,academy_award
+1847,1982,ACTRESS IN A SUPPORTING ROLE,False,Kim Stanley,academy_award
+1848,1982,ACTRESS IN A SUPPORTING ROLE,False,Lesley Ann Warren,academy_award
+1849,1983,ACTRESS IN A SUPPORTING ROLE,False,Cher,academy_award
+1850,1983,ACTRESS IN A SUPPORTING ROLE,False,Glenn Close,academy_award
+1851,1983,ACTRESS IN A SUPPORTING ROLE,True,Linda Hunt,academy_award
+1852,1983,ACTRESS IN A SUPPORTING ROLE,False,Amy Irving,academy_award
+1853,1983,ACTRESS IN A SUPPORTING ROLE,False,Alfre Woodard,academy_award
+1854,1984,ACTRESS IN A SUPPORTING ROLE,True,Peggy Ashcroft,academy_award
+1855,1984,ACTRESS IN A SUPPORTING ROLE,False,Glenn Close,academy_award
+1856,1984,ACTRESS IN A SUPPORTING ROLE,False,Lindsay Crouse,academy_award
+1857,1984,ACTRESS IN A SUPPORTING ROLE,False,Christine Lahti,academy_award
+1858,1984,ACTRESS IN A SUPPORTING ROLE,False,Geraldine Page,academy_award
+1859,1985,ACTRESS IN A SUPPORTING ROLE,False,Margaret Avery,academy_award
+1860,1985,ACTRESS IN A SUPPORTING ROLE,True,Anjelica Huston,academy_award
+1861,1985,ACTRESS IN A SUPPORTING ROLE,False,Amy Madigan,academy_award
+1862,1985,ACTRESS IN A SUPPORTING ROLE,False,Meg Tilly,academy_award
+1863,1985,ACTRESS IN A SUPPORTING ROLE,False,Oprah Winfrey,academy_award
+1864,1986,ACTRESS IN A SUPPORTING ROLE,False,Tess Harper,academy_award
+1865,1986,ACTRESS IN A SUPPORTING ROLE,False,Piper Laurie,academy_award
+1866,1986,ACTRESS IN A SUPPORTING ROLE,False,Mary Elizabeth Mastrantonio,academy_award
+1867,1986,ACTRESS IN A SUPPORTING ROLE,False,Maggie Smith,academy_award
+1868,1986,ACTRESS IN A SUPPORTING ROLE,True,Dianne Wiest,academy_award
+1869,1987,ACTRESS IN A SUPPORTING ROLE,False,Norma Aleandro,academy_award
+1870,1987,ACTRESS IN A SUPPORTING ROLE,False,Anne Archer,academy_award
+1871,1987,ACTRESS IN A SUPPORTING ROLE,True,Olympia Dukakis,academy_award
+1872,1987,ACTRESS IN A SUPPORTING ROLE,False,Anne Ramsey,academy_award
+1873,1987,ACTRESS IN A SUPPORTING ROLE,False,Ann Sothern,academy_award
+1874,1988,ACTRESS IN A SUPPORTING ROLE,False,Joan Cusack,academy_award
+1875,1988,ACTRESS IN A SUPPORTING ROLE,True,Geena Davis,academy_award
+1876,1988,ACTRESS IN A SUPPORTING ROLE,False,Frances McDormand,academy_award
+1877,1988,ACTRESS IN A SUPPORTING ROLE,False,Michelle Pfeiffer,academy_award
+1878,1988,ACTRESS IN A SUPPORTING ROLE,False,Sigourney Weaver,academy_award
+1879,1989,ACTRESS IN A SUPPORTING ROLE,True,Brenda Fricker,academy_award
+1880,1989,ACTRESS IN A SUPPORTING ROLE,False,Anjelica Huston,academy_award
+1881,1989,ACTRESS IN A SUPPORTING ROLE,False,Lena Olin,academy_award
+1882,1989,ACTRESS IN A SUPPORTING ROLE,False,Julia Roberts,academy_award
+1883,1989,ACTRESS IN A SUPPORTING ROLE,False,Dianne Wiest,academy_award
+1884,1990,ACTRESS IN A SUPPORTING ROLE,False,Annette Bening,academy_award
+1885,1990,ACTRESS IN A SUPPORTING ROLE,False,Lorraine Bracco,academy_award
+1886,1990,ACTRESS IN A SUPPORTING ROLE,True,Whoopi Goldberg,academy_award
+1887,1990,ACTRESS IN A SUPPORTING ROLE,False,Diane Ladd,academy_award
+1888,1990,ACTRESS IN A SUPPORTING ROLE,False,Mary McDonnell,academy_award
+1889,1991,ACTRESS IN A SUPPORTING ROLE,False,Diane Ladd,academy_award
+1890,1991,ACTRESS IN A SUPPORTING ROLE,False,Juliette Lewis,academy_award
+1891,1991,ACTRESS IN A SUPPORTING ROLE,False,Kate Nelligan,academy_award
+1892,1991,ACTRESS IN A SUPPORTING ROLE,True,Mercedes Ruehl,academy_award
+1893,1991,ACTRESS IN A SUPPORTING ROLE,False,Jessica Tandy,academy_award
+1894,1992,ACTRESS IN A SUPPORTING ROLE,False,Judy Davis,academy_award
+1895,1992,ACTRESS IN A SUPPORTING ROLE,False,Joan Plowright,academy_award
+1896,1992,ACTRESS IN A SUPPORTING ROLE,False,Vanessa Redgrave,academy_award
+1897,1992,ACTRESS IN A SUPPORTING ROLE,False,Miranda Richardson,academy_award
+1898,1992,ACTRESS IN A SUPPORTING ROLE,True,Marisa Tomei,academy_award
+1899,1993,ACTRESS IN A SUPPORTING ROLE,False,Holly Hunter,academy_award
+1900,1993,ACTRESS IN A SUPPORTING ROLE,True,Anna Paquin,academy_award
+1901,1993,ACTRESS IN A SUPPORTING ROLE,False,Rosie Perez,academy_award
+1902,1993,ACTRESS IN A SUPPORTING ROLE,False,Winona Ryder,academy_award
+1903,1993,ACTRESS IN A SUPPORTING ROLE,False,Emma Thompson,academy_award
+1904,1994,ACTRESS IN A SUPPORTING ROLE,False,Rosemary Harris,academy_award
+1905,1994,ACTRESS IN A SUPPORTING ROLE,False,Helen Mirren,academy_award
+1906,1994,ACTRESS IN A SUPPORTING ROLE,False,Uma Thurman,academy_award
+1907,1994,ACTRESS IN A SUPPORTING ROLE,False,Jennifer Tilly,academy_award
+1908,1994,ACTRESS IN A SUPPORTING ROLE,True,Dianne Wiest,academy_award
+1909,1995,ACTRESS IN A SUPPORTING ROLE,False,Joan Allen,academy_award
+1910,1995,ACTRESS IN A SUPPORTING ROLE,False,Kathleen Quinlan,academy_award
+1911,1995,ACTRESS IN A SUPPORTING ROLE,True,Mira Sorvino,academy_award
+1912,1995,ACTRESS IN A SUPPORTING ROLE,False,Mare Winningham,academy_award
+1913,1995,ACTRESS IN A SUPPORTING ROLE,False,Kate Winslet,academy_award
+1914,1996,ACTRESS IN A SUPPORTING ROLE,False,Joan Allen,academy_award
+1915,1996,ACTRESS IN A SUPPORTING ROLE,False,Lauren Bacall,academy_award
+1916,1996,ACTRESS IN A SUPPORTING ROLE,True,Juliette Binoche,academy_award
+1917,1996,ACTRESS IN A SUPPORTING ROLE,False,Barbara Hershey,academy_award
+1918,1996,ACTRESS IN A SUPPORTING ROLE,False,Marianne Jean-Baptiste,academy_award
+1919,1997,ACTRESS IN A SUPPORTING ROLE,True,Kim Basinger,academy_award
+1920,1997,ACTRESS IN A SUPPORTING ROLE,False,Joan Cusack,academy_award
+1921,1997,ACTRESS IN A SUPPORTING ROLE,False,Minnie Driver,academy_award
+1922,1997,ACTRESS IN A SUPPORTING ROLE,False,Julianne Moore,academy_award
+1923,1997,ACTRESS IN A SUPPORTING ROLE,False,Gloria Stuart,academy_award
+1924,1998,ACTRESS IN A SUPPORTING ROLE,False,Kathy Bates,academy_award
+1925,1998,ACTRESS IN A SUPPORTING ROLE,False,Brenda Blethyn,academy_award
+1926,1998,ACTRESS IN A SUPPORTING ROLE,True,Judi Dench,academy_award
+1927,1998,ACTRESS IN A SUPPORTING ROLE,False,Rachel Griffiths,academy_award
+1928,1998,ACTRESS IN A SUPPORTING ROLE,False,Lynn Redgrave,academy_award
+1929,1999,ACTRESS IN A SUPPORTING ROLE,False,Toni Collette,academy_award
+1930,1999,ACTRESS IN A SUPPORTING ROLE,True,Angelina Jolie,academy_award
+1931,1999,ACTRESS IN A SUPPORTING ROLE,False,Catherine Keener,academy_award
+1932,1999,ACTRESS IN A SUPPORTING ROLE,False,Samantha Morton,academy_award
+1933,1999,ACTRESS IN A SUPPORTING ROLE,False,Chloë Sevigny,academy_award
+1934,2000,ACTRESS IN A SUPPORTING ROLE,False,Judi Dench,academy_award
+1935,2000,ACTRESS IN A SUPPORTING ROLE,True,Marcia Gay Harden,academy_award
+1936,2000,ACTRESS IN A SUPPORTING ROLE,False,Kate Hudson,academy_award
+1937,2000,ACTRESS IN A SUPPORTING ROLE,False,Frances McDormand,academy_award
+1938,2000,ACTRESS IN A SUPPORTING ROLE,False,Julie Walters,academy_award
+1939,2001,ACTRESS IN A SUPPORTING ROLE,True,Jennifer Connelly,academy_award
+1940,2001,ACTRESS IN A SUPPORTING ROLE,False,Helen Mirren,academy_award
+1941,2001,ACTRESS IN A SUPPORTING ROLE,False,Maggie Smith,academy_award
+1942,2001,ACTRESS IN A SUPPORTING ROLE,False,Marisa Tomei,academy_award
+1943,2001,ACTRESS IN A SUPPORTING ROLE,False,Kate Winslet,academy_award
+1944,2002,ACTRESS IN A SUPPORTING ROLE,False,Kathy Bates,academy_award
+1945,2002,ACTRESS IN A SUPPORTING ROLE,False,Julianne Moore,academy_award
+1946,2002,ACTRESS IN A SUPPORTING ROLE,False,Queen Latifah,academy_award
+1947,2002,ACTRESS IN A SUPPORTING ROLE,False,Meryl Streep,academy_award
+1948,2002,ACTRESS IN A SUPPORTING ROLE,True,Catherine Zeta-Jones,academy_award
+1949,2003,ACTRESS IN A SUPPORTING ROLE,False,Shohreh Aghdashloo,academy_award
+1950,2003,ACTRESS IN A SUPPORTING ROLE,False,Patricia Clarkson,academy_award
+1951,2003,ACTRESS IN A SUPPORTING ROLE,False,Marcia Gay Harden,academy_award
+1952,2003,ACTRESS IN A SUPPORTING ROLE,False,Holly Hunter,academy_award
+1953,2003,ACTRESS IN A SUPPORTING ROLE,True,Renée Zellweger,academy_award
+1954,2004,ACTRESS IN A SUPPORTING ROLE,True,Cate Blanchett,academy_award
+1955,2004,ACTRESS IN A SUPPORTING ROLE,False,Laura Linney,academy_award
+1956,2004,ACTRESS IN A SUPPORTING ROLE,False,Virginia Madsen,academy_award
+1957,2004,ACTRESS IN A SUPPORTING ROLE,False,Sophie Okonedo,academy_award
+1958,2004,ACTRESS IN A SUPPORTING ROLE,False,Natalie Portman,academy_award
+1959,2005,ACTRESS IN A SUPPORTING ROLE,False,Amy Adams,academy_award
+1960,2005,ACTRESS IN A SUPPORTING ROLE,False,Catherine Keener,academy_award
+1961,2005,ACTRESS IN A SUPPORTING ROLE,False,Frances McDormand,academy_award
+1962,2005,ACTRESS IN A SUPPORTING ROLE,True,Rachel Weisz,academy_award
+1963,2005,ACTRESS IN A SUPPORTING ROLE,False,Michelle Williams,academy_award
+1964,2006,ACTRESS IN A SUPPORTING ROLE,False,Adriana Barraza,academy_award
+1965,2006,ACTRESS IN A SUPPORTING ROLE,False,Cate Blanchett,academy_award
+1966,2006,ACTRESS IN A SUPPORTING ROLE,False,Abigail Breslin,academy_award
+1967,2006,ACTRESS IN A SUPPORTING ROLE,True,Jennifer Hudson,academy_award
+1968,2006,ACTRESS IN A SUPPORTING ROLE,False,Rinko Kikuchi,academy_award
+1969,2007,ACTRESS IN A SUPPORTING ROLE,False,Cate Blanchett,academy_award
+1970,2007,ACTRESS IN A SUPPORTING ROLE,False,Ruby Dee,academy_award
+1971,2007,ACTRESS IN A SUPPORTING ROLE,False,Saoirse Ronan,academy_award
+1972,2007,ACTRESS IN A SUPPORTING ROLE,False,Amy Ryan,academy_award
+1973,2007,ACTRESS IN A SUPPORTING ROLE,True,Tilda Swinton,academy_award
+1974,2008,ACTRESS IN A SUPPORTING ROLE,False,Amy Adams,academy_award
+1975,2008,ACTRESS IN A SUPPORTING ROLE,True,Penélope Cruz,academy_award
+1976,2008,ACTRESS IN A SUPPORTING ROLE,False,Viola Davis,academy_award
+1977,2008,ACTRESS IN A SUPPORTING ROLE,False,Taraji P. Henson,academy_award
+1978,2008,ACTRESS IN A SUPPORTING ROLE,False,Marisa Tomei,academy_award
+1979,2009,ACTRESS IN A SUPPORTING ROLE,False,Penélope Cruz,academy_award
+1980,2009,ACTRESS IN A SUPPORTING ROLE,False,Vera Farmiga,academy_award
+1981,2009,ACTRESS IN A SUPPORTING ROLE,False,Maggie Gyllenhaal,academy_award
+1982,2009,ACTRESS IN A SUPPORTING ROLE,False,Anna Kendrick,academy_award
+1983,2009,ACTRESS IN A SUPPORTING ROLE,True,Mo'Nique,academy_award
+1984,2010,ACTRESS IN A SUPPORTING ROLE,False,Amy Adams,academy_award
+1985,2010,ACTRESS IN A SUPPORTING ROLE,False,Helena Bonham Carter,academy_award
+1986,2010,ACTRESS IN A SUPPORTING ROLE,True,Melissa Leo,academy_award
+1987,2010,ACTRESS IN A SUPPORTING ROLE,False,Hailee Steinfeld,academy_award
+1988,2010,ACTRESS IN A SUPPORTING ROLE,False,Jacki Weaver,academy_award
+1989,2011,ACTRESS IN A SUPPORTING ROLE,False,Bérénice Bejo,academy_award
+1990,2011,ACTRESS IN A SUPPORTING ROLE,False,Jessica Chastain,academy_award
+1991,2011,ACTRESS IN A SUPPORTING ROLE,False,Melissa McCarthy,academy_award
+1992,2011,ACTRESS IN A SUPPORTING ROLE,False,Janet McTeer,academy_award
+1993,2011,ACTRESS IN A SUPPORTING ROLE,True,Octavia Spencer,academy_award
+1994,2012,ACTRESS IN A SUPPORTING ROLE,False,Amy Adams,academy_award
+1995,2012,ACTRESS IN A SUPPORTING ROLE,False,Sally Field,academy_award
+1996,2012,ACTRESS IN A SUPPORTING ROLE,True,Anne Hathaway,academy_award
+1997,2012,ACTRESS IN A SUPPORTING ROLE,False,Helen Hunt,academy_award
+1998,2012,ACTRESS IN A SUPPORTING ROLE,False,Jacki Weaver,academy_award
+1999,2013,ACTRESS IN A SUPPORTING ROLE,False,Sally Hawkins,academy_award
+2000,2013,ACTRESS IN A SUPPORTING ROLE,False,Jennifer Lawrence,academy_award
+2001,2013,ACTRESS IN A SUPPORTING ROLE,True,Lupita Nyong'o,academy_award
+2002,2013,ACTRESS IN A SUPPORTING ROLE,False,Julia Roberts,academy_award
+2003,2013,ACTRESS IN A SUPPORTING ROLE,False,June Squibb,academy_award
+2004,2014,ACTRESS IN A SUPPORTING ROLE,True,Patricia Arquette,academy_award
+2005,2014,ACTRESS IN A SUPPORTING ROLE,False,Laura Dern,academy_award
+2006,2014,ACTRESS IN A SUPPORTING ROLE,False,Keira Knightley,academy_award
+2007,2014,ACTRESS IN A SUPPORTING ROLE,False,Emma Stone,academy_award
+2008,2014,ACTRESS IN A SUPPORTING ROLE,False,Meryl Streep,academy_award
+2009,2015,ACTRESS IN A SUPPORTING ROLE,False,Jennifer Jason Leigh,academy_award
+2010,2015,ACTRESS IN A SUPPORTING ROLE,False,Rooney Mara,academy_award
+2011,2015,ACTRESS IN A SUPPORTING ROLE,False,Rachel McAdams,academy_award
+2012,2015,ACTRESS IN A SUPPORTING ROLE,True,Alicia Vikander,academy_award
+2013,2015,ACTRESS IN A SUPPORTING ROLE,False,Kate Winslet,academy_award
+2014,2016,ACTRESS IN A SUPPORTING ROLE,True,Viola Davis,academy_award
+2015,2016,ACTRESS IN A SUPPORTING ROLE,False,Naomie Harris,academy_award
+2016,2016,ACTRESS IN A SUPPORTING ROLE,False,Nicole Kidman,academy_award
+2017,2016,ACTRESS IN A SUPPORTING ROLE,False,Octavia Spencer,academy_award
+2018,2016,ACTRESS IN A SUPPORTING ROLE,False,Michelle Williams,academy_award
+2019,2017,ACTRESS IN A SUPPORTING ROLE,False,Mary J. Blige,academy_award
+2020,2017,ACTRESS IN A SUPPORTING ROLE,True,Allison Janney,academy_award
+2021,2017,ACTRESS IN A SUPPORTING ROLE,False,Lesley Manville,academy_award
+2022,2017,ACTRESS IN A SUPPORTING ROLE,False,Laurie Metcalf,academy_award
+2023,2017,ACTRESS IN A SUPPORTING ROLE,False,Octavia Spencer,academy_award
+2024,2018,BEST PICTURE,True,The Shape of Water,academy_award
+2025,2018,BEST PICTURE,False,Call Me By Your Name,academy_award
+2026,2018,BEST PICTURE,False,Darkest Hour,academy_award
+2027,2018,BEST PICTURE,False,Dunkirk,academy_award
+2028,2018,BEST PICTURE,False,Get Out,academy_award
+2029,2018,BEST PICTURE,False,Lady Bird,academy_award
+2030,2018,BEST PICTURE,False,Phantom Thread,academy_award
+2031,2018,BEST PICTURE,False,The Post,academy_award
+2032,2018,BEST PICTURE,False,"Three Billbaords Outside of Ebbing, Missouri",academy_award
+2033,2018,ACTOR,True,Gary Oldman,academy_award
+2034,2018,ACTOR,False,Timothee Chalamet,academy_award
+2035,2018,ACTOR,False,Daniel Day-Lewis,academy_award
+2036,2018,ACTOR,False,Daniel Kaluuya,academy_award
+2037,2018,ACTOR,False,Danzel Washington,academy_award
+2038,2018,ACTRESS,True,Frances McDormand,academy_award
+2039,2018,ACTRESS,False,Sally Hawkins,academy_award
+2040,2018,ACTRESS,False,Margot Robbie,academy_award
+2041,2018,ACTRESS,False,Saoirse Ronan,academy_award
+2042,2018,ACTRESS,False,Meryl Streep,academy_award
+2043,2018,ACTOR IN A SUPPORTING ROLE,True,Gary Oldman,academy_award
+2044,2018,ACTOR IN A SUPPORTING ROLE,False,Timothee Chalamet,academy_award
+2045,2018,ACTOR IN A SUPPORTING ROLE,False,Daniel Day-Lewis,academy_award
+2046,2018,ACTOR IN A SUPPORTING ROLE,False,Daniel Kaluuya,academy_award
+2047,2018,ACTOR IN A SUPPORTING ROLE,False,Danzel Washington,academy_award
+2048,2018,ACTRESS IN A SUPPORTING ROLE,True,Frances McDormand,academy_award
+2049,2018,ACTRESS IN A SUPPORTING ROLE,False,Sally Hawkins,academy_award
+2050,2018,ACTRESS IN A SUPPORTING ROLE,False,Margot Robbie,academy_award
+2051,2018,ACTRESS IN A SUPPORTING ROLE,False,Saoirse Ronan,academy_award
+2052,2018,ACTRESS IN A SUPPORTING ROLE,False,Meryl Streep,academy_award
+2053,2019,BEST PICTURE,True,Green Book,academy_award
+2054,2019,BEST PICTURE,False,Black Panther,academy_award
+2055,2019,BEST PICTURE,False,Blackkklansman,academy_award
+2056,2019,BEST PICTURE,False,Bohemian Rhaspody,academy_award
+2057,2019,BEST PICTURE,False,The Favourite,academy_award
+2058,2019,BEST PICTURE,False,Roma,academy_award
+2059,2019,BEST PICTURE,False,A Star Is Born,academy_award
+2060,2019,BEST PICTURE,False,Vice,academy_award
+2061,2019,ACTOR,True,Rami Malek,academy_award
+2062,2019,ACTOR,False,Christian Bale,academy_award
+2063,2019,ACTOR,False,Bradley Cooper,academy_award
+2064,2019,ACTOR,False,Willem Dafoe,academy_award
+2065,2019,ACTOR,False,Viggo Mortensen,academy_award
+2066,2019,ACTRESS,True,Olivia Coleman,academy_award
+2067,2019,ACTRESS,False,Yalitza Aparicio,academy_award
+2068,2019,ACTRESS,False,Glenn Close,academy_award
+2069,2019,ACTRESS,False,Lady Gaga,academy_award
+2070,2019,ACTRESS,False,Melissa McCarthy,academy_award
+2071,2019,ACTOR IN A SUPPORTING ROLE,True,Mahershala Ali,academy_award
+2072,2019,ACTOR IN A SUPPORTING ROLE,False,Adam Driver,academy_award
+2073,2019,ACTOR IN A SUPPORTING ROLE,False,Sam Elliott,academy_award
+2074,2019,ACTOR IN A SUPPORTING ROLE,False,Richard E. Grant,academy_award
+2075,2019,ACTOR IN A SUPPORTING ROLE,False,Sam Rockwell,academy_award
+2076,2019,ACTRESS IN A SUPPORTING ROLE,True,Regina King,academy_award
+2077,2019,ACTRESS IN A SUPPORTING ROLE,False,Amy Adams,academy_award
+2078,2019,ACTRESS IN A SUPPORTING ROLE,False,Marina De Tavira,academy_award
+2079,2019,ACTRESS IN A SUPPORTING ROLE,False,Emma Stone,academy_award
+2080,2019,ACTRESS IN A SUPPORTING ROLE,False,Rachel Weisz,academy_award
+2081,2020,BEST PICTURE,False,Ford V Ferrari,academy_award
+2082,2020,BEST PICTURE,False,The Irishman,academy_award
+2083,2020,BEST PICTURE,False,Jojo Rabbit,academy_award
+2084,2020,BEST PICTURE,False,Joker,academy_award
+2085,2020,BEST PICTURE,False,Little Woman,academy_award
+2086,2020,BEST PICTURE,False,Marriage Story,academy_award
+2087,2020,BEST PICTURE,False,1917,academy_award
+2088,2020,BEST PICTURE,False,Once Upon A Time In Hollywood,academy_award
+2089,2020,BEST PICTURE,False,Parasite,academy_award
+2090,2020,ACTOR,False,Antonio Banderas,academy_award
+2091,2020,ACTOR,False,Leonardo Dicaprio,academy_award
+2092,2020,ACTOR,False,Adam Driver,academy_award
+2093,2020,ACTOR,False,Joaquin Phoenix,academy_award
+2094,2020,ACTOR,False,Jonathan Pryce,academy_award
+2095,2020,ACTRESS,False,Cynthia Erivo,academy_award
+2096,2020,ACTRESS,False,Scarlett Johansson,academy_award
+2097,2020,ACTRESS,False,Saoirse Ronan,academy_award
+2098,2020,ACTRESS,False,Charlize Theron,academy_award
+2099,2020,ACTRESS,False,Renee Zellweger,academy_award
+2100,2020,ACTOR IN A SUPPORTING ROLE,False,Tom Hanks,academy_award
+2101,2020,ACTOR IN A SUPPORTING ROLE,False,Anthony Hopkins,academy_award
+2102,2020,ACTOR IN A SUPPORTING ROLE,False,Al Pacino,academy_award
+2103,2020,ACTOR IN A SUPPORTING ROLE,False,Joe Pesci,academy_award
+2104,2020,ACTOR IN A SUPPORTING ROLE,False,Brad Pitt,academy_award
+2105,2020,ACTRESS IN A SUPPORTING ROLE,False,Kathy Bates,academy_award
+2106,2020,ACTRESS IN A SUPPORTING ROLE,False,Laura Dern,academy_award
+2107,2020,ACTRESS IN A SUPPORTING ROLE,False,Scarlett Johansson,academy_award
+2108,2020,ACTRESS IN A SUPPORTING ROLE,False,Florence Pugh,academy_award
+2109,2020,ACTRESS IN A SUPPORTING ROLE,False,Margot Robbie,academy_award
