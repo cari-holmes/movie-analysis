@@ -1,6 +1,6 @@
 ### And the Oscar goes to...
 
-Using historical data from several other well-known film awards, I will create classification models to if the Oscar winners can be determined based upon previous awards. 
+Using historical data from several other well-known film awards, I will create classification models to see if the Oscar winners can be determined based upon previous awards. 
 The categories I will look at are:
 - Best Film
 - Best Actor/Actress
