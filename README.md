@@ -7,16 +7,15 @@ The categories I will look at are:
 - Supporting Actor/Actress
 
 #### Acquire
-Web scrape the following award show nominees and winners:
+Use Kaggle datasets to analyse:
+- Academy Awards
 - British Academy Film Awards
 - Golden Globes
-- Critic's Choice Awards
 - Screen Actors Guild Award
 
 #### Prepare
-- Combine award show data sets
 - Normalize data
-- One-hot-encode award 'win' category
+- Combine award show data sets
 
 #### Explore
 
